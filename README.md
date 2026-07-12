@@ -9,17 +9,15 @@
   <a href="https://www.instagram.com/diegooris/"><img src="https://img.shields.io/badge/Instagram-%40diegooris-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
 </p>
 
----
+I am a **CTO, Web3 Architect, and 3D Systems Engineer** with **6+ years of experience** building and delivering production systems globally (Switzerland, USA, Portugal, Brazil). My core work focuses on secure cryptography setups, blockchain protocols, scalable backends, and **3D/WebGL engines**.
 
-I am a **CTO, Web3 Architect, and 3D Interactive Systems Engineer** with **6+ years of professional experience** delivering production-grade platforms globally (Switzerland, USA, Portugal, Brazil). I specialize in designing and shipping mathematically secure cryptography systems, low-level blockchain protocols, scalable enterprise SaaS architectures, and high-performance **3D/WebGL simulation engines**. 
+I write clean, low-level code, manage dev teams, and handle the entire product lifecycle—from initial MVP development to final production-grade releases.
 
-I bridge the gap between high-level business models and low-level bytecode execution, managing entire technical roadmaps from rapid MVP ideation to highly polished, production-ready final application releases.
-
-### 💼 Elite Consulting & Strategic Partnering
-Beyond active system engineering, I provide top-tier advisory and consulting services for global teams:
-*   ⛓️ **Blockchain Consulting:** Cryptographic design (Argon2id, AES, BIPs), low-level protocol optimization, smart contract security audits, and secure wallet keychain architecture.
-*   📐 **Software Architecture Consulting:** Blueprinting high-throughput SaaS ecosystems, real-time spatial/PostGIS routing pipelines, containerized deployments (Google Cloud Run, ECS), and hardware-accelerated 3D systems.
-*   🧠 **Developer & Team Consulting:** Mentoring engineering squads on clean code, EVM/Foundry testing pipelines, secure Web3 coding guidelines, and agile execution cycles to dramatically speed up product delivery.
+### 📐 Consulting & Advisory
+I also work with teams as a technical advisor and consultant on specific complex domains:
+*   **Blockchain & Cryptography:** Security audits, wallet keychain design (BIP39/BIP44), Argon2id/AES-256-GCM configurations, and EVM/Waves smart contract auditing.
+*   **Systems Architecture:** High-throughput backends, spatial/PostGIS data engines, containerized cloud infrastructure (AWS/GCP), and hardware-accelerated 3D WebGL layouts.
+*   **Developer Mentorship:** Setting up secure coding standards, automated testing pipelines (Foundry/Hardhat), and modernizing engineering practices to ship products faster.
 
 ---
 
@@ -35,14 +33,14 @@ I was contracted directly by **[Valdir Brunet](https://www.instagram.com/brunet_
 
 ---
 
-## ⚡ Flagship Project: B2 Wallet
-### **Multi-Chain Self-Custody Browser Extension & Mobile App (EVM, Solana, UTXO & Alt-Chains)**
+## ⚡ B2 Wallet
+### **Multi-Chain Self-Custody Browser Extension & Mobile App**
 > **Core Stack:** React, Vite, TypeScript, Ethers.js, WebCrypto API, Argon2id KDF, AES-256-GCM.  
-> **Coverage:** EVM Layer-2s, Solana, UTXO chains, Tron, Waves, Stellar, Cardano, Polkadot, Monero, and Zcash.
+> **Chains:** EVM, Solana, UTXO, Tron, Waves, Stellar, Cardano, Polkadot, Monero, and Zcash.
 
-*   **Defense-Grade Local Security:** Implemented a secure key derivation and storage system utilizing **Argon2id KDF** to protect seed phrases against high-performance GPU-based brute-force attacks, combined with authenticated **AES-256-GCM block ciphers** for encrypting the local state.
-*   **Performance:** Fluid, hardware-accelerated UI transitions, a multi-currency responsive SVG dashboard, and real-time smart contract diagnostic engines tracking transaction payloads.
-*   **Repository:** [View B2 Wallet](https://github.com/D-H-O-R-A/b2-wallet)
+*   **Cryptography & Security:** Seed phrase protection using **Argon2id KDF** against GPU brute-force attacks, combined with authenticated **AES-256-GCM** block ciphers to encrypt the local state.
+*   **Performance:** Optimized lightweight UI loops, real-time transaction decoding, and custom responsive SVG metrics layout.
+*   **Repository:** [View Codebase](https://github.com/D-H-O-R-A/b2-wallet)
 
 ---
 
