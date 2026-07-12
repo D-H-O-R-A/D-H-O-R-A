@@ -24,12 +24,12 @@ I also work with teams as a technical advisor and consultant on specific complex
 ## 🏆 Special Operations Case Study: Resolving the Unsolvable
 > *"Diego Antunes resolved in months what Silicon Valley senior developers failed to deliver for 8 years."*
 
-I was contracted directly by **[Valdir Brunet](https://www.instagram.com/brunet_inventor/)**, the **#1 Inventor of Brazil (honored by ANI - Associação Nacional dos Inventores)**, to salvage and build a highly complex, mission-critical proprietary connections platform.
+I was contracted directly by **[Brunet](https://www.instagram.com/brunet_inventor/)**, the **#1 Inventor of Brazil (honored by ANI - Associação Nacional dos Inventores)**, to salvage and build a highly complex, mission-critical proprietary connections platform.
 
 *   **The Background:** Prior to my involvement, the client had invested **over R$ 4 Million** on this initiative. He had contracted multiple specialized development firms and even senior software engineers directly from **Silicon Valley**. For **8 consecutive years**, team after team failed to deliver a stable, working, and secure production platform.
 *   **The Solution:** I stepped in as the Lead Software Architect, re-engineered the core system from scratch, resolved the deep architectural bottlenecks, and successfully delivered the production-ready platform. 
 *   **⚠️ Contractual Confidentiality (NDA):** Due to strict legal confidentiality agreements, the low-level architecture, proprietary mechanics, and codebase of this connections engine cannot be disclosed publicly.
-*   **📞 Professional Reference:** For institutional clients or strategic partners wishing to perform a professional reference check to verify the legitimacy and success of this project, you are highly encouraged to contact **[Valdir Brunet directly on Instagram (@brunet_inventor)](https://www.instagram.com/brunet_inventor/)** to confirm my delivery.
+*   **📞 Professional Reference:** For institutional clients or strategic partners wishing to perform a professional reference check to verify the legitimacy and success of this project, you are highly encouraged to contact **[Brunet directly on Instagram (@brunet_inventor)](https://www.instagram.com/brunet_inventor/)** to confirm my delivery.
 
 ---
 
