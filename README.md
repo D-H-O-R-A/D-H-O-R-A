@@ -26,10 +26,12 @@ Beyond active system engineering, I provide top-tier advisory and consulting ser
 ## 🏆 Special Operations Case Study: Resolving the Unsolvable
 > *"Diego Antunes resolved in months what Silicon Valley senior developers failed to deliver for 8 years."*
 
-I was contracted directly by **[Valdir Brunet](https://www.instagram.com/brunet_inventor/)**, the **#1 Inventor of Brazil (honored by ANI - Associação Nacional dos Inventores)**, to salvage and execute a highly complex, mission-critical proprietary geodetic simulation and cartography engine.
+I was contracted directly by **[Valdir Brunet](https://www.instagram.com/brunet_inventor/)**, the **#1 Inventor of Brazil (honored by ANI - Associação Nacional dos Inventores)**, to salvage and build a highly complex, mission-critical proprietary connections platform.
 
-*   **The Background:** Prior to my involvement, the client had invested **over R$ 4 Million** on the initiative. He had contracted multiple specialized development firms and even senior software engineers directly from **Silicon Valley**. For **8 consecutive years**, team after team failed to deliver a mathematically correct, stable, and working compiler.
-*   **The Solution:** I stepped in as the Lead Software Architect. I completely re-engineered the geodetic Sirgas2000 UTM coordinates transform pipelines, resolved the high-precision polygon closure constraints, and successfully deployed the production-ready 3D simulation compiler in fraction of the time. To this day, I remain his trusted strategic partner for all high-complexity projects.
+*   **The Background:** Prior to my involvement, the client had invested **over R$ 4 Million** on this initiative. He had contracted multiple specialized development firms and even senior software engineers directly from **Silicon Valley**. For **8 consecutive years**, team after team failed to deliver a stable, working, and secure production platform.
+*   **The Solution:** I stepped in as the Lead Software Architect, re-engineered the core system from scratch, resolved the deep architectural bottlenecks, and successfully delivered the production-ready platform. 
+*   **⚠️ Contractual Confidentiality (NDA):** Due to strict legal confidentiality agreements, the low-level architecture, proprietary mechanics, and codebase of this connections engine cannot be disclosed publicly.
+*   **📞 Professional Reference:** For institutional clients or strategic partners wishing to perform a professional reference check to verify the legitimacy and success of this project, you are highly encouraged to contact **[Valdir Brunet directly on Instagram (@brunet_inventor)](https://www.instagram.com/brunet_inventor/)** to confirm my delivery.
 
 ---
 
@@ -131,13 +133,13 @@ Frontend & Mobile: Next.js 14, React, TypeScript, TailwindCSS, Vite, Redux, Zust
 ## 📈 Analytics & GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=D-H-O-R-A&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Diego's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=D-H-O-R-A&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Diego's GitHub Stats" width="48%" />
   <img src="https://streak-stats.demolab.com/?user=D-H-O-R-A&theme=tokyonight&hide_border=true" alt="Diego's GitHub Streak" width="48%" />
 </p>
 
 <p align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=D-H-O-R-A&theme=tokyonight&hide_border=true" alt="Diego's GitHub Activity Graph" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=D-H-O-R-A&layout=compact&theme=tokyonight&hide_border=true" alt="Diego's Top Languages" width="48%" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs?username=D-H-O-R-A&layout=compact&theme=tokyonight&hide_border=true" alt="Diego's Top Languages" width="48%" />
 </p>
 
 ---
