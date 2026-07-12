@@ -32,16 +32,13 @@ I bridge the gap between high-level business models and low-level bytecode execu
 I design high-performance interactive 3D simulations, real-time spatial cartography compilers, and custom game engines, targeting WebGL, desktop, and mobile environments.
 
 <p align="center">
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 380" width="100%" style="background: #0d1117; border-radius: 16px; border: 1px solid #30363d; box-shadow: 0 10px 30px rgba(0,0,0,0.5);">
+  <!-- Bulletproof Native SMIL 3D Isometric Matrix (Compatible with GitHub Markdown Sanitizer) -->
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 380" width="100%" style="background: #0d1117; border-radius: 16px; border: 1px solid #30363d;">
     <defs>
       <!-- Gradients -->
       <linearGradient id="cyan-grad" x1="0%" y1="0%" x2="100%" y2="100%">
         <stop offset="0%" stop-color="#00f2fe" />
         <stop offset="100%" stop-color="#4facfe" />
-      </linearGradient>
-      <linearGradient id="purple-grad" x1="0%" y1="0%" x2="100%" y2="100%">
-        <stop offset="0%" stop-color="#b92b27" />
-        <stop offset="100%" stop-color="#1565c0" />
       </linearGradient>
       <linearGradient id="neon-grad" x1="0%" y1="0%" x2="100%" y2="100%">
         <stop offset="0%" stop-color="#ec008c" />
@@ -65,167 +62,128 @@ I design high-performance interactive 3D simulations, real-time spatial cartogra
         <feGaussianBlur stdDeviation="6" result="blur" />
         <feComposite in="SourceGraphic" in2="blur" operator="over" />
       </filter>
-
-      <!-- Embedded CSS Animation Styles -->
-      <style>
-        .grid-line { stroke: #21262d; stroke-width: 0.5; }
-        .axis-line { stroke: #30363d; stroke-dasharray: 4,4; }
-        
-        /* Floating animations */
-        @keyframes float-top {
-          0% { transform: translateY(0px); }
-          50% { transform: translateY(-10px); }
-          100% { transform: translateY(0px); }
-        }
-        @keyframes float-mid {
-          0% { transform: translateY(0px); }
-          50% { transform: translateY(-6px); }
-          100% { transform: translateY(0px); }
-        }
-        @keyframes float-bot {
-          0% { transform: translateY(0px); }
-          50% { transform: translateY(-4px); }
-          100% { transform: translateY(0px); }
-        }
-        
-        /* Pulsing Glows */
-        @keyframes glow-pulse {
-          0% { opacity: 0.4; }
-          50% { opacity: 0.9; }
-          100% { opacity: 0.4; }
-        }
-        
-        /* Data Flow dash offset */
-        @keyframes flow {
-          to { stroke-dashoffset: -40; }
-        }
-        
-        /* Rotating animations */
-        @keyframes spin-cw {
-          from { transform: rotate(0deg); }
-          to { transform: rotate(360deg); }
-        }
-        @keyframes spin-ccw {
-          from { transform: rotate(0deg); }
-          to { transform: rotate(-360deg); }
-        }
-
-        .layer-top { animation: float-top 6s ease-in-out infinite; }
-        .layer-mid { animation: float-mid 5s ease-in-out infinite; }
-        .layer-bot { animation: float-bot 4s ease-in-out infinite; }
-        
-        .pulse-circle { animation: glow-pulse 3s ease-in-out infinite; }
-        .data-stream { stroke-dasharray: 8, 12; animation: flow 2s linear infinite; }
-        
-        .interactive-block {
-          transition: all 0.4s cubic-bezier(0.16, 1, 0.3, 1);
-          cursor: pointer;
-        }
-        .interactive-block:hover {
-          filter: brightness(1.2) drop-shadow(0 0 15px var(--hover-color));
-          transform: scale(1.03);
-        }
-      </style>
     </defs>
 
     <!-- Perspective Background Grid -->
-    <g opacity="0.45">
-      <!-- Perspective lines (Isometric Projection simulated grid) -->
-      <line class="grid-line" x1="100" y1="350" x2="700" y2="50" />
-      <line class="grid-line" x1="150" y1="350" x2="750" y2="50" />
-      <line class="grid-line" x1="50" y1="350" x2="650" y2="50" />
-      <line class="grid-line" x1="200" y1="350" x2="800" y2="50" />
+    <g opacity="0.3">
+      <line x1="100" y1="350" x2="700" y2="50" stroke="#21262d" stroke-width="0.5" />
+      <line x1="150" y1="350" x2="750" y2="50" stroke="#21262d" stroke-width="0.5" />
+      <line x1="50" y1="350" x2="650" y2="50" stroke="#21262d" stroke-width="0.5" />
+      <line x1="200" y1="350" x2="800" y2="50" stroke="#21262d" stroke-width="0.5" />
       
-      <line class="grid-line" x1="100" y1="50" x2="700" y2="350" />
-      <line class="grid-line" x1="150" y1="50" x2="750" y2="350" />
-      <line class="grid-line" x1="50" y1="50" x2="650" y2="350" />
-      <line class="grid-line" x1="200" y1="50" x2="800" y2="350" />
+      <line x1="100" y1="50" x2="700" y2="350" stroke="#21262d" stroke-width="0.5" />
+      <line x1="150" y1="50" x2="750" y2="350" stroke="#21262d" stroke-width="0.5" />
+      <line x1="50" y1="50" x2="650" y2="350" stroke="#21262d" stroke-width="0.5" />
+      <line x1="200" y1="50" x2="800" y2="350" stroke="#21262d" stroke-width="0.5" />
       
-      <!-- Axes -->
-      <line class="axis-line" x1="400" y1="20" x2="400" y2="360" />
+      <!-- Axis -->
+      <line x1="400" y1="20" x2="400" y2="360" stroke="#30363d" stroke-dasharray="4,4" />
     </g>
 
-    <!-- Background Laser Connection Paths (Connecting Layers) -->
+    <!-- Background Laser Connection Paths (With Native SMIL flow animation) -->
     <g>
-      <!-- Vertical main data trunk -->
       <line x1="400" y1="100" x2="400" y2="280" stroke="#1f2937" stroke-width="2" />
       
-      <!-- Glowing data flow lines (dash offset animated) -->
-      <path class="data-stream" d="M 280,260 L 400,280 L 520,260 L 400,190 Z" fill="none" stroke="#00ff87" stroke-width="1.5" />
-      <path class="data-stream" d="M 400,280 L 400,190 L 400,100" fill="none" stroke="#00f2fe" stroke-width="2" />
-      <path class="data-stream" d="M 250,170 L 400,190 L 550,170" fill="none" stroke="#fc6767" stroke-width="1.5" />
+      <!-- Data flow laser path (dash offset animated natively) -->
+      <path d="M 280,260 L 400,280 L 520,260 L 400,190 Z" fill="none" stroke="#00ff87" stroke-width="1.5" stroke-dasharray="8, 12">
+        <animate attributeName="stroke-dashoffset" from="40" to="0" dur="2s" repeatCount="indefinite" />
+      </path>
+      <path d="M 400,280 L 400,100" fill="none" stroke="#00f2fe" stroke-width="2" stroke-dasharray="10, 10">
+        <animate attributeName="stroke-dashoffset" from="40" to="0" dur="1.5s" repeatCount="indefinite" />
+      </path>
     </g>
 
     <!-- LAYER 3: BOTTOM (AI & Spatial PostGIS Data Mesh) -->
-    <g class="layer-bot" style="--hover-color: #00ff87;">
-      <!-- Main Isometric Base Plate -->
-      <polygon class="interactive-block" points="400,250 560,280 400,310 240,280" fill="#161b22" stroke="#30363d" stroke-width="1.5" />
+    <!-- Native SMIL vertical floating translate -->
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0,0; 0,-4; 0,0" dur="4s" repeatCount="indefinite" />
       
-      <!-- Glowing active circuit tracks -->
+      <!-- Base Plate -->
+      <polygon points="400,250 560,280 400,310 240,280" fill="#161b22" stroke="#30363d" stroke-width="1.5" />
       <polygon points="400,260 520,280 400,300 280,280" fill="none" stroke="url(#green-grad)" stroke-width="1" opacity="0.6" />
       
-      <!-- Core Pulsing Radar rings -->
-      <ellipse cx="400" cy="280" rx="40" ry="10" fill="none" stroke="#00ff87" stroke-width="1" class="pulse-circle" opacity="0.7" filter="url(#glow-green)" />
-      <ellipse cx="400" cy="280" rx="80" ry="20" fill="none" stroke="#00ff87" stroke-width="0.5" class="pulse-circle" opacity="0.3" />
+      <!-- Core Pulsing Radar Ring (Animated Opacity & Radius scale) -->
+      <ellipse cx="400" cy="280" rx="40" ry="10" fill="none" stroke="#00ff87" stroke-width="1" filter="url(#glow-green)">
+        <animate attributeName="opacity" values="0.3;0.9;0.3" dur="3s" repeatCount="indefinite" />
+        <animate attributeName="rx" values="30;50;30" dur="3s" repeatCount="indefinite" />
+      </ellipse>
+      <ellipse cx="400" cy="280" rx="80" ry="20" fill="none" stroke="#00ff87" stroke-width="0.5" opacity="0.3">
+        <animate attributeName="rx" values="70;90;70" dur="3s" repeatCount="indefinite" />
+      </ellipse>
 
-      <!-- High-precision spatial coordinate nodes -->
+      <!-- Spatial nodes -->
       <circle cx="280" cy="280" r="4" fill="#00ff87" filter="url(#glow-green)" />
       <text x="250" y="298" fill="#8b949e" font-family="monospace" font-size="10">PostGIS</text>
       
       <circle cx="520" cy="280" r="4" fill="#00ff87" filter="url(#glow-green)" />
-      <text x="500" y="298" fill="#8b949e" font-family="monospace" font-size="10">UTM SIRGAS</text>
+      <text x="495" y="298" fill="#8b949e" font-family="monospace" font-size="10">UTM SIRGAS</text>
 
       <circle cx="400" cy="300" r="5" fill="#00ff87" filter="url(#glow-green)" />
       <text x="375" y="318" fill="#00ff87" font-family="monospace" font-size="10" font-weight="bold">AI Engine</text>
     </g>
 
     <!-- LAYER 2: MIDDLE (Unity 3D / WebGL Graphic Compilers) -->
-    <g class="layer-mid" style="--hover-color: #ec008c;">
-      <!-- Main Isometric Plate -->
-      <polygon class="interactive-block" points="400,160 560,190 400,220 240,190" fill="#161b22" stroke="#30363d" stroke-width="1.5" />
+    <!-- Native SMIL vertical floating translate -->
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0,0; 0,-6; 0,0" dur="5s" repeatCount="indefinite" />
       
-      <!-- Connection lasers to adjacent entities -->
-      <line x1="280" y1="190" x2="400" y2="190" stroke="url(#neon-grad)" stroke-width="1" />
-      <line x1="520" y1="190" x2="400" y2="190" stroke="url(#neon-grad)" stroke-width="1" />
+      <!-- Base Plate -->
+      <polygon points="400,160 560,190 400,220 240,190" fill="#161b22" stroke="#30363d" stroke-width="1.5" />
+      
+      <!-- Active lasers -->
+      <line x1="280" y1="190" x2="520" y2="190" stroke="url(#neon-grad)" stroke-width="1" stroke-dasharray="5, 5">
+        <animate attributeName="stroke-dashoffset" from="20" to="0" dur="2s" repeatCount="indefinite" />
+      </line>
 
-      <!-- Spinning isometric 3D wireframe cube (simulated through paths) -->
-      <g transform="translate(400,190) scale(1.3, 0.7) rotate(45)">
-        <!-- Cube vertices & polygons -->
-        <polygon points="-15,-15 15,-15 15,15 -15,15" fill="none" stroke="url(#neon-grad)" stroke-width="1.5" filter="url(#glow-purple)" />
-        <line x1="-15" y1="-15" x2="-15" y2="-15" stroke="#ec008c" stroke-width="2" />
+      <!-- Spinning isometric 3D wireframe cube (Rotating natively via SMIL) -->
+      <g transform="translate(400,190)">
+        <g>
+          <!-- Core Rotation -->
+          <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="12s" repeatCount="indefinite" />
+          <!-- Isometric representation skew -->
+          <g transform="scale(1.2, 0.6) rotate(45)">
+            <polygon points="-16,-15 16,-15 16,15 -16,15" fill="none" stroke="url(#neon-grad)" stroke-width="1.5" filter="url(#glow-purple)" />
+            <polygon points="-10,-10 10,-10 10,10 -10,10" fill="none" stroke="#ffffff" stroke-width="1" opacity="0.6" />
+          </g>
+        </g>
       </g>
       
-      <!-- Floating mesh nodes -->
+      <!-- Nodes -->
       <circle cx="280" cy="190" r="4.5" fill="#ec008c" filter="url(#glow-purple)" />
-      <text x="250" y="208" fill="#8b949e" font-family="monospace" font-size="10">Shader Graph</text>
+      <text x="245" y="208" fill="#8b949e" font-family="monospace" font-size="10">Shader Graph</text>
 
       <circle cx="520" cy="190" r="4.5" fill="#fc6767" filter="url(#glow-purple)" />
-      <text x="500" y="208" fill="#8b949e" font-family="monospace" font-size="10">Three.js / WebGL</text>
+      <text x="495" y="208" fill="#8b949e" font-family="monospace" font-size="10">WebGL / 3D</text>
 
       <circle cx="400" cy="170" r="5" fill="#ec008c" filter="url(#glow-purple)" />
-      <text x="375" y="152" fill="#fc6767" font-family="monospace" font-size="10" font-weight="bold">Unity Engine</text>
+      <text x="365" y="152" fill="#fc6767" font-family="monospace" font-size="10" font-weight="bold">Unity Engine</text>
     </g>
 
     <!-- LAYER 1: TOP (Web3 & Secure Cryptography Core) -->
-    <g class="layer-top" style="--hover-color: #00f2fe;">
-      <!-- Main Isometric Plate -->
-      <polygon class="interactive-block" points="400,70 560,100 400,130 240,100" fill="#161b22" stroke="#4facfe" stroke-width="1.5" />
+    <!-- Native SMIL vertical floating translate -->
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0,0; 0,-8; 0,0" dur="6s" repeatCount="indefinite" />
       
-      <!-- Hexagonal central processing block (Representing B2 Wallet keychain) -->
+      <!-- Base Plate -->
+      <polygon points="400,70 560,100 400,130 240,100" fill="#161b22" stroke="#4facfe" stroke-width="1.5" />
+      
+      <!-- Hexagonal central processing block -->
       <polygon points="400,85 425,95 425,115 400,125 375,115 375,95" fill="url(#cyan-grad)" opacity="0.85" filter="url(#glow-cyan)" />
       
-      <!-- Floating orbiting cryptographic security node paths -->
-      <ellipse cx="400" cy="100" rx="60" ry="15" fill="none" stroke="#00f2fe" stroke-width="1" stroke-dasharray="6,15" opacity="0.7" />
+      <!-- Orbiting path -->
+      <ellipse cx="400" cy="100" rx="60" ry="15" fill="none" stroke="#00f2fe" stroke-width="1" stroke-dasharray="6,15" opacity="0.7">
+        <animateTransform attributeName="transform" type="rotate" from="0 400 100" to="360 400 100" dur="15s" repeatCount="indefinite" />
+      </ellipse>
       
       <!-- Satellite orbiting keys -->
       <circle cx="340" cy="100" r="4" fill="#00f2fe" filter="url(#glow-cyan)" />
-      <text x="290" y="118" fill="#8b949e" font-family="monospace" font-size="10">Argon2id KDF</text>
+      <text x="285" y="118" fill="#8b949e" font-family="monospace" font-size="10">Argon2id KDF</text>
 
       <circle cx="460" cy="100" r="4" fill="#00f2fe" filter="url(#glow-cyan)" />
       <text x="440" y="118" fill="#8b949e" font-family="monospace" font-size="10">AES-256-GCM</text>
 
       <circle cx="400" cy="100" r="6" fill="#ffffff" filter="url(#glow-cyan)" />
-      <text x="375" y="60" fill="#00f2fe" font-family="monospace" font-size="10" font-weight="bold">B2 Cryptography</text>
+      <text x="365" y="60" fill="#00f2fe" font-family="monospace" font-size="10" font-weight="bold">B2 Cryptography</text>
     </g>
   </svg>
 </p>
@@ -283,10 +241,14 @@ I design high-performance interactive 3D simulations, real-time spatial cartogra
 ## 🛠️ Main Tech Ecosystem
 
 ```yaml
-Blockchain Core: Solidity (0.8.x), Ride (Waves), WebCrypto API, Hardhat, Foundry, Slither, OpenZeppelin, Ethers.js
-3D & Spatial:    Unity 3D/2D (C#), WebGL, URP (Universal Render Pipeline), Shader Graph, Three.js, Proj4.js
-Backend & Cloud: NestJS, Node.js, Go, Python, PostgreSQL, PostGIS, Redis, Google Cloud Run, AWS (ECS, RDS, KMS), Terraform
-Frontend & Mobile: Next.js 14, React, TypeScript, TailwindCSS, Flutter, React Native, PWA
+Blockchain & Web3: Solidity (0.8.x), Smart Contracts (EVM), Hardhat, Foundry, Ethers.js, viem, Web3.js, Waves Core, Ride, BIP39/BIP44, Gnosis Safe
+3D & Game Engines: Unity 3D/2D (C#), Unreal Engine, WebGL, URP, HDRP, HLSL Shaders, Three.js, Proj4.js, DOTween, Addressables
+Backend & APIs:    Node.js, NestJS, Express, Python, FastAPI, Go, Rust, C#, C++, RESTful APIs, GraphQL, gRPC, WebSockets, BullMQ
+AI & Data Science: Python, TensorFlow, PyTorch, LangChain (RAG), LlamaIndex, OpenAI API, LLMs, pgvector, Pinecone, Pandas
+Databases & Cache: PostgreSQL, PostGIS (Geolocalização), MongoDB, Redis, MySQL, SQLite, Prisma, Supabase, Cloud Firestore
+Nuvem & DevOps:    AWS (ECS, RDS, KMS), GCP (Google Cloud Run), Docker, Kubernetes, CI/CD (GitHub Actions), Terraform, Prometheus, Grafana, Cloudflare
+Frontend & Mobile: Next.js 14, React, TypeScript, HTML5/CSS3, TailwindCSS, Vite, Redux, Zustand, Framer Motion, Flutter, React Native, PWA
+Security & Testing: WebCrypto API, Argon2id, OAuth2, JWT, AES-256-GCM, Jest, Vitest, Cypress, Playwright, Slither, Echidna, OSSF SLSA 3
 ```
 
 ---
