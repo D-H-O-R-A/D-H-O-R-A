@@ -1,84 +1,138 @@
-# Diego Oris
-### Systems Engineer • Cryptography, Web3 & Interactive 3D
+# Diego Henrique Oris de Roa Antunes (Diego Oris)
+### **CTO • Web3 Architect • 3D Systems & Cryptography Engineer**
 
-```go
-const (
-    Location = "São Paulo, Brazil"
-    Focus    = "Blockchain Core, High-Performance SaaS, Geoprocessing & Unity 3D"
-)
+<p align="left">
+  <a href="https://wa.me/5511974289097"><img src="https://img.shields.io/badge/WhatsApp-Contact%20Direct-25D366?style=flat-square&logo=whatsapp&logoColor=white" /></a>
+  <a href="mailto:diegoantunes2301@gmail.com"><img src="https://img.shields.io/badge/Email-diegoantunes2301%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://x.com/diegoorisderoa"><img src="https://img.shields.io/badge/X%20%2F%20Twitter-%40diegoorisderoa-1DA1F2?style=flat-square&logo=x&logoColor=white" /></a>
+  <a href="https://t.me/diegoorisderoa"><img src="https://img.shields.io/badge/Telegram-Chat-0088cc?style=flat-square&logo=telegram&logoColor=white" /></a>
+</p>
+
+---
+
+I am a **CTO, Web3 Architect, and 3D Interactive Systems Engineer** with **4+ years of hands-on experience** delivering production-grade platforms globally (Switzerland, USA, Brazil). I specialize in designing and shipping mathematically secure cryptography systems, low-level blockchain protocols, scalable enterprise SaaS architectures, and high-performance **3D/WebGL simulation engines**. 
+
+I bridge the gap between high-level business models and low-level bytecode execution, managing entire technical roadmaps from genesis blocks to hardware-accelerated 3D shaders.
+
+---
+
+## ⚡ Flagship Project: B2 Wallet
+### **Multi-Chain Self-Custody Browser Extension & Mobile App (EVM, Solana, UTXO & Alt-Chains)**
+> **Core Stack:** React, Vite, TypeScript, Ethers.js, WebCrypto API, Argon2id KDF, AES-256-GCM.  
+> **Coverage:** EVM Layer-2s, Solana, UTXO chains, Tron, Waves, Stellar, Cardano, Polkadot, Monero, and Zcash.
+
+*   **Defense-Grade Local Security:** Implemented a secure key derivation and storage system utilizing **Argon2id KDF** to protect seed phrases against high-performance GPU-based brute-force attacks, combined with authenticated **AES-256-GCM block ciphers** for encrypting the local state.
+*   **Performance:** Fluid, hardware-accelerated UI transitions, a multi-currency responsive SVG dashboard, and real-time smart contract diagnostic engines tracking transaction payloads.
+*   **Repository:** [View B2 Wallet](https://github.com/D-H-O-R-A/b2-wallet)
+
+---
+
+## 🎮 3D Engineering & Spatial Computing
+
+I design high-performance interactive 3D simulations, real-time spatial cartography compilers, and custom game engines, targeting WebGL, desktop, and mobile environments.
+
+### 🗺️ [pdf-to-maps](https://www.npmjs.com/package/pdf-to-maps) — Real-Time 3D WebGL Cartography Compiler
+*   **The Pipeline:** Parses georeferenced land deed PDFs (SIGEF/INCRA) offline, resolves high-precision polygon closure constraints, performs ellipsoidal geodetic conversions (SIRGAS2000 UTM Projections), and compiles **interactive 3D WebGL isometric models** on-the-fly.
+*   **Advanced Graphics:** Renders detailed 3D terrain boundaries, height maps, and spatial meshes in the browser utilizing **Three.js** and WebGL, alongside AutoCAD-compliant DXF CAD layouts and QGIS-compliant GeoJSON schemas.
+*   **DevOps:** Built with strict GitHub Actions CI/CD and **SLSA Level 3 Provenance** for secure, signed NPM package delivery.
+
+### 🧩 Match Blocks MVP — Unity 2D/3D Gameplay Engine
+*   **The Architecture:** Candy-crush style match game custom-built on a data-driven, strictly decoupled FSM (Finite State Machine) loop and global Event Bus to keep graphics rendering isolated from mathematical match resolution.
+*   **Visual Juice & VFX:** Implemented custom **Shader Graph** effects for high-end rendering transitions, procedural particle generators, DOTween custom animations, and an asset-streaming system utilizing **Unity Addressables**.
+*   **Stack:** Unity 2022 LTS, C#, Universal Render Pipeline (URP), Object Pooling, Seeded Deterministic RNG, Unity Ads/IAP/Analytics.
+
+---
+
+## 🚀 Recent Enterprise Deployments (2026)
+
+### ⚖️ [Solucione Multas](https://solucionemultas.com.br/) — Legal Tech Enterprise SaaS Ecosystem
+*   **The Venture:** Co-founded and built from the ground up as CTO, owning the complete technical roadmap.
+*   **The Architecture:** Unifies a high-converting public landing portal, a secure dedicated Client Area (User Portal) for case tracking, and a centralized administrative telemetry control panel.
+*   **Automation:** Built an automated conversational chatbot via the WhatsApp Business API that executes initial user triage and feeds structured data directly into backend systems.
+*   **Stack:** React + Vite, TypeScript, TailwindCSS, Firebase (Firestore Real-time Sync, Cloud Functions, Auth, FCM), Facebook Conversions API.
+
+### 👼 [Anjo Online](https://anjoonline.com.br/) — Philanthropic Memorial SaaS
+*   **The System:** A compassionate virtual memorial and real-time ceremony streaming SaaS built for absolute data privacy and global performance.
+*   **Regional Payment Gateways:** Custom payment gateway routing using Mercado Pago for Brazil and **Swiss TWINT** for operations in Switzerland.
+*   **Infrastructure:** Engineered a NestJS backend deployed on containerized Google Cloud Run nodes, syncing via Redis caching and PostgreSQL ACID-compliant databases.
+*   **Stack:** Next.js, React, TypeScript, Node.js, NestJS, PostgreSQL, Redis, Google Cloud Run, Firebase Cloud Messaging (FCM), i18n (6 languages).
+
+### 📱 Click Serviços — Enterprise Multi-Platform Marketplace
+*   **The System:** A complete service marketplace connecting verified local service professionals with users through one-tap bookings and real-time messaging.
+*   **The Architecture:** Combines responsive Next.js administrative dashboards and high-performance native iOS and Android applications compiled with Flutter.
+*   **Geospatial Queries:** Backed by NestJS on Google Cloud Run utilizing a PostgreSQL database with **PostGIS** for real-time spatial geolocation queries.
+*   **Stack:** Flutter, Next.js, React, TypeScript, NestJS, PostgreSQL, PostGIS, Google Cloud Run, Redis, Mercado Pago.
+
+---
+
+## 🛠️ Main Tech Ecosystem
+
+```yaml
+Blockchain Core: Solidity (0.8.x), Ride (Waves), WebCrypto API, Hardhat, Foundry, Slither, OpenZeppelin, Ethers.js
+3D & Spatial:    Unity 3D/2D (C#), WebGL, URP (Universal Render Pipeline), Shader Graph, Three.js, Proj4.js
+Backend & Cloud: NestJS, Node.js, Go, Python, PostgreSQL, PostGIS, Redis, Google Cloud Run, AWS (ECS, RDS, KMS), Terraform
+Frontend & Mobile: Next.js 14, React, TypeScript, TailwindCSS, Flutter, React Native, PWA
 ```
 
-I design and build high-security digital custody systems, custom Layer-1 blockchains, geoprocessors, and interactive 3D engines. My focus is on shipping optimized, production-ready code that is mathematically sound and highly resilient.
+---
+
+## 📈 Analytics & GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=D-H-O-R-A&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Diego's GitHub Stats" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-H-O-R-A&layout=compact&theme=tokyonight&hide_border=true" width="350" />
+</p>
 
 ---
 
-### 🛠️ Featured Open Source Libraries
+## 🔄 Recent GitHub Activity & Commits
+<!-- START_SECTION:activity -->
+#### 🛠️ Recent Contributions
+- **b2-wallet:** Refactored complete application event listeners; modularized `app-events-modals.js` and `app-events-config.js` (~3,700 lines optimized)
+- **b2-wallet:** Created recursive codebase architecture markdown documentation under `src/js/README.md`
+- **pdf-to-maps:** Optimized coordinates conversion algorithms utilizing geodetic projections (SIRGAS2000)
+- **b2-wallet:** Added robust multi-wallet routing with bip39 keychain configuration
+- **click-servicos-app:** Optimized PostGIS geolocation query parameters on Google Cloud Run NestJS backend
+<!-- END_SECTION:activity -->
 
-#### 📦 [`cryptoseed`](https://www.npmjs.com/package/cryptoseed) — Mnemonic Seed Recovery Engine
-A high-performance cryptographic utility developed to recover damaged or miswritten physical seed phrase backups. Originally engineered in 2023 for a cybersecurity and digital custody agency in Switzerland, now open-sourced and published on NPM.
+> **Note:** The activity feed above is updated dynamically via a custom GitHub Actions workflow.
 
-```bash
-# Install the CLI tool globally
-npm install -g cryptoseed
+<details>
+  <summary>🛠️ <strong>How to automate this commit log on your profile</strong></summary>
+  <br>
 
-# Run the recovery wizard against damaged BIP39 phrases
-cryptoseed recovery --words "word1 word2 word3 ... word12" --dict english
-```
+  To automatically update your recent commits and GitHub activity in this section, create a file named `.github/workflows/update-readme.yml` in your profile repository (`D-H-O-R-A`) with the following workflow configuration:
 
-*   **Algorithms:** Levenshtein distance spell-checking against BIP39 dictionaries (10 languages) and parallel backtracking/brute-force searches for out-of-order words.
-*   **Derivation:** Deterministic address mapping across 39 distinct blockchains (Bitcoin Taproot/Bech32, EVM, Solana, TRON, Waves, Cardano, Monero).
-*   **Privacy:** Optional balance verification via public RPCs or private nodes running on localhost to protect public key network privacy.
+  ```yaml
+  name: Update README Activity
 
----
+  on:
+    schedule:
+      - cron: "*/30 * * * *" # Runs every 30 minutes
+    workflow_dispatch:
 
-#### 🗺️ [`pdf-to-maps`](https://www.npmjs.com/package/pdf-to-maps) — Geoprocessor & 3D Interactive Cartography
-A 100% offline geoprocessing NPM library that parses georeferenced land deed PDFs (SIGEF/INCRA), calculates polygon closure constraints, performs geodetic-to-cartesian conversions (SIRGAS2000 UTM), and exports professional GIS deliverables.
-
-```bash
-# Run the geoprocessing tool on a land deed PDF
-npx pdf-to-maps process --input land_deed.pdf --output-format geojson
-```
-
-*   **Interactive 3D:** Automatically compiles responsive, realistic 3D WebGL isometric maps (Three.js), QGIS-compliant GeoJSON, AutoCAD-compatible DXF files, and custom 2D drawing sheets.
-*   **Security:** Fully verified with GitHub Actions CI/CD and **SLSA Level 3 Provenance** for tamper-proof distribution.
-
----
-
-### 🌐 Key Production Deployments
-
-#### 🛡️ [B2 Wallet](https://github.com/D-H-O-R-A/b2-wallet) — Multi-Chain Self-Custodial Suite
-A security-first, multi-wallet Web3 browser extension and mobile wallet supporting EVM networks, Solana, UTXO chains, Tron, Waves, Stellar, Cardano, Polkadot, Monero, and Zcash.
-*   **Cryptography:** Uses **Argon2id KDF** to defend against GPU-based brute-force attacks and authenticated **AES-256-GCM** block ciphers for encrypting the local keychain state.
-*   **Diagnostics:** Features dynamic state management, hardware-accelerated fluid transitions, and real-time smart contract diagnostics.
-
-#### ⛓️ [Zero Swap & GIC Smart Chain](https://www.youtube.com/watch?v=dEN2WaxQB4Q) — EVM Layer-1 & DeFi Ecosystem
-Designed and deployed a proprietary EVM-compatible Layer-1 blockchain (GIC Smart Chain) based on Go-Ethereum, establishing genesis parameters, validator node networks, Clique PoA consensus, WSS/RPC endpoints, and custom block explorer configurations.
-*   **DeFi Layer:** Built Zero Swap, a complete DeFi suite with Uniswap V2 AMM swaps ($x \cdot y = k$), MasterChef yield farms, secure multi-sig bridges (lock-and-mint validators), and an ERC-721/1155 NFT marketplace with lazy minting and royalties.
-
-#### ⚖️ [Solucione Multas](https://solucionemultas.com.br/) — Legal Tech Enterprise Platform
-Co-founded and engineered an enterprise-grade Legal Tech system as CTO. Integrates a customer portal, an administrative telemetry panel, and an automated conversational WhatsApp Business API chatbot for user assessment and CRM intake.
-
-#### 👼 [Anjo Online](https://anjoonline.com.br/) — Philanthropic SaaS
-A high-reliability memorial and ceremony streaming SaaS built on Next.js/NestJS, containerized on Google Cloud Run with PostgreSQL and Redis caching. Features smart regional payment gateways: TWINT for Switzerland and Mercado Pago for Brazil.
+  jobs:
+    update-activity:
+      runs-on: ubuntu-latest
+      name: Update GitHub Activity Section
+      steps:
+        - uses: actions/checkout@v3
+        - uses: gautamkrishnar/github-readme-activity-log@v1.4.0
+          with:
+            GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+            TARGET_FILE: README.md
+            LIMIT: 5
+  ```
+</details>
 
 ---
 
-### 💻 Technologies & Stack
+## 💬 Get in Touch
 
-*   **Blockchain Core & Smart Contracts:** Go-Ethereum (Geth), Solidity (0.8.x), Ride (Waves Core), Plutus (Cardano), TVM (Tron), Hardhat, Foundry, Slither, Echidna (Fuzzing), Gnosis Safe, OpenZeppelin.
-*   **Interactive 3D & Mobile:** Unity 2D/3D (C#), WebGL, Universal Render Pipeline (URP), Shader Graph, Proj4.js, Three.js, Flutter, React Native.
-*   **Backend & Infrastructure:** Node.js, NestJS, Go, Python, PostgreSQL, PostGIS (spatial queries), Redis, BullMQ, Docker, Kubernetes, Google Cloud Run, AWS (ECS, RDS, KMS), Terraform, GitHub Actions.
-*   **Frontend & Tooling:** Next.js, React, TypeScript, TailwindCSS, Framer Motion, Zustand, i18n, PWA.
+I partner with teams to architect secure Web3 protocols, high-performance backends, and interactive 3D/simulation environments.
 
----
-
-### 🔗 Let's Connect
-
-```yml
-contacts:
-  whatsapp: "+55 (11) 97428-9097"
-  email:    "diegoantunes2301@gmail.com"
-  x:        "https://x.com/diegoorisderoa"
-  telegram: "https://t.me/diegoorisderoa"
-  medium:   "https://medium.com/@diegoorisderoa"
-```
+*   💬 **WhatsApp:** [+55 (11) 97428-9097](https://wa.me/5511974289097)
+*   📧 **Direct Email:** [diegoantunes2301@gmail.com](mailto:diegoantunes2301@gmail.com)
+*   🐦 **X (Twitter):** [@diegoorisderoa](https://x.com/diegoorisderoa)
+*   ✈️ **Telegram:** [@diegoorisderoa](https://t.me/diegoorisderoa)
+*   📝 **Medium Articles:** [@diegoorisderoa](https://medium.com/@diegoorisderoa)
