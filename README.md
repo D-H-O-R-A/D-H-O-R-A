@@ -6,6 +6,7 @@
   <a href="https://wa.me/5511974289097"><img src="https://img.shields.io/badge/WhatsApp-Contact%20Direct-25D366?style=flat-square&logo=whatsapp&logoColor=white" /></a>
   <a href="mailto:diegoantunes2301@gmail.com"><img src="https://img.shields.io/badge/Email-diegoantunes2301%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://x.com/diegoorisderoa"><img src="https://img.shields.io/badge/X%20%2F%20Twitter-%40diegoorisderoa-1DA1F2?style=flat-square&logo=x&logoColor=white" /></a>
+  <a href="https://www.instagram.com/diegooris/"><img src="https://img.shields.io/badge/Instagram-%40diegooris-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
 </p>
 
 ---
@@ -19,6 +20,16 @@ Beyond active system engineering, I provide top-tier advisory and consulting ser
 *   ⛓️ **Blockchain Consulting:** Cryptographic design (Argon2id, AES, BIPs), low-level protocol optimization, smart contract security audits, and secure wallet keychain architecture.
 *   📐 **Software Architecture Consulting:** Blueprinting high-throughput SaaS ecosystems, real-time spatial/PostGIS routing pipelines, containerized deployments (Google Cloud Run, ECS), and hardware-accelerated 3D systems.
 *   🧠 **Developer & Team Consulting:** Mentoring engineering squads on clean code, EVM/Foundry testing pipelines, secure Web3 coding guidelines, and agile execution cycles to dramatically speed up product delivery.
+
+---
+
+## 🏆 Special Operations Case Study: Resolving the Unsolvable
+> *"Diego Antunes resolved in months what Silicon Valley senior developers failed to deliver for 8 years."*
+
+I was contracted directly by **[Valdir Brunet](https://www.instagram.com/brunet_inventor/)**, the **#1 Inventor of Brazil (honored by ANI - Associação Nacional dos Inventores)**, to salvage and execute a highly complex, mission-critical proprietary geodetic simulation and cartography engine.
+
+*   **The Background:** Prior to my involvement, the client had invested **over R$ 4 Million** on the initiative. He had contracted multiple specialized development firms and even senior software engineers directly from **Silicon Valley**. For **8 consecutive years**, team after team failed to deliver a mathematically correct, stable, and working compiler.
+*   **The Solution:** I stepped in as the Lead Software Architect. I completely re-engineered the geodetic Sirgas2000 UTM coordinates transform pipelines, resolved the high-precision polygon closure constraints, and successfully deployed the production-ready 3D simulation compiler in fraction of the time. To this day, I remain his trusted strategic partner for all high-complexity projects.
 
 ---
 
@@ -125,8 +136,8 @@ Frontend & Mobile: Next.js 14, React, TypeScript, TailwindCSS, Vite, Redux, Zust
 </p>
 
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=D-H-O-R-A&theme=tokyonight" alt="Diego's Profile Details" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-H-O-R-A&layout=compact&theme=tokyonight&hide_border=true" alt="Diego's Top Languages" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=D-H-O-R-A&theme=tokyonight&hide_border=true" alt="Diego's GitHub Activity Graph" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=D-H-O-R-A&layout=compact&theme=tokyonight&hide_border=true" alt="Diego's Top Languages" width="48%" />
 </p>
 
 ---
@@ -152,4 +163,5 @@ I partner with teams to architect secure Web3 protocols, high-performance backen
 *   💬 **WhatsApp:** [+55 (11) 97428-9097](https://wa.me/5511974289097)
 *   📧 **Direct Email:** [diegoantunes2301@gmail.com](mailto:diegoantunes2301@gmail.com)
 *   🐦 **X (Twitter):** [@diegoorisderoa](https://x.com/diegoorisderoa)
+*   📸 **Instagram:** [@diegooris](https://www.instagram.com/diegooris/)
 *   📝 **Medium Articles:** [@diegoorisderoa](https://medium.com/@diegoorisderoa)
