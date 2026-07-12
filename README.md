@@ -57,7 +57,7 @@ I design high-performance interactive 3D simulations, real-time spatial cartogra
 *   **Infrastructure:** Engineered a NestJS backend deployed on containerized Google Cloud Run nodes, syncing via Redis caching and PostgreSQL ACID-compliant databases.
 *   **Stack:** Next.js, React, TypeScript, Node.js, NestJS, PostgreSQL, Redis, Google Cloud Run, Firebase Cloud Messaging (FCM), i18n (6 languages).
 
-### 📱 Click Serviços — Enterprise Multi-Platform Marketplace
+### 📱 [Click Serviços](https://clickservico.com/) — Enterprise Multi-Platform Marketplace
 *   **The System:** A complete service marketplace connecting verified local service professionals with users through one-tap bookings and real-time messaging.
 *   **The Architecture:** Combines responsive Next.js administrative dashboards and high-performance native iOS and Android applications compiled with Flutter.
 *   **Geospatial Queries:** Backed by NestJS on Google Cloud Run utilizing a PostgreSQL database with **PostGIS** for real-time spatial geolocation queries.
@@ -79,8 +79,8 @@ Frontend & Mobile: Next.js 14, React, TypeScript, TailwindCSS, Flutter, React Na
 ## 📈 Analytics & GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=D-H-O-R-A&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Diego's GitHub Stats" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-H-O-R-A&layout=compact&theme=tokyonight&hide_border=true" width="350" />
+  <img src="https://github-readme-stats.vercel.app/api?username=D-H-O-R-A&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=en" alt="Diego's GitHub Stats" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-H-O-R-A&layout=compact&theme=tokyonight&hide_border=true&locale=en" alt="Diego's Top Languages" width="350" />
 </p>
 
 ---
