@@ -65,6 +65,14 @@ I design high-performance interactive 3D simulations, real-time spatial cartogra
 
 ---
 
+### 🌱 [Young Market](https://www.youngmarket.com.br/) — Custom Blockchain Core & Athlete Crowd-Tokenization MVP
+*   **The Venture:** Served as **Founding CTO** (Equity Partner), designing and building the initial MVP from the ground up.
+*   **The Architecture:** Developed a proprietary blockchain core on top of the Waves network. Designed and programmed custom smart contracts in Ride, implemented atomic swap interoperability bridges to Ethereum, and engineered athlete image-rights tokenization mechanics.
+*   **Integrations:** Developed a custom mobile application interface, integrated Stripe, and built a custom payment gateway for direct fiat-to-token purchases. Pivoted the core system mechanics to comply with Brazilian CVM crowdfunding regulations.
+*   **Stack:** Waves Core Basis, Ride, React Native, TypeScript, Node.js, Stripe, CVM Compliance.
+
+---
+
 ## 🛠️ Main Tech Ecosystem
 
 ```yaml
@@ -79,8 +87,8 @@ Frontend & Mobile: Next.js 14, React, TypeScript, TailwindCSS, Flutter, React Na
 ## 📈 Analytics & GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=D-H-O-R-A&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=en" alt="Diego's GitHub Stats" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-H-O-R-A&layout=compact&theme=tokyonight&hide_border=true&locale=en" alt="Diego's Top Languages" width="350" />
+  <img src="https://github-readme-stats.vercel.app/api?username=d-h-o-r-a&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Diego's GitHub Stats" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-h-o-r-a&layout=compact&theme=tokyonight&hide_border=true" alt="Diego's Top Languages" width="350" />
 </p>
 
 ---
@@ -95,35 +103,6 @@ Frontend & Mobile: Next.js 14, React, TypeScript, TailwindCSS, Flutter, React Na
 - **click-servicos-app:** Optimized PostGIS geolocation query parameters on Google Cloud Run NestJS backend
 <!-- END_SECTION:activity -->
 
-> **Note:** The activity feed above is updated dynamically via a custom GitHub Actions workflow.
-
-<details>
-  <summary>🛠️ <strong>How to automate this commit log on your profile</strong></summary>
-  <br>
-
-  To automatically update your recent commits and GitHub activity in this section, create a file named `.github/workflows/update-readme.yml` in your profile repository (`D-H-O-R-A`) with the following workflow configuration:
-
-  ```yaml
-  name: Update README Activity
-
-  on:
-    schedule:
-      - cron: "*/30 * * * *" # Runs every 30 minutes
-    workflow_dispatch:
-
-  jobs:
-    update-activity:
-      runs-on: ubuntu-latest
-      name: Update GitHub Activity Section
-      steps:
-        - uses: actions/checkout@v3
-        - uses: gautamkrishnar/github-readme-activity-log@v1.4.0
-          with:
-            GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-            TARGET_FILE: README.md
-            LIMIT: 5
-  ```
-</details>
 
 ---
 
