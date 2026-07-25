@@ -21,18 +21,6 @@ I also work with teams as a technical advisor and consultant on specific complex
 
 ---
 
-## 🏆 Special Operations Case Study: Resolving the Unsolvable
-> *"Diego Antunes resolved in months what Silicon Valley senior developers failed to deliver for 8 years."*
-
-I was contracted directly by **[Brunet](https://www.instagram.com/brunet_inventor/)**, the **#1 Inventor of Brazil (honored by ANI - Associação Nacional dos Inventores)**, to salvage and build a highly complex, mission-critical proprietary connections platform.
-
-*   **The Background:** Prior to my involvement, the client had invested **over R$ 4 Million** on this initiative. He had contracted multiple specialized development firms and even senior software engineers directly from **Silicon Valley**. For **8 consecutive years**, team after team failed to deliver a stable, working, and secure production platform.
-*   **The Solution:** I stepped in as the Lead Software Architect, re-engineered the core system from scratch, resolved the deep architectural bottlenecks, and successfully delivered the production-ready platform. 
-*   **⚠️ Contractual Confidentiality (NDA):** Due to strict legal confidentiality agreements, the low-level architecture, proprietary mechanics, and codebase of this connections engine cannot be disclosed publicly.
-*   **📞 Professional Reference:** For institutional clients or strategic partners wishing to perform a professional reference check to verify the legitimacy and success of this project, you are highly encouraged to contact **[Brunet directly on Instagram (@brunet_inventor)](https://www.instagram.com/brunet_inventor/)** to confirm my delivery.
-
----
-
 ## ⚡ B2 Wallet
 ### **Multi-Chain Self-Custody Browser Extension & Mobile App**
 > **Core Stack:** React, Vite, TypeScript, Ethers.js, WebCrypto API, Argon2id KDF, AES-256-GCM.  
@@ -79,12 +67,6 @@ I design high-performance interactive 3D simulations, real-time spatial cartogra
 *   **The Architecture:** Unifies a high-converting public landing portal, a secure dedicated Client Area (User Portal) for case tracking, and a centralized administrative telemetry control panel.
 *   **Automation:** Built an automated conversational chatbot via the WhatsApp Business API that executes initial user triage and feeds structured data directly into backend systems.
 *   **Stack:** React + Vite, TypeScript, TailwindCSS, Firebase (Firestore Real-time Sync, Cloud Functions, Auth, FCM), Facebook Conversions API.
-
-### 👼 [Anjo Online](https://anjoonline.com.br/) — Philanthropic Memorial SaaS
-*   **The System:** A compassionate virtual memorial and real-time ceremony streaming SaaS built for absolute data privacy and global performance.
-*   **Regional Payment Gateways:** Custom payment gateway routing using Mercado Pago for Brazil and **Swiss TWINT** for operations in Switzerland.
-*   **Infrastructure:** Engineered a NestJS backend deployed on containerized Google Cloud Run nodes, syncing via Redis caching and PostgreSQL ACID-compliant databases.
-*   **Stack:** Next.js, React, TypeScript, Node.js, NestJS, PostgreSQL, Redis, Google Cloud Run, Firebase Cloud Messaging (FCM), i18n (6 languages).
 
 ### 📱 [Click Serviços](https://clickservico.com/) — Enterprise Multi-Platform Marketplace
 *   **The System:** A complete service marketplace connecting verified local service professionals with users through one-tap bookings and real-time messaging.
