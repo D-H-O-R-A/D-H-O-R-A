@@ -147,6 +147,8 @@ Especializado em assumir desafios de **extrema complexidade algorítmica e arqui
 | **Waves Play** | 🔒 Sob Contrato / Confidencial (NDA) | TypeScript / Ride | Waves Protocol, Ride Smart Contracts, Web3 Gaming SDK, NFT Badges | Plataforma e ecossistema de jogos Web3 no protocolo Waves com liquidação on-chain e custódia descentralizada de ativos (2023, Suíça). |
 | **AxAi Swap** | 🔒 Sob Contrato / Confidencial (NDA) | Solidity / TypeScript | Solidity, EVM, AMM Engine, AI Predictive Routing, Liquidity Pools | Protocolo e DEX de swap automatizado com roteamento preditivo de liquidez assistido por IA e proteção contra impermanent loss (2022, Curaçao). |
 | **Bee Crazy** | 🔒 Sob Contrato / Confidencial (NDA) | TypeScript / Python | Telegram Bot API, WebSockets, Node.js, Web3 Wallets, Tap-to-Earn Engine | Jogo transacional estilo tap-to-earn para Telegram com arquitetura de alta vazão, microtransações cripto e missões sociais (2024, Brasil). |
+| **Young Market** | 🔒 Sob Contrato / Confidencial (NDA) | TypeScript / Ride | Next.js, Node.js, Ride Smart Contracts, Waves, KYC, Pix Gateway | Plataforma de negociação de direitos de imagem de atletas em modelo de crowdfunding, com cada cota registrada em blockchain (2024, Brasil). |
+| **AxioPay** | 🔒 Sob Contrato / Confidencial (NDA) | Go / TypeScript | Go, Node.js, PostgreSQL, REST/Webhooks, KYC/AML, Contas Virtuais, Cartões | Banking-as-a-Service (BaaS): API para empresas abrirem contas digitais, emitirem cartões e movimentarem fiat e cripto com compliance KYC/AML (2022, Curaçao). |
 
 <a id="cat-crypto"></a>
 ### 🛡️ Categoria 2: Criptografia, Segurança, Cibersegurança & RE
@@ -341,7 +343,7 @@ Expanda os painéis abaixo para inspecionar os projetos por stack de linguagem:
 </details>
 
 <details>
-<summary><a id="lang-ts-js"></a><h3>⚡ TypeScript & JavaScript (41 Projetos) — Clique para Expandir</h3></summary>
+<summary><a id="lang-ts-js"></a><h3>⚡ TypeScript & JavaScript (43 Projetos) — Clique para Expandir</h3></summary>
 
 | Projeto | Status / Acesso | Categoria | Descrição Técnica |
 |:---|:---:|:---|:---|
@@ -386,11 +388,13 @@ Expanda os painéis abaixo para inspecionar os projetos por stack de linguagem:
 | **Bee Crazy** | 🔒 Sob Contrato / Confidencial (NDA) | Web3, L1/L2 & DeFi | Jogo transacional via Telegram Bot com mecânicas de tap-to-earn e custódia simplificada (2024, Brasil). |
 | **UNits Social** | 🔒 Sob Contrato / Confidencial (NDA) | Enterprise & Web Corporativa | Rede social corporativa Web3 com monetização de criadores e privacidade de dados (2024, Suíça). |
 | **Empresas Leads** | 🔒 Sob Contrato / Confidencial (NDA) | Enterprise & Web Corporativa | Plataforma B2B de enriquecimento e geração de leads com base nos dados públicos da Receita Federal (CNPJ), filtros avançados e automação de campanhas de e-mail (2026, Brasil). |
+| **Young Market** | 🔒 Sob Contrato / Confidencial (NDA) | Web3, L1/L2 & DeFi | Plataforma de crowdfunding de direitos de imagem de atletas com registro das cotas em blockchain (2024, Brasil). |
+| **AxioPay** | 🔒 Sob Contrato / Confidencial (NDA) | Web3, L1/L2 & DeFi | Banking-as-a-Service com API de contas digitais, cartões e movimentação fiat/cripto (2022, Curaçao). |
 
 </details>
 
 <details>
-<summary><a id="lang-solidity-ride"></a><h3>💎 Solidity & Ride (12 Projetos) — Clique para Expandir</h3></summary>
+<summary><a id="lang-solidity-ride"></a><h3>💎 Solidity & Ride (13 Projetos) — Clique para Expandir</h3></summary>
 
 | Projeto | Status / Acesso | Categoria | Descrição Técnica |
 |:---|:---:|:---|:---|
@@ -406,6 +410,7 @@ Expanda os painéis abaixo para inspecionar os projetos por stack de linguagem:
 | **GIC Wallet Pro Enterprise** | 🔒 Sob Contrato / Confidencial (NDA) | Web3, L1/L2 & DeFi | Tesouraria corporativa com assinatura múltipla e governança criptográfica para fundos institucionais. |
 | **Young Market Core** | 🔒 Sob Contrato (Venture / NDA) | Web3, L1/L2 & DeFi | Plataforma de tokenização de direitos creditórios de atletas e crowdfunding sob regulação da CVM. |
 | **AxAi Swap** | 🔒 Sob Contrato / Confidencial (NDA) | Web3, L1/L2 & DeFi | Protocolo descentralizado de swap e pools de liquidez com roteamento inteligente de liquidez (2022, Curaçao). |
+| **Young Market** | 🔒 Sob Contrato / Confidencial (NDA) | Web3, L1/L2 & DeFi | Contratos Ride para emissão e registro on-chain das cotas de direito de imagem de atletas (2024, Brasil). |
 
 </details>
 
@@ -430,7 +435,7 @@ Expanda os painéis abaixo para inspecionar os projetos por stack de linguagem:
 </details>
 
 <details>
-<summary><a id="lang-go"></a><h3>🦫 Go / Golang (9 Projetos) — Clique para Expandir</h3></summary>
+<summary><a id="lang-go"></a><h3>🦫 Go / Golang (10 Projetos) — Clique para Expandir</h3></summary>
 
 | Projeto | Status / Acesso | Categoria | Descrição Técnica |
 |:---|:---:|:---|:---|
@@ -443,6 +448,7 @@ Expanda os painéis abaixo para inspecionar os projetos por stack de linguagem:
 | **Ledgr** | 🔒 Sob Contrato / Confidencial (NDA) | Web3, Blockchain Core, DeFi, DEX & CEX | Livro-razão financeiro distribuído de dupla entrada em Go com imutabilidade por blocos e conciliação contínua. |
 | **Fluvi** | 🔒 Sob Contrato / Confidencial (NDA) | Baixo Nível & Emulação | Motor de processamento de eventos em streaming de altíssima vazão (>500k ops/seg) com zero-allocation. |
 | **Piloto** | 🔒 Sob Contrato / Confidencial (NDA) | Web3, Blockchain Core, DeFi, DEX & CEX | Blockchain L1 autônoma com ajuste dinâmico de parâmetros de consenso e auto-estabilização de gas. |
+| **AxioPay** | 🔒 Sob Contrato / Confidencial (NDA) | Web3, Blockchain Core, DeFi, DEX & CEX | Core em Go do Banking-as-a-Service: contas virtuais, ledger de saldos, emissão de cartões e liquidação fiat/cripto (2022, Curaçao). |
 
 </details>
 
@@ -535,7 +541,7 @@ Expanda os painéis abaixo para inspecionar os projetos por stack de linguagem:
 ## 🛠️ 3. Filtro Interativo por Stack & Camada de Arquitetura
 
 <details>
-<summary><a id="stack-frontend"></a><h3>🖥️ Frontend & Interfaces Web3 (23 Projetos) — Clique para Expandir</h3></summary>
+<summary><a id="stack-frontend"></a><h3>🖥️ Frontend & Interfaces Web3 (24 Projetos) — Clique para Expandir</h3></summary>
 
 *Aplicações de ponta em React 18/19, Next.js, Vite, Three.js, WebGL e Tailwind CSS.*
 
@@ -564,11 +570,12 @@ Expanda os painéis abaixo para inspecionar os projetos por stack de linguagem:
 | **Waves Play** | TypeScript | 🔒 Sob Contrato / Confidencial (NDA) | Portal e ecossistema de jogos Web3 na rede Waves com conexão de carteiras e marketplace de itens (2023, Suíça). |
 | **UNits Social** | TypeScript | 🔒 Sob Contrato / Confidencial (NDA) | Interface web reativa e aplicativo social com integração de carteiras e feed em tempo real (2024, Suíça). |
 | **Empresas Leads** | TypeScript | 🔒 Sob Contrato / Confidencial (NDA) | Interface web para busca avançada de empresas por CNAE/UF, exportação e gestão de campanhas de e-mail (2026, Brasil). |
+| **Young Market** | TypeScript | 🔒 Sob Contrato / Confidencial (NDA) | Marketplace web para investidores apoiarem atletas comprando cotas de direito de imagem, com carteira e acompanhamento on-chain (2024, Brasil). |
 
 </details>
 
 <details>
-<summary><a id="stack-backend"></a><h3>🔌 Backend, Microserviços & Matching Engines (31 Projetos) — Clique para Expandir</h3></summary>
+<summary><a id="stack-backend"></a><h3>🔌 Backend, Microserviços & Matching Engines (32 Projetos) — Clique para Expandir</h3></summary>
 
 *Serviços escaláveis em Go, Node.js, NestJS, FastAPI, Redis In-Memory OrderBook, BullMQ e gRPC.*
 
@@ -605,11 +612,12 @@ Expanda os painéis abaixo para inspecionar os projetos por stack de linguagem:
 | **Angel Online** | TypeScript | 🔒 Sob Contrato / Confidencial (NDA) | Backend corporativo de alta segurança com integração direta a provedores bancários suíços (TWINT / SEPA) (2026, Suíça). |
 | **Bee Crazy** | TypeScript / Node.js | 🔒 Sob Contrato / Confidencial (NDA) | Backend de alta concorrência para game em bot do Telegram com WebSockets e fila assíncrona de eventos (2024, Brasil). |
 | **Empresas Leads** | TypeScript / Node.js | 🔒 Sob Contrato / Confidencial (NDA) | Pipeline assíncrono de ingestão e ETL da base aberta de CNPJs da RFB com filas BullMQ e motor de disparo de e-mails em lote (2026, Brasil). |
+| **AxioPay** | Go / TypeScript | 🔒 Sob Contrato / Confidencial (NDA) | API de Banking-as-a-Service com contas virtuais, ledger transacional, webhooks e esteira KYC/AML (2022, Curaçao). |
 
 </details>
 
 <details>
-<summary><a id="stack-contracts"></a><h3>🔗 Smart Contracts & Blockchain Core (DEX/L1) (24 Projetos) — Clique para Expandir</h3></summary>
+<summary><a id="stack-contracts"></a><h3>🔗 Smart Contracts & Blockchain Core (DEX/L1) (25 Projetos) — Clique para Expandir</h3></summary>
 
 *Protocolos em Solidity, Ride, EVM, Hardhat, Foundry, Akka e Waves Core.*
 
@@ -639,6 +647,7 @@ Expanda os painéis abaixo para inspecionar os projetos por stack de linguagem:
 | **Sistema de Auditoria de Consenso** | Swift / Go | 🔒 Sob Contrato / Confidencial (NDA) | Suíte para análise e benchmarking de tolerância a falhas bizantinas em redes descentralizadas. |
 | **Piloto** | Go / Rust | 🔒 Sob Contrato / Confidencial (NDA) | Rede blockchain autônoma L1 com auto-calibração dinâmica de blocos e estabilização algorítmica de gas. |
 | **AxAi Swap** | Solidity | 🔒 Sob Contrato / Confidencial (NDA) | Smart contracts de AMM e pools de liquidez com roteamento preditivo de liquidez assistido por IA (2022, Curaçao). |
+| **Young Market** | Ride | 🔒 Sob Contrato / Confidencial (NDA) | Contratos Ride na rede Waves para emissão, registro e distribuição das cotas de direito de imagem de atletas (2024, Brasil). |
 
 </details>
 
@@ -715,9 +724,9 @@ Expanda os painéis abaixo para inspecionar os projetos por stack de linguagem:
 ---
 
 <a id="tabela-mestra"></a>
-## 📊 Matriz Geral de Todos os Projetos (117 Sistemas Selecionados)
+## 📊 Matriz Geral de Todos os Projetos (119 Sistemas Selecionados)
 
-A matriz a seguir consolida **os 117 principais projetos de alta complexidade** desenvolvidos, mantidos e liderados tecnicamente por Diego Antunes. Repositórios de código aberto possuem links diretos de acesso; projetos confidenciais sob contrato corporativo/NDA estão protegidos por sigilo contratual conforme as normas vigentes:
+A matriz a seguir consolida **os 119 principais projetos de alta complexidade** desenvolvidos, mantidos e liderados tecnicamente por Diego Antunes. Repositórios de código aberto possuem links diretos de acesso; projetos confidenciais sob contrato corporativo/NDA estão protegidos por sigilo contratual conforme as normas vigentes:
 
 | # | Projeto | Categoria Principal | Linguagem | Stack Tecnológica | Ano / Origem | Status & Acesso |
 |:---:|:---|:---|:---:|:---|:---:|:---:|
@@ -838,6 +847,8 @@ A matriz a seguir consolida **os 117 principais projetos de alta complexidade** 
 | 115 | **Angel Online** | Enterprise & Web Corporativa | TypeScript | NestJS, Next.js, PostgreSQL, Docker, Cloud Run, Swiss TWINT Gateway, SEPA | 2026 • Suíça | 🔒 Sob Contrato / Confidencial (NDA) |
 | 116 | **Empresas Leads** | Enterprise & Web Corporativa | TypeScript | Next.js, Node.js, PostgreSQL / ClickHouse, BullMQ, RFB Open Data ETL, SMTP Engine | 2026 • Brasil | 🔒 Sob Contrato / Confidencial (NDA) |
 | 117 | **VertexAI** | IA, Visão & Automação | Dart / Flutter | Flutter, LLM APIs, Streaming SSE, Histórico de Conversas, Push Notifications | 2024 • Turquia | 🔒 Sob Contrato / Confidencial (NDA) |
+| 118 | **Young Market** | Web3, L1/L2 & DeFi | TypeScript / Ride | Next.js, Node.js, Ride Smart Contracts, Waves, KYC, Pix Gateway | 2024 • Brasil | 🔒 Sob Contrato / Confidencial (NDA) |
+| 119 | **AxioPay** | Web3, L1/L2 & DeFi | Go / TypeScript | Go, Node.js, PostgreSQL, REST/Webhooks, KYC/AML, Contas Virtuais, Cartões | 2022 • Curaçao (Caribe) | 🔒 Sob Contrato / Confidencial (NDA) |
 
 ---
 
