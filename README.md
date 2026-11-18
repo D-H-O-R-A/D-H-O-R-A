@@ -217,6 +217,7 @@ Especializado em assumir desafios de **extrema complexidade algorítmica e arqui
 | **AegisOps (Autonomous SRE)** | 🔒 Sob Contrato / Confidencial (NDA) | Go / Python | Go, Kubernetes Controller, Prometheus Metric Streaming, eBPF Anomaly Detection | Sistema autônomo de confiabilidade de infraestrutura (SRE) que correlaciona telemetria distribuída, antecipa anomalias e executa remediações automáticas. |
 | **DocuMind AI (Domain-Scoped PDF LLM)** | 🔒 Sob Contrato / Confidencial (NDA) | Python / TypeScript | Python, Strict Domain RAG, PDF Semantic Parsing, Hallucination-Free Vector Guardrails | Plataforma de IA com ancoragem estrita de contexto: ingere acervos de PDFs técnicos, gerando embeddings semânticos para responder exclusivamente com base no material fornecido. |
 | **Love Chat** | 🔒 Sob Contrato / Confidencial (NDA) | TypeScript / Python | Next.js, FastAPI, Multi-agent LLM, Stable Diffusion / SDXL, Vector Context, WebSockets | Plataforma conversacional de IA multimodal (NSFW) com +10 mil personas, geração contextual de imagens em tempo real e simulação imersiva de diálogos (2024, Turquia). |
+| **VertexAI** | 🔒 Sob Contrato / Confidencial (NDA) | Dart / Flutter | Flutter, LLM APIs, Streaming SSE, Histórico de Conversas, Push Notifications | Aplicativo mobile de mensagens com IA no estilo ChatGPT: conversas com LLM em streaming, histórico persistente e múltiplos contextos de chat (2024, Turquia). |
 
 <a id="cat-mobile"></a>
 ### 📱 Categoria 6: Mobile Nativa & Cross-Platform (iOS & Android)
@@ -482,7 +483,7 @@ Expanda os painéis abaixo para inspecionar os projetos por stack de linguagem:
 </details>
 
 <details>
-<summary><a id="lang-flutter"></a><h3>🎯 Dart / Flutter (iOS & Android) (18 Projetos) — Clique para Expandir</h3></summary>
+<summary><a id="lang-flutter"></a><h3>🎯 Dart / Flutter (iOS & Android) (19 Projetos) — Clique para Expandir</h3></summary>
 
 | Projeto | Status / Acesso | Categoria | Descrição Técnica |
 |:---|:---:|:---|:---|
@@ -504,6 +505,7 @@ Expanda os painéis abaixo para inspecionar os projetos por stack de linguagem:
 | **IO Binários App** | 🔒 Sob Contrato / Confidencial (NDA) | Mobile (iOS & Android) | Aplicativo mobile de alta frequência para negociação de opções binárias e derivativos com streaming de cotações em sub-milissegundos e execução em 1 toque. |
 | **DDM Phone** | 🔒 Sob Contrato / Confidencial (NDA) | Mobile (iOS & Android) | Aplicativo corporativo mobile de comunicação VoIP e telefonia IP criptografada ponta a ponta com discagem institucional integrada ao ecossistema DDM. |
 | **Encheu App** | 🔒 Sob Contrato / Confidencial (NDA) | Mobile (iOS & Android) | Aplicativo mobile de clube de benefícios para motoristas de aplicativo (Uber/99): descontos em combustível via tickets digitais em postos de gasolina credenciados (estilo Cartão de Todos da gasolina). |
+| **VertexAI** | 🔒 Sob Contrato / Confidencial (NDA) | IA, Visão & Automação | Aplicativo mobile de mensagens com IA no estilo ChatGPT, com respostas em streaming e histórico de conversas (2024, Turquia). |
 
 </details>
 
@@ -641,7 +643,7 @@ Expanda os painéis abaixo para inspecionar os projetos por stack de linguagem:
 </details>
 
 <details>
-<summary><a id="stack-mobile"></a><h3>📲 Mobile & Apps iOS/Android (17 Projetos) — Clique para Expandir</h3></summary>
+<summary><a id="stack-mobile"></a><h3>📲 Mobile & Apps iOS/Android (18 Projetos) — Clique para Expandir</h3></summary>
 
 *Aplicações nativas e cross-platform em Flutter, Dart, Android Nativo (Java), VpnService e WebSockets em tempo real.*
 
@@ -664,6 +666,7 @@ Expanda os painéis abaixo para inspecionar os projetos por stack de linguagem:
 | **IO Binários App** | Dart / Flutter | 🔒 Sob Contrato / Confidencial (NDA) | Aplicativo mobile de alta frequência para negociação de opções binárias e derivativos com streaming de cotações em sub-milissegundos e execução em 1 toque. |
 | **DDM Phone** | Dart / Flutter | 🔒 Sob Contrato / Confidencial (NDA) | Aplicativo corporativo mobile de comunicação VoIP e telefonia IP criptografada ponta a ponta com discagem institucional integrada ao ecossistema DDM. |
 | **Encheu App** | Dart / Flutter | 🔒 Sob Contrato / Confidencial (NDA) | Aplicativo mobile de clube de benefícios para motoristas de aplicativo (Uber/99): descontos em combustível via tickets digitais em postos de gasolina credenciados (estilo Cartão de Todos da gasolina). |
+| **VertexAI** | Dart / Flutter | 🔒 Sob Contrato / Confidencial (NDA) | App de chat com IA (estilo ChatGPT) para iOS e Android, com streaming de respostas e histórico sincronizado (2024, Turquia). |
 
 </details>
 
@@ -712,9 +715,9 @@ Expanda os painéis abaixo para inspecionar os projetos por stack de linguagem:
 ---
 
 <a id="tabela-mestra"></a>
-## 📊 Matriz Geral de Todos os Projetos (116 Sistemas Selecionados)
+## 📊 Matriz Geral de Todos os Projetos (117 Sistemas Selecionados)
 
-A matriz a seguir consolida **os 116 principais projetos de alta complexidade** desenvolvidos, mantidos e liderados tecnicamente por Diego Antunes. Repositórios de código aberto possuem links diretos de acesso; projetos confidenciais sob contrato corporativo/NDA estão protegidos por sigilo contratual conforme as normas vigentes:
+A matriz a seguir consolida **os 117 principais projetos de alta complexidade** desenvolvidos, mantidos e liderados tecnicamente por Diego Antunes. Repositórios de código aberto possuem links diretos de acesso; projetos confidenciais sob contrato corporativo/NDA estão protegidos por sigilo contratual conforme as normas vigentes:
 
 | # | Projeto | Categoria Principal | Linguagem | Stack Tecnológica | Ano / Origem | Status & Acesso |
 |:---:|:---|:---|:---:|:---|:---:|:---:|
@@ -818,13 +821,13 @@ A matriz a seguir consolida **os 116 principais projetos de alta complexidade** 
 | 98 | **Archon AI (Autonomous Software Engineer)** | IA, Visão & Automação | Python / TypeScript | Python, TypeScript, AST Parser, Tree-sitter, Git Automation, LLM Multi-Agent | 2025 • Portugal | 🔒 Sob Contrato / Confidencial (NDA) |
 | 99 | **Hyperion AI Gateway** | IA, Visão & Automação | Go | Go, Reverse Proxy, Caching Semântico, Token Bucket Rate Limiting, Streaming SSE | 2024 • Turquia | 🔒 Sob Contrato / Confidencial (NDA) |
 | 100 | **OmniCognition RAG** | IA, Visão & Automação | Python | Python, Qdrant/Milvus, Hybrid Search, Cross-Encoder Re-ranking, Document Chunking | 2024 • Turquia | 🔒 Sob Contrato / Confidencial (NDA) |
-| 101 | **AegisOps (Autonomous SRE)** | IA, Visão & Automação | Go / Python | Go, Kubernetes Operator, Prometheus Metrics, Auto-remediation, LLM RCA | — | 🔒 Sob Contrato / Confidencial (NDA) |
-| 102 | **Krypton Ledger** | Web3, L1/L2 & DeFi | Go / Scala | Go, Distributed Double-Entry Ledger, Sub-millisecond Clearing, Cryptographic Audit Trails | — | 🔒 Sob Contrato / Confidencial (NDA) |
-| 103 | **ForgeStack IDP** | Enterprise & Web Corporativa | TypeScript | Backstage, TypeScript, Kubernetes, ArgoCD, Terraform, Ephemeral Envs | — | 🔒 Sob Contrato / Confidencial (NDA) |
-| 104 | **SentinelGuard AI Security Lab** | Criptografia, Segurança & RE | Python / Shell | Python, Red Teaming, Prompt Injection Defense, Jailbreak Emulation, Agent Sandboxing | — | 🔒 Sob Contrato / Confidencial (NDA) |
-| 105 | **VortexStream Engine** | Baixo Nível & Emulação | Go / Rust | Go, Lock-free Ring Buffers, Zero-allocation, High-Throughput Streaming (>500k ops/sec) | — | 🔒 Sob Contrato / Confidencial (NDA) |
-| 106 | **PolyTenant Core** | Enterprise & Web Corporativa | TypeScript / Go | TypeScript, Node.js, PostgreSQL Row-Level Security, Tenant Sharding, Distributed Cache | — | 🔒 Sob Contrato / Confidencial (NDA) |
-| 107 | **Valkyrie Local AI Cluster** | Baixo Nível & Emulação | Python / Shell | vLLM Engine, Tensor Parallelism, Local GPU Clusters, AWQ/GGUF Quantization | — | 🔒 Sob Contrato / Confidencial (NDA) |
+| 101 | **AegisOps (Autonomous SRE)** | IA, Visão & Automação | Go / Python | Go, Kubernetes Operator, Prometheus Metrics, Auto-remediation, LLM RCA | 2024 • Turquia | 🔒 Sob Contrato / Confidencial (NDA) |
+| 102 | **Krypton Ledger** | Web3, L1/L2 & DeFi | Go / Scala | Go, Distributed Double-Entry Ledger, Sub-millisecond Clearing, Cryptographic Audit Trails | 2025 • França | 🔒 Sob Contrato / Confidencial (NDA) |
+| 103 | **ForgeStack IDP** | Enterprise & Web Corporativa | TypeScript | Backstage, TypeScript, Kubernetes, ArgoCD, Terraform, Ephemeral Envs | 2026 • Espanha | 🔒 Sob Contrato / Confidencial (NDA) |
+| 104 | **SentinelGuard AI Security Lab** | Criptografia, Segurança & RE | Python / Shell | Python, Red Teaming, Prompt Injection Defense, Jailbreak Emulation, Agent Sandboxing | 2026 • Suíça | 🔒 Sob Contrato / Confidencial (NDA) |
+| 105 | **VortexStream Engine** | Baixo Nível & Emulação | Go / Rust | Go, Lock-free Ring Buffers, Zero-allocation, High-Throughput Streaming (>500k ops/sec) | 2025 • Turquia | 🔒 Sob Contrato / Confidencial (NDA) |
+| 106 | **PolyTenant Core** | Enterprise & Web Corporativa | TypeScript / Go | TypeScript, Node.js, PostgreSQL Row-Level Security, Tenant Sharding, Distributed Cache | 2025 • Estados Unidos | 🔒 Sob Contrato / Confidencial (NDA) |
+| 107 | **Valkyrie Local AI Cluster** | Baixo Nível & Emulação | Python / Shell | vLLM Engine, Tensor Parallelism, Local GPU Clusters, AWQ/GGUF Quantization | 2026 • Brasil (Projeto Próprio) | 🔒 Sob Contrato / Confidencial (NDA) |
 | 108 | **ApexChain Autonomous Core** | Web3, L1/L2 & DeFi | Go / Rust | Go, Autonomous L1 Consensus, Dynamic Block Parameter Tuning, Gas Self-Stabilization | 2024 • Turquia | 🔒 Sob Contrato / Confidencial (NDA) |
 | 109 | **DocuMind AI (Domain-Scoped PDF LLM)** | IA, Visão & Automação | Python | Python, LangChain, PyMuPDF, Strict Grounded RAG, Vector Embeddings | 2024 • Turquia | 🔒 Sob Contrato / Confidencial (NDA) |
 | 110 | **Solana Flash Bot** | Web3, L1/L2 & DeFi | Rust / TypeScript | Solana, Rust, Anchor, Raydium/Orca DEX Routing, Flash Swaps, High-Frequency Trading | 2025 • Estados Unidos | 🔒 Sob Contrato / Confidencial (NDA) |
@@ -834,6 +837,7 @@ A matriz a seguir consolida **os 116 principais projetos de alta complexidade** 
 | 114 | **UNits Social** | Enterprise & Web Corporativa | TypeScript | Next.js, GraphQL, PostgreSQL, Web3 Social Graph, Creator Monetization | 2024 • Suíça | 🔒 Sob Contrato / Confidencial (NDA) |
 | 115 | **Angel Online** | Enterprise & Web Corporativa | TypeScript | NestJS, Next.js, PostgreSQL, Docker, Cloud Run, Swiss TWINT Gateway, SEPA | 2026 • Suíça | 🔒 Sob Contrato / Confidencial (NDA) |
 | 116 | **Empresas Leads** | Enterprise & Web Corporativa | TypeScript | Next.js, Node.js, PostgreSQL / ClickHouse, BullMQ, RFB Open Data ETL, SMTP Engine | 2026 • Brasil | 🔒 Sob Contrato / Confidencial (NDA) |
+| 117 | **VertexAI** | IA, Visão & Automação | Dart / Flutter | Flutter, LLM APIs, Streaming SSE, Histórico de Conversas, Push Notifications | 2024 • Turquia | 🔒 Sob Contrato / Confidencial (NDA) |
 
 ---
 
