@@ -265,6 +265,7 @@ Especializado em assumir desafios de **extrema complexidade algorítmica e arqui
 | **ForgeStack IDP** | 🔒 Sob Contrato / Confidencial (NDA) | TypeScript / Go | TypeScript, Next.js, Kubernetes Helm, Docker, Ephemeral Envs, Microservices Catalog | Plataforma interna de engenharia (IDP) unificada com provisionamento automatizado de ambientes efêmeros, service catalog e governança de microsserviços. |
 | **PolyTenant Core** | 🔒 Sob Contrato / Confidencial (NDA) | TypeScript / Go | TypeScript, Multi-tenant Architecture, Dynamic Sharding, Isolated Schemas, Stripe | Infraestrutura SaaS multi-tenant de alta escalabilidade com isolamento lógico de banco de dados, gestão de cotas por organização e billing recorrente. |
 | **UNits Social** | 🔒 Sob Contrato / Confidencial (NDA) | TypeScript | Next.js, GraphQL, PostgreSQL, Web3 Social Graph, Creator Monetization | Rede social corporativa Web3 baseada na Suíça com monetização descentralizada de criadores e controle de privacidade de dados (2024, Suíça). |
+| **Empresas Leads** | 🔒 Sob Contrato / Confidencial (NDA) | TypeScript | Next.js, Node.js, PostgreSQL / ClickHouse, BullMQ, RFB Open Data ETL, SMTP Engine | Plataforma B2B de enriquecimento e geração de leads com base nos dados públicos da Receita Federal (CNPJ), filtros avançados e automação de campanhas de e-mail (2026, Brasil). |
 
 <a id="cat-opensource"></a>
 ### 📦 Categoria 8: Projetos Open Source, Ferramentas CLI & Pacotes NPM
@@ -339,7 +340,7 @@ Expanda os painéis abaixo para inspecionar os projetos por stack de linguagem:
 </details>
 
 <details>
-<summary><a id="lang-ts-js"></a><h3>⚡ TypeScript & JavaScript (40 Projetos) — Clique para Expandir</h3></summary>
+<summary><a id="lang-ts-js"></a><h3>⚡ TypeScript & JavaScript (41 Projetos) — Clique para Expandir</h3></summary>
 
 | Projeto | Status / Acesso | Categoria | Descrição Técnica |
 |:---|:---:|:---|:---|
@@ -383,6 +384,7 @@ Expanda os painéis abaixo para inspecionar os projetos por stack de linguagem:
 | **Waves Play** | 🔒 Sob Contrato / Confidencial (NDA) | Web3, L1/L2 & DeFi | Plataforma de jogos Web3 com integração de smart contracts e ativos digitais na blockchain Waves (2023, Suíça). |
 | **Bee Crazy** | 🔒 Sob Contrato / Confidencial (NDA) | Web3, L1/L2 & DeFi | Jogo transacional via Telegram Bot com mecânicas de tap-to-earn e custódia simplificada (2024, Brasil). |
 | **UNits Social** | 🔒 Sob Contrato / Confidencial (NDA) | Enterprise & Web Corporativa | Rede social corporativa Web3 com monetização de criadores e privacidade de dados (2024, Suíça). |
+| **Empresas Leads** | 🔒 Sob Contrato / Confidencial (NDA) | Enterprise & Web Corporativa | Plataforma B2B de enriquecimento e geração de leads com base nos dados públicos da Receita Federal (CNPJ), filtros avançados e automação de campanhas de e-mail (2026, Brasil). |
 
 </details>
 
@@ -531,7 +533,7 @@ Expanda os painéis abaixo para inspecionar os projetos por stack de linguagem:
 ## 🛠️ 3. Filtro Interativo por Stack & Camada de Arquitetura
 
 <details>
-<summary><a id="stack-frontend"></a><h3>🖥️ Frontend & Interfaces Web3 (22 Projetos) — Clique para Expandir</h3></summary>
+<summary><a id="stack-frontend"></a><h3>🖥️ Frontend & Interfaces Web3 (23 Projetos) — Clique para Expandir</h3></summary>
 
 *Aplicações de ponta em React 18/19, Next.js, Vite, Three.js, WebGL e Tailwind CSS.*
 
@@ -559,11 +561,12 @@ Expanda os painéis abaixo para inspecionar os projetos por stack de linguagem:
 | **ForgeStack IDP** | TypeScript | 🔒 Sob Contrato / Confidencial (NDA) | Plataforma interna de engenharia (IDP) unificada com service catalog, ambientes efêmeros e CI/CD. |
 | **Waves Play** | TypeScript | 🔒 Sob Contrato / Confidencial (NDA) | Portal e ecossistema de jogos Web3 na rede Waves com conexão de carteiras e marketplace de itens (2023, Suíça). |
 | **UNits Social** | TypeScript | 🔒 Sob Contrato / Confidencial (NDA) | Interface web reativa e aplicativo social com integração de carteiras e feed em tempo real (2024, Suíça). |
+| **Empresas Leads** | TypeScript | 🔒 Sob Contrato / Confidencial (NDA) | Interface web para busca avançada de empresas por CNAE/UF, exportação e gestão de campanhas de e-mail (2026, Brasil). |
 
 </details>
 
 <details>
-<summary><a id="stack-backend"></a><h3>🔌 Backend, Microserviços & Matching Engines (30 Projetos) — Clique para Expandir</h3></summary>
+<summary><a id="stack-backend"></a><h3>🔌 Backend, Microserviços & Matching Engines (31 Projetos) — Clique para Expandir</h3></summary>
 
 *Serviços escaláveis em Go, Node.js, NestJS, FastAPI, Redis In-Memory OrderBook, BullMQ e gRPC.*
 
@@ -599,6 +602,7 @@ Expanda os painéis abaixo para inspecionar os projetos por stack de linguagem:
 | **Love Chat** | TypeScript / Python | 🔒 Sob Contrato / Confidencial (NDA) | Plataforma conversacional de IA multimodal (NSFW) com +10 mil personas, geração contextual de imagens com IA e WebSockets em tempo real. |
 | **Angel Online** | TypeScript | 🔒 Sob Contrato / Confidencial (NDA) | Backend corporativo de alta segurança com integração direta a provedores bancários suíços (TWINT / SEPA) (2026, Suíça). |
 | **Bee Crazy** | TypeScript / Node.js | 🔒 Sob Contrato / Confidencial (NDA) | Backend de alta concorrência para game em bot do Telegram com WebSockets e fila assíncrona de eventos (2024, Brasil). |
+| **Empresas Leads** | TypeScript / Node.js | 🔒 Sob Contrato / Confidencial (NDA) | Pipeline assíncrono de ingestão e ETL da base aberta de CNPJs da RFB com filas BullMQ e motor de disparo de e-mails em lote (2026, Brasil). |
 
 </details>
 
@@ -708,9 +712,9 @@ Expanda os painéis abaixo para inspecionar os projetos por stack de linguagem:
 ---
 
 <a id="tabela-mestra"></a>
-## 📊 Matriz Geral de Todos os Projetos (115 Sistemas Selecionados)
+## 📊 Matriz Geral de Todos os Projetos (116 Sistemas Selecionados)
 
-A matriz a seguir consolida **os 115 principais projetos de alta complexidade** desenvolvidos, mantidos e liderados tecnicamente por Diego Antunes. Repositórios de código aberto possuem links diretos de acesso; projetos confidenciais sob contrato corporativo/NDA estão protegidos por sigilo contratual conforme as normas vigentes:
+A matriz a seguir consolida **os 116 principais projetos de alta complexidade** desenvolvidos, mantidos e liderados tecnicamente por Diego Antunes. Repositórios de código aberto possuem links diretos de acesso; projetos confidenciais sob contrato corporativo/NDA estão protegidos por sigilo contratual conforme as normas vigentes:
 
 | # | Projeto | Categoria Principal | Linguagem | Stack Tecnológica | Ano / Origem | Status & Acesso |
 |:---:|:---|:---|:---:|:---|:---:|:---:|
@@ -829,6 +833,7 @@ A matriz a seguir consolida **os 115 principais projetos de alta complexidade** 
 | 113 | **Bee Crazy** | Web3, L1/L2 & DeFi | TypeScript / Python | Telegram Bot API, WebSockets, Node.js, Web3 Wallets, Tap-to-Earn Engine | 2024 • Brasil | 🔒 Sob Contrato / Confidencial (NDA) |
 | 114 | **UNits Social** | Enterprise & Web Corporativa | TypeScript | Next.js, GraphQL, PostgreSQL, Web3 Social Graph, Creator Monetization | 2024 • Suíça | 🔒 Sob Contrato / Confidencial (NDA) |
 | 115 | **Angel Online** | Enterprise & Web Corporativa | TypeScript | NestJS, Next.js, PostgreSQL, Docker, Cloud Run, Swiss TWINT Gateway, SEPA | 2026 • Suíça | 🔒 Sob Contrato / Confidencial (NDA) |
+| 116 | **Empresas Leads** | Enterprise & Web Corporativa | TypeScript | Next.js, Node.js, PostgreSQL / ClickHouse, BullMQ, RFB Open Data ETL, SMTP Engine | 2026 • Brasil | 🔒 Sob Contrato / Confidencial (NDA) |
 
 ---
 
