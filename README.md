@@ -144,6 +144,7 @@ Especializado em assumir desafios de **extrema complexidade algorítmica e arqui
 | **Sistema de Auditoria de Consenso** | 🔒 Sob Contrato / Confidencial (NDA) | Swift / Go | Distributed Benchmarking, Fault Tolerance, Byzantine Simulation | Suíte para análise e benchmarking de tolerância a falhas bizantinas em redes descentralizadas. |
 | **Krypton Ledger** | 🔒 Sob Contrato / Confidencial (NDA) | Go / Scala | Go, Distributed Double-Entry Ledger, Sub-millisecond Clearing, Cryptographic Audit Trails | Infraestrutura financeira distribuída de livro-razão de alta vazão com imutabilidade por blocos e conciliação contínua em tempo real. |
 | **ApexChain Autonomous Core** | 🔒 Sob Contrato / Confidencial (NDA) | Go / Rust | Go, Autonomous L1 Consensus, Dynamic Block Parameter Tuning, Gas Self-Stabilization | Rede blockchain autônoma com auto-calibração dinâmica de parâmetros de bloco, rebalanceamento automático de taxas e governança algorítmica. |
+| **Solana Flash Bot** | 🔒 Sob Contrato / Confidencial (NDA) | Rust / TypeScript | Solana, Rust, Anchor, Raydium/Orca DEX Routing, Flash Swaps, High-Frequency Trading | Bot de alta frequência para negociação e flash swaps na rede Solana: execução algorítmica de arbitragem e trade automatizado (compra na baixa, venda na alta). |
 
 <a id="cat-crypto"></a>
 ### 🛡️ Categoria 2: Criptografia, Segurança, Cibersegurança & RE
@@ -309,12 +310,13 @@ Especializado em assumir desafios de **extrema complexidade algorítmica e arqui
 Expanda os painéis abaixo para inspecionar os projetos por stack de linguagem:
 
 <details>
-<summary><a id="lang-rust"></a><h3>🦀 Rust (2 Projetos) — Clique para Expandir</h3></summary>
+<summary><a id="lang-rust"></a><h3>🦀 Rust (3 Projetos) — Clique para Expandir</h3></summary>
 
 | Projeto | Status / Acesso | Categoria | Descrição Técnica |
 |:---|:---:|:---|:---|
 | **[Android-real-emulator](https://github.com/D-H-O-R-A/Android-real-emulator)** | [🌐 GitHub](https://github.com/D-H-O-R-A/Android-real-emulator) | Baixo Nível & Emulação | DroidRun: Runner open-source em Rust para rodar o Android Oficial em desktops com Google Play e tradução ARM64. |
 | **Engine de Derivação Criptográfica** | 🔒 Sob Contrato / Confidencial (NDA) | Criptografia, Segurança & RE | Módulo proprietário de derivação e hashing de chaves criptográficas em tempo constante resistente a ataques de canal lateral. |
+| **Solana Flash Bot** | 🔒 Sob Contrato / Confidencial (NDA) | Web3, L1/L2 & DeFi | Bot de alta frequência para negociação e flash swaps na blockchain Solana (arbitragem, compra na baixa e venda na alta). |
 
 </details>
 
@@ -549,7 +551,7 @@ Expanda os painéis abaixo para inspecionar os projetos por stack de linguagem:
 </details>
 
 <details>
-<summary><a id="stack-backend"></a><h3>🔌 Backend, Microserviços & Matching Engines (26 Projetos) — Clique para Expandir</h3></summary>
+<summary><a id="stack-backend"></a><h3>🔌 Backend, Microserviços & Matching Engines (27 Projetos) — Clique para Expandir</h3></summary>
 
 *Serviços escaláveis em Go, Node.js, NestJS, FastAPI, Redis In-Memory OrderBook, BullMQ e gRPC.*
 
@@ -581,6 +583,7 @@ Expanda os painéis abaixo para inspecionar os projetos por stack de linguagem:
 | **VortexStream Engine** | Go / Rust | 🔒 Sob Contrato / Confidencial (NDA) | Motor de processamento de eventos em fluxo contínuo de altíssima vazão (>500k ops/seg) com zero-allocation. |
 | **PolyTenant Core** | TypeScript / Go | 🔒 Sob Contrato / Confidencial (NDA) | Infraestrutura de SaaS multi-inquilino com particionamento dinâmico de esquemas e isolamento rígido de dados. |
 | **DocuMind AI (Domain-Scoped PDF LLM)** | Python | 🔒 Sob Contrato / Confidencial (NDA) | Engine de IA para ancoragem estrita de conhecimento a partir de acervos técnicos em PDF, garantindo respostas livres de alucinações. |
+| **Solana Flash Bot** | Rust / TypeScript | 🔒 Sob Contrato / Confidencial (NDA) | Bot de alta frequência para negociação e flash swaps na rede Solana: execução algorítmica de arbitragem e trade automatizado (compra na baixa, venda na alta). |
 
 </details>
 
@@ -690,9 +693,9 @@ Expanda os painéis abaixo para inspecionar os projetos por stack de linguagem:
 ---
 
 <a id="tabela-mestra"></a>
-## 📊 Matriz Geral de Todos os Projetos (109 Sistemas Selecionados)
+## 📊 Matriz Geral de Todos os Projetos (110 Sistemas Selecionados)
 
-A matriz a seguir consolida **os 109 principais projetos de alta complexidade** desenvolvidos, mantidos e liderados tecnicamente por Diego Antunes. Repositórios de código aberto possuem links diretos de acesso; projetos confidenciais sob contrato corporativo/NDA estão protegidos por sigilo contratual conforme as normas vigentes:
+A matriz a seguir consolida **os 110 principais projetos de alta complexidade** desenvolvidos, mantidos e liderados tecnicamente por Diego Antunes. Repositórios de código aberto possuem links diretos de acesso; projetos confidenciais sob contrato corporativo/NDA estão protegidos por sigilo contratual conforme as normas vigentes:
 
 | # | Projeto | Categoria Principal | Linguagem | Stack Tecnológica | Status & Acesso |
 |:---:|:---|:---|:---:|:---|:---:|
@@ -805,6 +808,7 @@ A matriz a seguir consolida **os 109 principais projetos de alta complexidade** 
 | 107 | **Valkyrie Local AI Cluster** | Baixo Nível & Emulação | Python / Shell | vLLM Engine, Tensor Parallelism, Local GPU Clusters, AWQ/GGUF Quantization | 🔒 Sob Contrato / Confidencial (NDA) |
 | 108 | **ApexChain Autonomous Core** | Web3, L1/L2 & DeFi | Go / Rust | Go, Autonomous L1 Consensus, Dynamic Block Parameter Tuning, Gas Self-Stabilization | 🔒 Sob Contrato / Confidencial (NDA) |
 | 109 | **DocuMind AI (Domain-Scoped PDF LLM)** | IA, Visão & Automação | Python | Python, LangChain, PyMuPDF, Strict Grounded RAG, Vector Embeddings | 🔒 Sob Contrato / Confidencial (NDA) |
+| 110 | **Solana Flash Bot** | Web3, L1/L2 & DeFi | Rust / TypeScript | Solana, Rust, Anchor, Raydium/Orca DEX Routing, Flash Swaps, High-Frequency Trading | 🔒 Sob Contrato / Confidencial (NDA) |
 
 ---
 
