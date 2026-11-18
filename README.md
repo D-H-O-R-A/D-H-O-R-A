@@ -142,6 +142,8 @@ Especializado em assumir desafios de **extrema complexidade algorítmica e arqui
 | **Meta-X-Wallet** | 🔒 Sob Contrato / Confidencial (NDA) | TypeScript | React 18, TypeScript, Web3 Providers, Multi-asset Custody | Custódia descentralizada e gestão multi-ativo de carteiras digitais corporativas. |
 | **AMZ Wallet** | 🔒 Sob Contrato / Confidencial (NDA) | TypeScript | TypeScript, Waves/AMZX Connectors, Carbon Credit Transfers | Carteira dedicada para transacionar ativos de compensação ambiental e certificados verdes. |
 | **Sistema de Auditoria de Consenso** | 🔒 Sob Contrato / Confidencial (NDA) | Swift / Go | Distributed Benchmarking, Fault Tolerance, Byzantine Simulation | Suíte para análise e benchmarking de tolerância a falhas bizantinas em redes descentralizadas. |
+| **Krypton Ledger** | 🔒 Sob Contrato / Confidencial (NDA) | Go / Scala | Go, Distributed Double-Entry Ledger, Sub-millisecond Clearing, Cryptographic Audit Trails | Infraestrutura financeira distribuída de livro-razão de alta vazão com imutabilidade por blocos e conciliação contínua em tempo real. |
+| **ApexChain Autonomous Core** | 🔒 Sob Contrato / Confidencial (NDA) | Go / Rust | Go, Autonomous L1 Consensus, Dynamic Block Parameter Tuning, Gas Self-Stabilization | Rede blockchain autônoma com auto-calibração dinâmica de parâmetros de bloco, rebalanceamento automático de taxas e governança algorítmica. |
 
 <a id="cat-crypto"></a>
 ### 🛡️ Categoria 2: Criptografia, Segurança, Cibersegurança & RE
@@ -156,6 +158,7 @@ Especializado em assumir desafios de **extrema complexidade algorítmica e arqui
 | **Hide-Protocol-App-VPN** | 🔒 Sob Contrato / Confidencial (NDA) | Dart / C | Flutter, OpenVPN, Shadowsocks/V2Ray, Stealth Tunnels, WireGuard | Suíte móvel de privacidade com camuflagem de pacotes contra DPI (Deep Packet Inspection). |
 | **Laboratório Forense OmeTV** | 🔒 Sob Contrato / Confidencial (NDA) | JavaScript | Node.js, WebRTC Forensics, Secure WebSockets (WSS), Responsible Disclosure | Auditoria forense demonstrando falhas críticas de segurança e vazamento de dados no protocolo WebRTC da OmeTV, formalmente reportadas à equipe de TI da plataforma para correção. |
 | **Engine de Derivação Criptográfica** | 🔒 Sob Contrato / Confidencial (NDA) | Rust / WebCrypto | Rust, Argon2id, AES-256-GCM, Constant-Time Primitives | Módulo proprietário de derivação e hashing de chaves criptográficas em tempo constante resistente a ataques de canal lateral. |
+| **SentinelGuard AI Security Lab** | 🔒 Sob Contrato / Confidencial (NDA) | Python / Shell | Python, Red Teaming, Prompt Injection Defense, Jailbreak Emulation, Agent Sandboxing | Laboratório de segurança defensiva e sandbox de auditoria para agentes autônomos, avaliando vulnerabilidades em runtime contra jailbreaks e exfiltração de dados. |
 
 <a id="cat-gis"></a>
 ### 🗺️ Categoria 3: Computação Espacial, GIS & Games 3D (Unity / WebGL)
@@ -185,6 +188,8 @@ Especializado em assumir desafios de **extrema complexidade algorítmica e arqui
 | **[BlackServerOS](https://github.com/D-H-O-R-A/BlackServerOS)** | [🌐 Repositório](https://github.com/D-H-O-R-A/BlackServerOS) | Shell | Bash, Linux Kernel Hardening, Minimal Security Appliance | Scripts e automação para compilação de appliance Linux minimalista de alta segurança para servidores de missão crítica. |
 | **[ar-ml-iOS-measure-detect](https://github.com/D-H-O-R-A/ar-ml-iOS-measure-detect)** | [🌐 Repositório](https://github.com/D-H-O-R-A/ar-ml-iOS-measure-detect) | C++ | C++, OpenCV, Metal Shaders, Low-Level SIMD, iOS | Pipeline em C++ de baixa latência para visão computacional, medições métricas e inferência em iOS. |
 | **Web3OS** | 🔒 Sob Contrato / Confidencial (NDA) | Shell / Linux | openSUSE, Linux Appliance, Web3 Core Tools, Integrated Wallets, Hardening | Sistema operacional customizado baseado em openSUSE voltado ao mercado Web3: ambiente pré-configurado com nós de rede, carteiras criptográficas, SDKs e hardening avançado. |
+| **VortexStream Engine** | 🔒 Sob Contrato / Confidencial (NDA) | Go / Rust | Go, Lock-free Ring Buffers, Zero-allocation, High-Throughput Streaming (>500k ops/sec) | Motor de processamento de eventos em fluxo contínuo de altíssima vazão projetado com buffer de memória circular, janelamento temporal e zero-allocation em Go. |
+| **Valkyrie Local AI Cluster** | 🔒 Sob Contrato / Confidencial (NDA) | Python / Shell | vLLM Engine, Tensor Parallelism, Local GPU Clusters, AWQ/GGUF Quantization | Cluster bare-metal de inferência de IA 100% offline e privada, com orquestração vLLM, paralelismo de tensores em GPUs locais e quantização AWQ/GGUF para dados confidenciais. |
 
 <a id="cat-ai"></a>
 ### 🤖 Categoria 5: Inteligência Artificial, Visão Computacional & Automação
@@ -202,6 +207,12 @@ Especializado em assumir desafios de **extrema complexidade algorítmica e arqui
 | **METATRON** | 🔒 Sob Contrato (NDA Governamental) | TypeScript | Next.js, Node.js, Biometria Facial / IA, PostGIS, Alertas Táticos | Sistema Integrado de Inteligência & Captura de Foragidos para Segurança Pública, cruzando alertas em tempo real. |
 | **ChatBuilder (Satochat)** | 🔒 Sob Contrato / Confidencial (NDA) | TypeScript | Next.js, LangChain, Embeddings, Vector Database, Cloud Functions | Plataforma SaaS para treinamento e implantação de agentes de conversação autônomos baseados em sites. |
 | **Axio AI** | 🔒 Sob Contrato / Confidencial (NDA) | Python / TypeScript | Python, FastAPI, React, LLM Multi-modal Inference, Diffusion Models, Vector RAG | Plataforma proprietária de IA generativa multimodal (2023) estilo ChatGPT, integrando diálogos inteligentes via LLMs e geração simultânea de imagens e texto. |
+| **NexusAgent Runtime** | 🔒 Sob Contrato / Confidencial (NDA) | Python / Rust | Python, AsyncIO, Distributed State, Vector Memory, Multi-Agent Swarms | Runtime distribuído de alta concorrência para execução, supervisão e persistência de estado de enxames de agentes autônomos com memória vetorial compartilhada. |
+| **Archon AI** | 🔒 Sob Contrato / Confidencial (NDA) | Python / TypeScript | Python, LLM Reasoning, Code Generation, AST Analysis, Git CI/CD Automation | Engenheiro de software autônomo capaz de inspecionar codebases, planejar arquitetura, gerar código tipado, executar testes e abrir pull requests. |
+| **Hyperion AI Gateway** | 🔒 Sob Contrato / Confidencial (NDA) | Go | Go (Golang), Low-latency Proxy, Semantic Caching, Token Rate-limiting, gRPC | Gateway de inferência multi-modelo com fallback de baixa latência, rate-limiting distribuído, caching semântico de embeddings e balanceamento de tokens. |
+| **OmniCognition RAG** | 🔒 Sob Contrato / Confidencial (NDA) | Python | Python, Dense Retrieval, BM25 Hybrid Search, Cross-Encoder Re-ranking, Milvus | Mecanismo RAG corporativo de alta fidelidade com busca híbrida, re-ranking neural e particionamento multi-tenant seguro de vetores em escala petabyte. |
+| **AegisOps (Autonomous SRE)** | 🔒 Sob Contrato / Confidencial (NDA) | Go / Python | Go, Kubernetes Controller, Prometheus Metric Streaming, eBPF Anomaly Detection | Sistema autônomo de confiabilidade de infraestrutura (SRE) que correlaciona telemetria distribuída, antecipa anomalias e executa remediações automáticas. |
+| **DocuMind AI (Domain-Scoped PDF LLM)** | 🔒 Sob Contrato / Confidencial (NDA) | Python / TypeScript | Python, Strict Domain RAG, PDF Semantic Parsing, Hallucination-Free Vector Guardrails | Plataforma de IA com ancoragem estrita de contexto: ingere acervos de PDFs técnicos, gerando embeddings semânticos para responder exclusivamente com base no material fornecido. |
 
 <a id="cat-mobile"></a>
 ### 📱 Categoria 6: Mobile Nativa & Cross-Platform (iOS & Android)
@@ -246,6 +257,8 @@ Especializado em assumir desafios de **extrema complexidade algorítmica e arqui
 | **Encheu Web** | 🔒 Sob Contrato / Confidencial (NDA) | TypeScript | Next.js, PostgreSQL, Ticket Clearing, Financial Reconciliation, Partner Stations Hub | Plataforma web corporativa da rede Encheu para credenciamento de postos de gasolina, conciliação financeira de tickets emitidos e gestão de repasses. |
 | **Summit Prime** | 🔒 Sob Contrato / Confidencial (NDA) | TypeScript | React, Next.js, Node.js, Swiss Cloud Infrastructure, Enterprise Security | Plataforma corporativa e infraestrutura digital da Summit Prime, hub suíço de engenharia de software e tecnologia corporativa. |
 | **Mamba Agência** | 🔒 Sob Contrato / Confidencial (NDA) | TypeScript | Next.js, Node.js, Social Media API Auth, Task Verification, Automated Micro-rewards | Plataforma e ecossistema digital para intermediação e crescimento de seguidores em redes sociais com consentimento dos usuários e recompensas automatizadas por engajamento e tarefas concluídas. |
+| **ForgeStack IDP** | 🔒 Sob Contrato / Confidencial (NDA) | TypeScript / Go | TypeScript, Next.js, Kubernetes Helm, Docker, Ephemeral Envs, Microservices Catalog | Plataforma interna de engenharia (IDP) unificada com provisionamento automatizado de ambientes efêmeros, service catalog e governança de microsserviços. |
+| **PolyTenant Core** | 🔒 Sob Contrato / Confidencial (NDA) | TypeScript / Go | TypeScript, Multi-tenant Architecture, Dynamic Sharding, Isolated Schemas, Stripe | Infraestrutura SaaS multi-tenant de alta escalabilidade com isolamento lógico de banco de dados, gestão de cotas por organização e billing recorrente. |
 
 <a id="cat-opensource"></a>
 ### 📦 Categoria 8: Projetos Open Source, Ferramentas CLI & Pacotes NPM
@@ -319,7 +332,7 @@ Expanda os painéis abaixo para inspecionar os projetos por stack de linguagem:
 </details>
 
 <details>
-<summary><a id="lang-ts-js"></a><h3>⚡ TypeScript & JavaScript (34 Projetos) — Clique para Expandir</h3></summary>
+<summary><a id="lang-ts-js"></a><h3>⚡ TypeScript & JavaScript (36 Projetos) — Clique para Expandir</h3></summary>
 
 | Projeto | Status / Acesso | Categoria | Descrição Técnica |
 |:---|:---:|:---|:---|
@@ -357,6 +370,8 @@ Expanda os painéis abaixo para inspecionar os projetos por stack de linguagem:
 | **Encheu Web** | 🔒 Sob Contrato / Confidencial (NDA) | Enterprise & Web Corporativa | Plataforma web corporativa da rede Encheu para credenciamento de postos, conciliação de tickets e repasses. |
 | **Summit Prime** | 🔒 Sob Contrato / Confidencial (NDA) | Enterprise & Web Corporativa | Plataforma corporativa e infraestrutura digital da Summit Prime, hub suíço de tecnologia corporativa. |
 | **Mamba Agência** | 🔒 Sob Contrato / Confidencial (NDA) | Enterprise & Web Corporativa | Plataforma digital para intermediação e crescimento de seguidores com consentimento e recompensas automatizadas. |
+| **ForgeStack IDP** | 🔒 Sob Contrato / Confidencial (NDA) | Enterprise & Web Corporativa | Plataforma interna de engenharia (IDP) unificada com service catalog, ambientes efêmeros e CI/CD. |
+| **PolyTenant Core** | 🔒 Sob Contrato / Confidencial (NDA) | Enterprise & Web Corporativa | Infraestrutura SaaS multi-tenant escalável com isolamento lógico de banco de dados e billing automatizado. |
 
 </details>
 
@@ -380,7 +395,7 @@ Expanda os painéis abaixo para inspecionar os projetos por stack de linguagem:
 </details>
 
 <details>
-<summary><a id="lang-python"></a><h3>🐍 Python (6 Projetos) — Clique para Expandir</h3></summary>
+<summary><a id="lang-python"></a><h3>🐍 Python (12 Projetos) — Clique para Expandir</h3></summary>
 
 | Projeto | Status / Acesso | Categoria | Descrição Técnica |
 |:---|:---:|:---|:---|
@@ -390,11 +405,17 @@ Expanda os painéis abaixo para inspecionar os projetos por stack de linguagem:
 | **[aoc-le32s5760-mt5880-firmware-research](https://github.com/D-H-O-R-A/aoc-le32s5760-mt5880-firmware-research)** | [🌐 GitHub](https://github.com/D-H-O-R-A/aoc-le32s5760-mt5880-firmware-research) | Criptografia, Segurança & RE | Engenharia reversa forense em Smart TV: análise de cadeias de confiança criptográfica, containers DLM e partições mtd12. |
 | **[youtube-automation-agent](https://github.com/D-H-O-R-A/youtube-automation-agent)** | [🌐 GitHub](https://github.com/D-H-O-R-A/youtube-automation-agent) | IA, Visão & Automação | Agente autônomo de inteligência artificial para automação completa de upload, otimização de SEO e gestão de canais. |
 | **Axio AI** | 🔒 Sob Contrato / Confidencial (NDA) | IA, Visão & Automação | Plataforma proprietária de IA generativa multimodal (2023) estilo ChatGPT, integrando diálogos inteligentes via LLMs e geração contextual de imagem e texto. |
+| **NexusAgent Runtime** | 🔒 Sob Contrato / Confidencial (NDA) | IA, Visão & Automação | Runtime distribuído de alta concorrência para execução, supervisão e persistência de enxames de agentes autônomos. |
+| **Archon AI** | 🔒 Sob Contrato / Confidencial (NDA) | IA, Visão & Automação | Engenheiro de software autônomo capaz de inspecionar codebases, planejar arquitetura, gerar código e abrir PRs. |
+| **OmniCognition RAG** | 🔒 Sob Contrato / Confidencial (NDA) | IA, Visão & Automação | Mecanismo RAG corporativo de alta fidelidade com busca híbrida, re-ranking neural e isolamento multi-tenant de vetores. |
+| **SentinelGuard AI Security Lab** | 🔒 Sob Contrato / Confidencial (NDA) | Criptografia, Segurança & RE | Sandbox de contenção e auditoria defensiva para agentes autônomos contra prompt injection e jailbreaks. |
+| **Valkyrie Local AI Cluster** | 🔒 Sob Contrato / Confidencial (NDA) | Baixo Nível & Emulação | Cluster bare-metal de inferência de IA 100% offline com vLLM, paralelismo de tensores e quantização AWQ/GGUF. |
+| **DocuMind AI (Domain-Scoped PDF LLM)** | 🔒 Sob Contrato / Confidencial (NDA) | IA, Visão & Automação | Plataforma de IA com ancoragem estrita de contexto: ingere PDFs técnicos e restringe as respostas estritamente ao material fornecido. |
 
 </details>
 
 <details>
-<summary><a id="lang-go"></a><h3>🦫 Go / Golang (4 Projetos) — Clique para Expandir</h3></summary>
+<summary><a id="lang-go"></a><h3>🦫 Go / Golang (9 Projetos) — Clique para Expandir</h3></summary>
 
 | Projeto | Status / Acesso | Categoria | Descrição Técnica |
 |:---|:---:|:---|:---|
@@ -402,6 +423,11 @@ Expanda os painéis abaixo para inspecionar os projetos por stack de linguagem:
 | **[ymcore](https://github.com/D-H-O-R-A/ymcore)** | [🌐 GitHub](https://github.com/D-H-O-R-A/ymcore) | Web3, Blockchain Core, DeFi, DEX & CEX | Implementação em Go do daemon de nó e bibliotecas de baixo nível para a rede Young Market. |
 | **Futfinance** | 🔒 Sob Contrato / Confidencial (NDA) | Web3, Blockchain Core, DeFi, DEX & CEX | Corretora centralizada (CEX estilo Binance) de alta performance: livro de ofertas em memória, matching de ordens ultra-rápido e gateway fiat. |
 | **3Bee Exchange** | 🔒 Sob Contrato / Confidencial (NDA) | Web3, Blockchain Core, DeFi, DEX & CEX | Plataforma de exchange centralizada institucional (CEX) com custódia segregada, motor de correspondência e auditoria de saldos em tempo real. |
+| **Hyperion AI Gateway** | 🔒 Sob Contrato / Confidencial (NDA) | IA, Visão & Automação | Gateway de inferência multi-modelo em Go com fallback de baixa latência, rate-limiting e caching de embeddings. |
+| **AegisOps (Autonomous SRE)** | 🔒 Sob Contrato / Confidencial (NDA) | IA, Visão & Automação | Sistema autônomo SRE para Kubernetes com telemetria contínua e remediação automática de incidentes. |
+| **Krypton Ledger** | 🔒 Sob Contrato / Confidencial (NDA) | Web3, Blockchain Core, DeFi, DEX & CEX | Livro-razão financeiro distribuído de dupla entrada em Go com imutabilidade por blocos e conciliação contínua. |
+| **VortexStream Engine** | 🔒 Sob Contrato / Confidencial (NDA) | Baixo Nível & Emulação | Motor de processamento de eventos em streaming de altíssima vazão (>500k ops/seg) com zero-allocation. |
+| **ApexChain Autonomous Core** | 🔒 Sob Contrato / Confidencial (NDA) | Web3, Blockchain Core, DeFi, DEX & CEX | Blockchain L1 autônoma com ajuste dinâmico de parâmetros de consenso e auto-estabilização de gas. |
 
 </details>
 
@@ -493,7 +519,7 @@ Expanda os painéis abaixo para inspecionar os projetos por stack de linguagem:
 ## 🛠️ 3. Filtro Interativo por Stack & Camada de Arquitetura
 
 <details>
-<summary><a id="stack-frontend"></a><h3>🖥️ Frontend & Interfaces Web3 (19 Projetos) — Clique para Expandir</h3></summary>
+<summary><a id="stack-frontend"></a><h3>🖥️ Frontend & Interfaces Web3 (20 Projetos) — Clique para Expandir</h3></summary>
 
 *Aplicações de ponta em React 18/19, Next.js, Vite, Three.js, WebGL e Tailwind CSS.*
 
@@ -518,11 +544,12 @@ Expanda os painéis abaixo para inspecionar os projetos por stack de linguagem:
 | **Encheu Web** | TypeScript | 🔒 Sob Contrato / Confidencial (NDA) | Plataforma web corporativa da rede Encheu para credenciamento de postos, conciliação de tickets e repasses. |
 | **Summit Prime** | TypeScript | 🔒 Sob Contrato / Confidencial (NDA) | Plataforma corporativa e infraestrutura digital da Summit Prime, hub suíço de tecnologia corporativa. |
 | **Mamba Agência** | TypeScript | 🔒 Sob Contrato / Confidencial (NDA) | Plataforma digital para intermediação e crescimento de seguidores com consentimento e recompensas automatizadas. |
+| **ForgeStack IDP** | TypeScript | 🔒 Sob Contrato / Confidencial (NDA) | Plataforma interna de engenharia (IDP) unificada com service catalog, ambientes efêmeros e CI/CD. |
 
 </details>
 
 <details>
-<summary><a id="stack-backend"></a><h3>🔌 Backend, Microserviços & Matching Engines (18 Projetos) — Clique para Expandir</h3></summary>
+<summary><a id="stack-backend"></a><h3>🔌 Backend, Microserviços & Matching Engines (26 Projetos) — Clique para Expandir</h3></summary>
 
 *Serviços escaláveis em Go, Node.js, NestJS, FastAPI, Redis In-Memory OrderBook, BullMQ e gRPC.*
 
@@ -546,11 +573,19 @@ Expanda os painéis abaixo para inspecionar os projetos por stack de linguagem:
 | **ChatBuilder (Satochat)** | TypeScript | 🔒 Sob Contrato / Confidencial (NDA) | Plataforma SaaS para treinamento e implantação de agentes de conversação autônomos baseados em sites. |
 | **Anjo Online** | TypeScript | 🔒 Sob Contrato / Confidencial (NDA) | SaaS internacional de arrecadação filantrópica com gateway duplo de liquidação bancária (Suíça / Brasil). |
 | **Axio AI** | Python / TS | 🔒 Sob Contrato / Confidencial (NDA) | Plataforma de IA generativa multimodal (2023) estilo ChatGPT, com orquestração de LLMs e geração dinâmica de texto e imagens. |
+| **NexusAgent Runtime** | Python / Go | 🔒 Sob Contrato / Confidencial (NDA) | Runtime distribuído de alta concorrência para execução, supervisão e persistência de enxames de agentes autônomos. |
+| **Archon AI** | Python / TS | 🔒 Sob Contrato / Confidencial (NDA) | Engenheiro de software autônomo para inspeção de repositórios, planejamento arquitetural e geração de código. |
+| **Hyperion AI Gateway** | Go | 🔒 Sob Contrato / Confidencial (NDA) | Gateway unificado de inferência de IA com roteamento inteligente, failover dinâmico e cache semântico de embeddings. |
+| **OmniCognition RAG** | Python | 🔒 Sob Contrato / Confidencial (NDA) | Engine de recuperação aumentada por geração (RAG) corporativo com busca vetorial híbrida e re-ranking contextual. |
+| **Krypton Ledger** | Go / Scala | 🔒 Sob Contrato / Confidencial (NDA) | Livro-razão financeiro distribuído de alta vazão com liquidação sub-milissegundo e trilhas de auditoria criptográfica. |
+| **VortexStream Engine** | Go / Rust | 🔒 Sob Contrato / Confidencial (NDA) | Motor de processamento de eventos em fluxo contínuo de altíssima vazão (>500k ops/seg) com zero-allocation. |
+| **PolyTenant Core** | TypeScript / Go | 🔒 Sob Contrato / Confidencial (NDA) | Infraestrutura de SaaS multi-inquilino com particionamento dinâmico de esquemas e isolamento rígido de dados. |
+| **DocuMind AI (Domain-Scoped PDF LLM)** | Python | 🔒 Sob Contrato / Confidencial (NDA) | Engine de IA para ancoragem estrita de conhecimento a partir de acervos técnicos em PDF, garantindo respostas livres de alucinações. |
 
 </details>
 
 <details>
-<summary><a id="stack-contracts"></a><h3>🔗 Smart Contracts & Blockchain Core (DEX/L1) (23 Projetos) — Clique para Expandir</h3></summary>
+<summary><a id="stack-contracts"></a><h3>🔗 Smart Contracts & Blockchain Core (DEX/L1) (24 Projetos) — Clique para Expandir</h3></summary>
 
 *Protocolos em Solidity, Ride, EVM, Hardhat, Foundry, Akka e Waves Core.*
 
@@ -579,6 +614,7 @@ Expanda os painéis abaixo para inspecionar os projetos por stack de linguagem:
 | **GIC Wallet Pro Enterprise** | Solidity / TS | 🔒 Sob Contrato / Confidencial (NDA) | Tesouraria corporativa com assinatura múltipla e governança criptográfica para fundos institucionais. |
 | **Young Market Core** | Ride / Node.js | 🔒 Sob Contrato (Venture / NDA) | Plataforma de tokenização de direitos creditórios de atletas e crowdfunding sob regulação da CVM. |
 | **Sistema de Auditoria de Consenso** | Swift / Go | 🔒 Sob Contrato / Confidencial (NDA) | Suíte para análise e benchmarking de tolerância a falhas bizantinas em redes descentralizadas. |
+| **ApexChain Autonomous Core** | Go / Rust | 🔒 Sob Contrato / Confidencial (NDA) | Rede blockchain autônoma L1 com auto-calibração dinâmica de blocos e estabilização algorítmica de gas. |
 
 </details>
 
@@ -629,7 +665,7 @@ Expanda os painéis abaixo para inspecionar os projetos por stack de linguagem:
 </details>
 
 <details>
-<summary><a id="stack-security"></a><h3>🔒 Segurança, Criptografia & Baixo Nível (10 Projetos) — Clique para Expandir</h3></summary>
+<summary><a id="stack-security"></a><h3>🔒 Segurança, Criptografia & Baixo Nível (13 Projetos) — Clique para Expandir</h3></summary>
 
 *WebCrypto API, Argon2id KDF, AES-256-GCM, Rust, engenharia reversa e SLSA 3.*
 
@@ -645,15 +681,18 @@ Expanda os painéis abaixo para inspecionar os projetos por stack de linguagem:
 | **Laboratório Forense OmeTV** | JavaScript | 🔒 Sob Contrato / Confidencial (NDA) | Auditoria forense demonstrando falhas críticas de segurança e vazamento de dados no protocolo WebRTC da OmeTV, reportadas à equipe de TI. |
 | **Engine de Derivação Criptográfica** | Rust / WebCrypto | 🔒 Sob Contrato / Confidencial (NDA) | Módulo proprietário de derivação e hashing de chaves criptográficas em tempo constante resistente a ataques de canal lateral. |
 | **Web3OS** | Shell / Linux | 🔒 Sob Contrato / Confidencial (NDA) | Sistema operacional baseado em openSUSE customizado para o mercado Web3: nós de rede, carteiras integradas e ferramentas de desenvolvimento. |
+| **AegisOps (Autonomous SRE)** | Go / Python | 🔒 Sob Contrato / Confidencial (NDA) | Agente autônomo de SRE para Kubernetes com orquestração de diagnósticos, análise de causa raiz e auto-recuperação. |
+| **SentinelGuard AI Security Lab** | Python / Shell | 🔒 Sob Contrato / Confidencial (NDA) | Laboratório de segurança defensiva e sandbox de auditoria para agentes autônomos contra jailbreaks e prompt injection. |
+| **Valkyrie Local AI Cluster** | Python / Shell | 🔒 Sob Contrato / Confidencial (NDA) | Infraestrutura bare-metal de inferência privada de IA com orquestração vLLM, paralelismo de tensores e quantização local. |
 
 </details>
 
 ---
 
 <a id="tabela-mestra"></a>
-## 📊 Matriz Geral de Todos os Projetos (96 Sistemas Selecionados)
+## 📊 Matriz Geral de Todos os Projetos (109 Sistemas Selecionados)
 
-A matriz a seguir consolida **os 96 principais projetos de alta complexidade** desenvolvidos, mantidos e liderados tecnicamente por Diego Antunes. Repositórios de código aberto possuem links diretos de acesso; projetos confidenciais sob contrato corporativo/NDA estão protegidos por sigilo contratual conforme as normas vigentes:
+A matriz a seguir consolida **os 109 principais projetos de alta complexidade** desenvolvidos, mantidos e liderados tecnicamente por Diego Antunes. Repositórios de código aberto possuem links diretos de acesso; projetos confidenciais sob contrato corporativo/NDA estão protegidos por sigilo contratual conforme as normas vigentes:
 
 | # | Projeto | Categoria Principal | Linguagem | Stack Tecnológica | Status & Acesso |
 |:---:|:---|:---|:---:|:---|:---:|
@@ -753,6 +792,19 @@ A matriz a seguir consolida **os 96 principais projetos de alta complexidade** d
 | 94 | **Encheu Web** | Enterprise & Web Corporativa | TypeScript | Next.js, PostgreSQL, Ticket Clearing, Financial Reconciliation, Partner Stations Hub | 🔒 Sob Contrato / Confidencial (NDA) |
 | 95 | **Summit Prime** | Enterprise & Web Corporativa | TypeScript | React, Next.js, Node.js, Swiss Cloud Infrastructure, Enterprise Security | 🔒 Sob Contrato / Confidencial (NDA) |
 | 96 | **Mamba Agência** | Enterprise & Web Corporativa | TypeScript | Next.js, Node.js, Social Media API Auth, Task Verification, Automated Micro-rewards | 🔒 Sob Contrato / Confidencial (NDA) |
+| 97 | **NexusAgent Runtime** | IA, Visão & Automação | Python / Go | Python, Go, Distributed Runtime, Event Loop, Agent IPC, Vector Memory | 🔒 Sob Contrato / Confidencial (NDA) |
+| 98 | **Archon AI (Autonomous Software Engineer)** | IA, Visão & Automação | Python / TypeScript | Python, TypeScript, AST Parser, Tree-sitter, Git Automation, LLM Multi-Agent | 🔒 Sob Contrato / Confidencial (NDA) |
+| 99 | **Hyperion AI Gateway** | IA, Visão & Automação | Go | Go, Reverse Proxy, Caching Semântico, Token Bucket Rate Limiting, Streaming SSE | 🔒 Sob Contrato / Confidencial (NDA) |
+| 100 | **OmniCognition RAG** | IA, Visão & Automação | Python | Python, Qdrant/Milvus, Hybrid Search, Cross-Encoder Re-ranking, Document Chunking | 🔒 Sob Contrato / Confidencial (NDA) |
+| 101 | **AegisOps (Autonomous SRE)** | IA, Visão & Automação | Go / Python | Go, Kubernetes Operator, Prometheus Metrics, Auto-remediation, LLM RCA | 🔒 Sob Contrato / Confidencial (NDA) |
+| 102 | **Krypton Ledger** | Web3, L1/L2 & DeFi | Go / Scala | Go, Distributed Double-Entry Ledger, Sub-millisecond Clearing, Cryptographic Audit Trails | 🔒 Sob Contrato / Confidencial (NDA) |
+| 103 | **ForgeStack IDP** | Enterprise & Web Corporativa | TypeScript | Backstage, TypeScript, Kubernetes, ArgoCD, Terraform, Ephemeral Envs | 🔒 Sob Contrato / Confidencial (NDA) |
+| 104 | **SentinelGuard AI Security Lab** | Criptografia, Segurança & RE | Python / Shell | Python, Red Teaming, Prompt Injection Defense, Jailbreak Emulation, Agent Sandboxing | 🔒 Sob Contrato / Confidencial (NDA) |
+| 105 | **VortexStream Engine** | Baixo Nível & Emulação | Go / Rust | Go, Lock-free Ring Buffers, Zero-allocation, High-Throughput Streaming (>500k ops/sec) | 🔒 Sob Contrato / Confidencial (NDA) |
+| 106 | **PolyTenant Core** | Enterprise & Web Corporativa | TypeScript / Go | TypeScript, Node.js, PostgreSQL Row-Level Security, Tenant Sharding, Distributed Cache | 🔒 Sob Contrato / Confidencial (NDA) |
+| 107 | **Valkyrie Local AI Cluster** | Baixo Nível & Emulação | Python / Shell | vLLM Engine, Tensor Parallelism, Local GPU Clusters, AWQ/GGUF Quantization | 🔒 Sob Contrato / Confidencial (NDA) |
+| 108 | **ApexChain Autonomous Core** | Web3, L1/L2 & DeFi | Go / Rust | Go, Autonomous L1 Consensus, Dynamic Block Parameter Tuning, Gas Self-Stabilization | 🔒 Sob Contrato / Confidencial (NDA) |
+| 109 | **DocuMind AI (Domain-Scoped PDF LLM)** | IA, Visão & Automação | Python | Python, LangChain, PyMuPDF, Strict Grounded RAG, Vector Embeddings | 🔒 Sob Contrato / Confidencial (NDA) |
 
 ---
 
