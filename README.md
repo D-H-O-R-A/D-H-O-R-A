@@ -40,7 +40,34 @@ Filtre e explore o portfólio selecionado de projetos de alta complexidade diret
 
 </div>
 
-> 🚀 **Visão Consolidada:** Acesse a [📊 Matriz Geral com Todos os Projetos Selecionados](#tabela-mestra).
+> 🚀 **Visão Consolidada:** Acesse os [📌 4 Projetos Pinned / Destaques](#pinned) ou a [📊 Matriz Geral com Todos os Projetos Selecionados](#tabela-mestra).
+
+---
+
+<a id="pinned"></a>
+## 📌 Projetos em Destaque (Pinned Repositories)
+
+Os quatro pilares técnicos de engenharia em destaque no ecossistema:
+
+<div align="center">
+
+<p align="center">
+  <a href="https://github.com/D-H-O-R-A/amzx"><img src="https://github-readme-stats.vercel.app/api/pin/?username=D-H-O-R-A&repo=amzx&theme=tokyonight&hide_border=true" width="48%" /></a>
+  <a href="https://github.com/D-H-O-R-A/NOrange"><img src="https://github-readme-stats.vercel.app/api/pin/?username=D-H-O-R-A&repo=NOrange&theme=tokyonight&hide_border=true" width="48%" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/D-H-O-R-A/b2-wallet"><img src="https://github-readme-stats.vercel.app/api/pin/?username=D-H-O-R-A&repo=b2-wallet&theme=tokyonight&hide_border=true" width="48%" /></a>
+  <a href="https://github.com/D-H-O-R-A/consensus"><img src="https://github-readme-stats.vercel.app/api/pin/?username=D-H-O-R-A&repo=consensus&theme=tokyonight&hide_border=true" width="48%" /></a>
+</p>
+
+| Projeto | Domínio & Engenharia | Stack Tecnológica | Destaque Arquitetural |
+|:---|:---|:---|:---|
+| **[AMZX](https://github.com/D-H-O-R-A/amzx)** | Blockchain L1 Core & Consenso | Scala, Akka, LevelDB, Scorex, LPoS | Nó de blockchain distribuída L1 customizada baseada em Waves, contratos inteligentes Ride e transações de alta vazão. |
+| **[NOrange](https://github.com/D-H-O-R-A/NOrange)** | Cibersegurança & Rede Móvel | Java, Android SDK, OpenVPN, Tun2Socks | Suíte tática de privacidade e rede para Android: cliente OpenVPN, proxy HTTP/SOCKS5 local e gateway hotspot sem root. |
+| **[b2-wallet](https://github.com/D-H-O-R-A/b2-wallet)** | Web3 & Carteiras Auto-Custódia | React, Vite, WebCrypto, Argon2id, Ledger | Carteira multi-chain de nível institucional (39+ redes), hardware wallet WebUSB e derivação de chaves anti-brute force GPU. |
+| **[consensus](https://github.com/D-H-O-R-A/consensus)** | Algoritmos de Consenso Distribuído | Swift, Concurrency, State Machines | Modelagem algorítmica e comparativa em Swift dos principais consensos (PoW, PoS, DPoS, PoH, LPoS). |
+
+</div>
 
 ---
 
