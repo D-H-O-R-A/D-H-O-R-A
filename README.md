@@ -167,9 +167,9 @@ Especializado em assumir desafios de **extrema complexidade algorítmica e arqui
 | **[Scanning-and-Detecting-3D-Objects](https://github.com/D-H-O-R-A/Scanning-and-Detecting-3D-Objects)** | [🌐 Repositório](https://github.com/D-H-O-R-A/Scanning-and-Detecting-3D-Objects) | Swift | Swift, ARKit, SceneKit, 3D Spatial Point Cloud Mapping | Captura e persistência de nuvens de pontos 3D de objetos físicos para rastreamento espacial e Realidade Aumentada. |
 | **[pdf-to-maps](https://github.com/D-H-O-R-A/pdf-to-maps)** | [🌐 Repositório](https://github.com/D-H-O-R-A/pdf-to-maps) | TypeScript | Three.js, WebGL, SIRGAS2000 UTM, DXF, GeoJSON, SLSA Level 3 | Compilador cartográfico 100% offline: transforma PDFs do INCRA/SIGEF em modelos 3D WebGL, DXF e GeoJSON em sub-segundos. |
 | **Parque Estadual São João Marcos — The Game** | 🔒 Sob Contrato (NDA) | C# / Unity | Unity 3D, C#, Universal Render Pipeline (URP), WebGL Build, Historical Rebuild | Jogo de exploração interativa 3D e reconstrução histórica do sítio arqueológico desenvolvido em Unity com alta fidelidade gráfica. |
-| **SeteAlem - The game** | 🔒 Sob Contrato (NDA) | C# / Unity | Unity 3D, C#, Custom HLSL Shaders, Atmospheric Lighting, Narrative FSM | Jogo 3D imersivo de atmosfera e suspense desenvolvido em Unity com renderização customizada e máquinas de estados. |
+| **SeteAlem - The game** | 🔒 Sob Contrato (NDA) | C# / Unity | Unity 3D, C#, Custom HLSL Shaders, Atmospheric Lighting, Narrative FSM | Jogo 3D de sobrevivência e terror psicológico baseado nas lendas urbanas de "SeteAlém" da internet, desenvolvido na Unity Engine com shaders HLSL (projeto descontinuado por restrições orçamentárias do estúdio). |
 | **Sinuca Club** | 🔒 Sob Contrato (NDA) | C# / Unity | Unity 3D, C#, Rigidbody Physics Math, Real-time Multiplayer, Ball Collision | Simulador de bilhar/sinuca 3D com física matemática de precisão e partidas multijogador em tempo real na Unity. |
-| **Cidade de Deus - The game** | 🔒 Sob Contrato (NDA) | C# / Unity | Unity 3D, C#, Open World Asset Streaming, AI NavMeshes, Ragdoll Physics | Jogo 3D de ação e simulação urbana em mundo aberto na Unity com streaming contínuo de cenários e IA de NPCs. |
+| **Cidade de Deus - The game** | 🔒 Sob Contrato (NDA) | C# / Unity | Unity 3D, C#, Open World Asset Streaming, AI NavMeshes, Ragdoll Physics | Jogo 3D de ação, estratégia e narrativa urbana ambientado no universo do consagrado filme brasileiro "Cidade de Deus", desenvolvido em Unity Engine com streaming contínuo de cenários e IA tática de NPCs. |
 | **Match Blocks MVP** | 🔒 Sob Contrato (NDA) | C# / Unity | Unity 2022 LTS, C#, URP, HLSL Shaders, PostGIS R-Tree, Deterministic RNG | Engine híbrida de jogo e processamento de malhas espaciais processando 10.000 registros territoriais por minuto. |
 | **cubedetector** | 🔒 Sob Contrato / Confidencial (NDA) | Swift | Swift, ARKit, Vision Framework, 3D Spatial Geometry | Reconhecimento e rastreamento em tempo real de geometrias cúbicas no espaço tridimensional com ARKit. |
 | **lens_detector** | 🔒 Sob Contrato / Confidencial (NDA) | JavaScript | JavaScript, HTML5 Canvas, Optical Distortion Algorithms | Algoritmo de visão computacional em navegador para calibração de distorção óptica e análise de lentes de câmeras. |
@@ -200,6 +200,7 @@ Especializado em assumir desafios de **extrema complexidade algorítmica e arqui
 | **[youtube-automation-agent](https://github.com/D-H-O-R-A/youtube-automation-agent)** | [🌐 Repositório](https://github.com/D-H-O-R-A/youtube-automation-agent) | Python | Python, YouTube Data API v3, LLM Agent, Content Pipelines | Agente autônomo de inteligência artificial para automação completa de upload, otimização de SEO e gestão de canais. |
 | **METATRON** | 🔒 Sob Contrato (NDA Governamental) | TypeScript | Next.js, Node.js, Biometria Facial / IA, PostGIS, Alertas Táticos | Sistema Integrado de Inteligência & Captura de Foragidos para Segurança Pública, cruzando alertas em tempo real. |
 | **ChatBuilder (Satochat)** | 🔒 Sob Contrato / Confidencial (NDA) | TypeScript | Next.js, LangChain, Embeddings, Vector Database, Cloud Functions | Plataforma SaaS para treinamento e implantação de agentes de conversação autônomos baseados em sites. |
+| **Axio AI** | 🔒 Sob Contrato / Confidencial (NDA) | Python / TypeScript | Python, FastAPI, React, LLM Multi-modal Inference, Diffusion Models, Vector RAG | Plataforma proprietária de IA generativa multimodal (2023) estilo ChatGPT, integrando diálogos inteligentes via LLMs e geração simultânea de imagens e texto. |
 
 <a id="cat-mobile"></a>
 ### 📱 Categoria 6: Mobile Nativa & Cross-Platform (iOS & Android)
@@ -217,6 +218,9 @@ Especializado em assumir desafios de **extrema complexidade algorítmica e arqui
 | **Compass Club** | 🔒 Sob Contrato / Confidencial (NDA) | Dart / Flutter | Flutter (iOS & Android), QR Code Access Control, Membership Rewards, Stripe | Aplicativo mobile exclusivo para membros de clube privado: credencial digital via QR dinâmico, reservas de eventos e programa de fidelidade. |
 | **Golfe Clube** | 🔒 Sob Contrato / Confidencial (NDA) | Dart / Flutter | Flutter (iOS & Android), Tee-Time Scheduling Algorithm, Handicap Scoring, GPS Yardage | Aplicativo esportivo mobile para gestão de campos de golfe, agendamento de partidas (tee times), scorecards digitais e torneios. |
 | **AuraTV** | 🔒 Sob Contrato / Confidencial (NDA) | TypeScript / Dart | WebRTC Mesh, Firebase, Concorrência Maciça, Gamificação | Plataforma social móvel de streaming de vídeo P2P e competições ao vivo em tempo real. |
+| **Bicon Wallet** | 🔒 Sob Contrato / Confidencial (NDA) | Dart / Flutter | Flutter, Waves Protocol, Web3 Cryptography, eRWA Green Tokens, Secure Enclave | Carteira mobile Web3 pioneira (2020) voltada à proteção ambiental: cada token Bicon autenticava e registrava áreas de floresta na blockchain Waves. |
+| **Bicon Rewards** | 🔒 Sob Contrato / Confidencial (NDA) | Dart / Flutter | Flutter, Web3 Micro-rewards, Task Gamification, Escrow On-chain | Aplicativo mobile (2020) de apostas com criptoativos e tokens Bicon, com distribuição de recompensas por tarefas (estilo Google Opinion Rewards). |
+| **Bico - Serviço Extra** | 🔒 Sob Contrato / Confidencial (NDA) | Dart / Flutter | Flutter, Gateway Híbrido Fiat/Crypto, Geocoding, P2P Escrow, WebSockets | Plataforma mobile (2020) para contratação de serviços extras (estilo GetNinjas) com cobrança e liquidação instantânea em fiat ou criptoativos. |
 
 <a id="cat-enterprise"></a>
 ### 🏢 Categoria 7: Plataformas Corporativas, LegalTech, GovTech & SaaS
@@ -321,7 +325,7 @@ Expanda os painéis abaixo para inspecionar os projetos por stack de linguagem:
 </details>
 
 <details>
-<summary><a id="lang-python"></a><h3>🐍 Python (5 Projetos) — Clique para Expandir</h3></summary>
+<summary><a id="lang-python"></a><h3>🐍 Python (6 Projetos) — Clique para Expandir</h3></summary>
 
 | Projeto | Status / Acesso | Categoria | Descrição Técnica |
 |:---|:---:|:---|:---|
@@ -330,6 +334,7 @@ Expanda os painéis abaixo para inspecionar os projetos por stack de linguagem:
 | **[SharpOSAI](https://github.com/D-H-O-R-A/SharpOSAI)** | [🌐 GitHub](https://github.com/D-H-O-R-A/SharpOSAI) | IA, Visão & Automação | Infraestrutura em Python para orquestração de chamadas neurais e fluxos de automação cognitiva. |
 | **[aoc-le32s5760-mt5880-firmware-research](https://github.com/D-H-O-R-A/aoc-le32s5760-mt5880-firmware-research)** | [🌐 GitHub](https://github.com/D-H-O-R-A/aoc-le32s5760-mt5880-firmware-research) | Criptografia, Segurança & RE | Engenharia reversa forense em Smart TV: análise de cadeias de confiança criptográfica, containers DLM e partições mtd12. |
 | **[youtube-automation-agent](https://github.com/D-H-O-R-A/youtube-automation-agent)** | [🌐 GitHub](https://github.com/D-H-O-R-A/youtube-automation-agent) | IA, Visão & Automação | Agente autônomo de inteligência artificial para automação completa de upload, otimização de SEO e gestão de canais. |
+| **Axio AI** | 🔒 Sob Contrato / Confidencial (NDA) | IA, Visão & Automação | Plataforma proprietária de IA generativa multimodal (2023) estilo ChatGPT, integrando diálogos inteligentes via LLMs e geração contextual de imagem e texto. |
 
 </details>
 
@@ -362,9 +367,9 @@ Expanda os painéis abaixo para inspecionar os projetos por stack de linguagem:
 | Projeto | Status / Acesso | Categoria | Descrição Técnica |
 |:---|:---:|:---|:---|
 | **Parque Estadual São João Marcos — The Game** | 🔒 Sob Contrato (NDA) | Computação Espacial, GIS & Games 3D | Jogo de exploração interativa 3D e reconstrução histórica do sítio arqueológico desenvolvido em Unity com alta fidelidade gráfica. |
-| **SeteAlem - The game** | 🔒 Sob Contrato (NDA) | Computação Espacial, GIS & Games 3D | Jogo 3D imersivo de atmosfera e suspense desenvolvido em Unity com renderização customizada e máquinas de estados. |
+| **SeteAlem - The game** | 🔒 Sob Contrato (NDA) | Computação Espacial, GIS & Games 3D | Jogo 3D de sobrevivência e terror psicológico baseado nas lendas urbanas de "SeteAlém" da internet, desenvolvido na Unity Engine com shaders HLSL (projeto descontinuado por restrições orçamentárias do estúdio). |
 | **Sinuca Club** | 🔒 Sob Contrato (NDA) | Computação Espacial, GIS & Games 3D | Simulador de bilhar/sinuca 3D com física matemática de precisão e partidas multijogador em tempo real na Unity. |
-| **Cidade de Deus - The game** | 🔒 Sob Contrato (NDA) | Computação Espacial, GIS & Games 3D | Jogo 3D de ação e simulação urbana em mundo aberto na Unity com streaming contínuo de cenários e IA de NPCs. |
+| **Cidade de Deus - The game** | 🔒 Sob Contrato (NDA) | Computação Espacial, GIS & Games 3D | Jogo 3D de ação, estratégia e narrativa urbana ambientado no universo do consagrado filme brasileiro "Cidade de Deus", desenvolvido em Unity Engine com streaming contínuo de cenários e IA tática de NPCs. |
 | **Match Blocks MVP** | 🔒 Sob Contrato (NDA) | Computação Espacial, GIS & Games 3D | Engine híbrida de jogo e processamento de malhas espaciais processando 10.000 registros territoriais por minuto. |
 
 </details>
@@ -382,7 +387,7 @@ Expanda os painéis abaixo para inspecionar os projetos por stack de linguagem:
 </details>
 
 <details>
-<summary><a id="lang-flutter"></a><h3>🎯 Dart / Flutter (iOS & Android) (11 Projetos) — Clique para Expandir</h3></summary>
+<summary><a id="lang-flutter"></a><h3>🎯 Dart / Flutter (iOS & Android) (14 Projetos) — Clique para Expandir</h3></summary>
 
 | Projeto | Status / Acesso | Categoria | Descrição Técnica |
 |:---|:---:|:---|:---|
@@ -397,6 +402,9 @@ Expanda os painéis abaixo para inspecionar os projetos por stack de linguagem:
 | **AuraTV** | 🔒 Sob Contrato / Confidencial (NDA) | Mobile (iOS & Android) | Plataforma social móvel de streaming de vídeo P2P e competições ao vivo em tempo real. |
 | **Hide-Protocol-App-VPN** | 🔒 Sob Contrato / Confidencial (NDA) | Criptografia, Segurança & RE | Suíte móvel de privacidade com camuflagem de pacotes contra DPI (Deep Packet Inspection). |
 | **AgroGestor** | 🔒 Sob Contrato / Confidencial (NDA) | Plataformas Corporativas & SaaS | Plataforma corporativa multi-tenant para gestão rural: safras, rebanhos zootécnicos, patrimônio e maquinário. |
+| **Bicon Wallet** | 🔒 Sob Contrato / Confidencial (NDA) | Mobile (iOS & Android) | Carteira mobile Web3 pioneira (2020) voltada à proteção ambiental: registro e autenticação de florestas na blockchain Waves via tokens Bicon. |
+| **Bicon Rewards** | 🔒 Sob Contrato / Confidencial (NDA) | Mobile (iOS & Android) | Aplicativo mobile (2020) de apostas com criptoativos e tokens Bicon, com distribuição de recompensas por tarefas (estilo Google Opinion Rewards). |
+| **Bico - Serviço Extra** | 🔒 Sob Contrato / Confidencial (NDA) | Mobile (iOS & Android) | Plataforma mobile (2020) de contratação de serviços extras (estilo GetNinjas) com cobrança e liquidação em fiat ou criptoativos. |
 
 </details>
 
@@ -450,7 +458,7 @@ Expanda os painéis abaixo para inspecionar os projetos por stack de linguagem:
 </details>
 
 <details>
-<summary><a id="stack-backend"></a><h3>🔌 Backend, Microserviços & Matching Engines (17 Projetos) — Clique para Expandir</h3></summary>
+<summary><a id="stack-backend"></a><h3>🔌 Backend, Microserviços & Matching Engines (18 Projetos) — Clique para Expandir</h3></summary>
 
 *Serviços escaláveis em Go, Node.js, NestJS, FastAPI, Redis In-Memory OrderBook, BullMQ e gRPC.*
 
@@ -473,6 +481,7 @@ Expanda os painéis abaixo para inspecionar os projetos por stack de linguagem:
 | **METATRON** | TypeScript | 🔒 Sob Contrato (NDA Governamental) | Sistema Integrado de Inteligência & Captura de Foragidos para Segurança Pública, cruzando alertas em tempo real. |
 | **ChatBuilder (Satochat)** | TypeScript | 🔒 Sob Contrato / Confidencial (NDA) | Plataforma SaaS para treinamento e implantação de agentes de conversação autônomos baseados em sites. |
 | **Anjo Online** | TypeScript | 🔒 Sob Contrato / Confidencial (NDA) | SaaS internacional de arrecadação filantrópica com gateway duplo de liquidação bancária (Suíça / Brasil). |
+| **Axio AI** | Python / TS | 🔒 Sob Contrato / Confidencial (NDA) | Plataforma de IA generativa multimodal (2023) estilo ChatGPT, com orquestração de LLMs e geração dinâmica de texto e imagens. |
 
 </details>
 
@@ -510,7 +519,7 @@ Expanda os painéis abaixo para inspecionar os projetos por stack de linguagem:
 </details>
 
 <details>
-<summary><a id="stack-mobile"></a><h3>📲 Mobile & Apps iOS/Android (10 Projetos) — Clique para Expandir</h3></summary>
+<summary><a id="stack-mobile"></a><h3>📲 Mobile & Apps iOS/Android (13 Projetos) — Clique para Expandir</h3></summary>
 
 *Aplicações nativas e cross-platform em Flutter, Dart, Android Nativo (Java), VpnService e WebSockets em tempo real.*
 
@@ -526,6 +535,9 @@ Expanda os painéis abaixo para inspecionar os projetos por stack de linguagem:
 | **Compass Club** | Dart / Flutter | 🔒 Sob Contrato / Confidencial (NDA) | Aplicativo mobile exclusivo para membros de clube privado: credencial digital via QR dinâmico, reservas de eventos e programa de fidelidade. |
 | **Golfe Clube** | Dart / Flutter | 🔒 Sob Contrato / Confidencial (NDA) | Aplicativo esportivo mobile para gestão de campos de golfe, agendamento de partidas (tee times), scorecards digitais e torneios. |
 | **AuraTV** | TypeScript / Dart | 🔒 Sob Contrato / Confidencial (NDA) | Plataforma social móvel de streaming de vídeo P2P e competições ao vivo em tempo real. |
+| **Bicon Wallet** | Dart / Flutter | 🔒 Sob Contrato / Confidencial (NDA) | Carteira mobile Web3 pioneira (2020) para preservação ambiental: registro e autenticação de florestas na blockchain Waves via tokens Bicon. |
+| **Bicon Rewards** | Dart / Flutter | 🔒 Sob Contrato / Confidencial (NDA) | Aplicativo mobile (2020) de apostas com criptoativos e tokens Bicon, com distribuição de recompensas por tarefas (estilo Google Opinion Rewards). |
+| **Bico - Serviço Extra** | Dart / Flutter | 🔒 Sob Contrato / Confidencial (NDA) | Plataforma mobile (2020) de contratação de serviços extras (estilo GetNinjas) com cobrança e liquidação instantânea em fiat ou criptoativos. |
 
 </details>
 
@@ -539,9 +551,9 @@ Expanda os painéis abaixo para inspecionar os projetos por stack de linguagem:
 | **[Scanning-and-Detecting-3D-Objects](https://github.com/D-H-O-R-A/Scanning-and-Detecting-3D-Objects)** | Swift | [🌐 Código](https://github.com/D-H-O-R-A/Scanning-and-Detecting-3D-Objects) | Captura e persistência de nuvens de pontos 3D de objetos físicos para rastreamento espacial e Realidade Aumentada. |
 | **[pdf-to-maps](https://github.com/D-H-O-R-A/pdf-to-maps)** | TypeScript | [🌐 Código](https://github.com/D-H-O-R-A/pdf-to-maps) | Compilador cartográfico 100% offline: transforma PDFs do INCRA/SIGEF em modelos 3D WebGL, DXF e GeoJSON em sub-segundos. |
 | **Parque Estadual São João Marcos — The Game** | C# / Unity | 🔒 Sob Contrato (NDA) | Jogo de exploração interativa 3D e reconstrução histórica do sítio arqueológico desenvolvido em Unity com alta fidelidade gráfica. |
-| **SeteAlem - The game** | C# / Unity | 🔒 Sob Contrato (NDA) | Jogo 3D imersivo de atmosfera e suspense desenvolvido em Unity com renderização customizada e máquinas de estados. |
+| **SeteAlem - The game** | C# / Unity | 🔒 Sob Contrato (NDA) | Jogo 3D de sobrevivência e terror psicológico baseado nas lendas urbanas de "SeteAlém" da internet, desenvolvido na Unity Engine com shaders HLSL (descontinuado por restrições orçamentárias do estúdio). |
 | **Sinuca Club** | C# / Unity | 🔒 Sob Contrato (NDA) | Simulador de bilhar/sinuca 3D com física matemática de precisão e partidas multijogador em tempo real na Unity. |
-| **Cidade de Deus - The game** | C# / Unity | 🔒 Sob Contrato (NDA) | Jogo 3D de ação e simulação urbana em mundo aberto na Unity com streaming contínuo de cenários e IA de NPCs. |
+| **Cidade de Deus - The game** | C# / Unity | 🔒 Sob Contrato (NDA) | Jogo 3D de ação, estratégia e narrativa urbana ambientado no universo do consagrado filme brasileiro "Cidade de Deus", desenvolvido em Unity Engine com streaming contínuo de cenários e IA tática de NPCs. |
 | **Match Blocks MVP** | C# / Unity | 🔒 Sob Contrato (NDA) | Engine híbrida de jogo e processamento de malhas espaciais processando 10.000 registros territoriais por minuto. |
 | **cubedetector** | Swift | 🔒 Sob Contrato / Confidencial (NDA) | Reconhecimento e rastreamento em tempo real de geometrias cúbicas no espaço tridimensional com ARKit. |
 | **lens_detector** | JavaScript | 🔒 Sob Contrato / Confidencial (NDA) | Algoritmo de visão computacional em navegador para calibração de distorção óptica e análise de lentes de câmeras. |
@@ -570,9 +582,9 @@ Expanda os painéis abaixo para inspecionar os projetos por stack de linguagem:
 ---
 
 <a id="tabela-mestra"></a>
-## 📊 Matriz Geral de Todos os Projetos (83 Sistemas Selecionados)
+## 📊 Matriz Geral de Todos os Projetos (87 Sistemas Selecionados)
 
-A matriz a seguir consolida **os 83 principais projetos de alta complexidade** desenvolvidos, mantidos e liderados tecnicamente por Diego Antunes. Repositórios de código aberto possuem links diretos de acesso; projetos confidenciais sob contrato corporativo/NDA estão protegidos por sigilo contratual conforme as normas vigentes:
+A matriz a seguir consolida **os 87 principais projetos de alta complexidade** desenvolvidos, mantidos e liderados tecnicamente por Diego Antunes. Repositórios de código aberto possuem links diretos de acesso; projetos confidenciais sob contrato corporativo/NDA estão protegidos por sigilo contratual conforme as normas vigentes:
 
 | # | Projeto | Categoria Principal | Linguagem | Stack Tecnológica | Status & Acesso |
 |:---:|:---|:---|:---:|:---|:---:|
@@ -632,9 +644,9 @@ A matriz a seguir consolida **os 83 principais projetos de alta complexidade** d
 | 54 | **Compass Club** | Mobile (iOS & Android) | Dart / Flutter | Flutter (iOS & Android), QR Code Access Control, Membership Rewards, Stripe | 🔒 Sob Contrato / Confidencial (NDA) |
 | 55 | **Golfe Clube** | Mobile (iOS & Android) | Dart / Flutter | Flutter (iOS & Android), Tee-Time Scheduling Algorithm, Handicap Scoring, GPS Yardage | 🔒 Sob Contrato / Confidencial (NDA) |
 | 56 | **Parque Estadual São João Marcos — The Game** | Computação Espacial, GIS & 3D | C# / Unity | Unity 3D, C#, Universal Render Pipeline (URP), WebGL Build, Historical Rebuild | 🔒 Sob Contrato (NDA) |
-| 57 | **SeteAlem - The game** | Computação Espacial, GIS & 3D | C# / Unity | Unity 3D, C#, Custom HLSL Shaders, Atmospheric Lighting, Narrative FSM | 🔒 Sob Contrato (NDA) |
+| 57 | **SeteAlem - The game** | Computação Espacial, GIS & 3D | C# / Unity | Unity 3D, C#, Custom HLSL Shaders, Atmospheric Lighting, Narrative FSM (Lendas SeteAlém / Descontinuado) | 🔒 Sob Contrato (NDA) |
 | 58 | **Sinuca Club** | Computação Espacial, GIS & 3D | C# / Unity | Unity 3D, C#, Rigidbody Physics Math, Real-time Multiplayer, Ball Collision | 🔒 Sob Contrato (NDA) |
-| 59 | **Cidade de Deus - The game** | Computação Espacial, GIS & 3D | C# / Unity | Unity 3D, C#, Open World Asset Streaming, AI NavMeshes, Ragdoll Physics | 🔒 Sob Contrato (NDA) |
+| 59 | **Cidade de Deus - The game** | Computação Espacial, GIS & 3D | C# / Unity | Unity 3D, C#, Open World Asset Streaming, AI NavMeshes, Ragdoll Physics (Filme Cidade de Deus) | 🔒 Sob Contrato (NDA) |
 | 60 | **Match Blocks MVP** | Computação Espacial, GIS & 3D | C# / Unity | Unity 2022 LTS, C#, URP, HLSL Shaders, PostGIS R-Tree, Deterministic RNG | 🔒 Sob Contrato (NDA) |
 | 61 | **micron-stake** | Web3, L1/L2 & DeFi | Solidity / JavaScript | Solidity, Web3.js, Bitci Network, Dynamic APR Staking Engine | 🔒 Sob Contrato / Confidencial (NDA) |
 | 62 | **waves-payment** | Web3, L1/L2 & DeFi | PHP | PHP, WordPress, WooCommerce API, Waves Payment Gateway | 🔒 Sob Contrato / Confidencial (NDA) |
@@ -659,6 +671,10 @@ A matriz a seguir consolida **os 83 principais projetos de alta complexidade** d
 | 81 | **Planet One Official Portal** | Enterprise & Web Corporativa | TypeScript | Nuxt 3, Nitro, Tailwind CSS, Web3 Connectors | 🔒 Sob Contrato / Confidencial (NDA) |
 | 82 | **Better2Better Website & Core** | Enterprise & Web Corporativa | TypeScript | Next.js, Tailwind CSS, Internationalization, B2 Ecosystem | 🔒 Sob Contrato / Confidencial (NDA) |
 | 83 | **DDM Website** | Enterprise & Web Corporativa | TypeScript | React, TypeScript, Cloudflare Edge, Modern Design System | 🔒 Sob Contrato / Confidencial (NDA) |
+| 84 | **Bicon Wallet** | Mobile (iOS & Android) | Dart / Flutter | Flutter, Waves Protocol, Web3 API, eRWA Green Tokens, Secure Enclave (2020) | 🔒 Sob Contrato / Confidencial (NDA) |
+| 85 | **Bicon Rewards** | Mobile (iOS & Android) | Dart / Flutter | Flutter, Web3 Micro-rewards, Task Gamification, Escrow On-chain (2020) | 🔒 Sob Contrato / Confidencial (NDA) |
+| 86 | **Bico - Serviço Extra** | Mobile (iOS & Android) | Dart / Flutter | Flutter, Gateway Híbrido Fiat/Crypto, Geocoding, P2P Escrow, WebSockets (2020) | 🔒 Sob Contrato / Confidencial (NDA) |
+| 87 | **Axio AI** | IA, Visão & Automação | Python / TypeScript | Python, FastAPI, React, LLM Multi-modal Inference, Diffusion Models, Vector RAG (2023) | 🔒 Sob Contrato / Confidencial (NDA) |
 
 ---
 
