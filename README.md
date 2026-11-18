@@ -14,7 +14,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Experiência-8%2B%20Anos%20em%20Produção-blue?style=flat-square" alt="8+ Anos em Produção" />
-  <img src="https://img.shields.io/badge/Projetos%20de%20Alto%20Impacto-80%2B%20Sistemas%20Auditados-success?style=flat-square" alt="Sistemas de Alto Impacto" />
+  <img src="https://img.shields.io/badge/Projetos%20de%20Alto%20Impacto-%2B100%20Sistemas-success?style=flat-square" alt="+100 Projetos de Alto Impacto" />
   <img src="https://img.shields.io/badge/Presença%20Global-10%2B%20Países-purple?style=flat-square" alt="10+ Países" />
   <img src="https://img.shields.io/badge/Regulação-CVM%20%7C%20DeFi%20%7C%20SLSA%203-gold?style=flat-square" alt="Compliance & Security" />
   <img src="https://img.shields.io/badge/Atuação-Remota%20Global%20%7C%20B2B%20PJ-critical?style=flat-square" alt="Disponibilidade" />
