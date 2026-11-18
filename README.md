@@ -104,7 +104,6 @@ Especializado em assumir desafios de **extrema complexidade algorítmica e arqui
 |:---|:---:|:---:|:---|:---|
 | **[AnyStakeProtocol](https://github.com/D-H-O-R-A/AnyStakeProtocol)** | [🌐 Repositório](https://github.com/D-H-O-R-A/AnyStakeProtocol) | Solidity | Solidity, Hardhat, Multi-Token Staking, EVM | Protocolo descentralizado de staking flexível com suporte a múltiplos ativos ERC-20 e yield distribuído. |
 | **[Waves](https://github.com/D-H-O-R-A/Waves)** | [🌐 Repositório](https://github.com/D-H-O-R-A/Waves) | Scala | Scala, Akka Actors, LevelDB, Scorex Framework, LPoS | Nó oficial de referência da blockchain Waves: protocolo de consenso, verificação de blocos e máquina de estados. |
-| **[address-generator](https://github.com/D-H-O-R-A/address-generator)** | [🌐 Repositório](https://github.com/D-H-O-R-A/address-generator) | JavaScript | Node.js, BIP-39, BIP-44, Secp256k1, Multi-chain Derivation | Gerador determinístico de endereços públicos e chaves criptográficas para múltiplas blockchains. |
 | **[amzexplorer](https://github.com/D-H-O-R-A/amzexplorer)** | [🌐 Repositório](https://github.com/D-H-O-R-A/amzexplorer) | TypeScript | Next.js, TypeScript, Tailwind CSS, Blockchain Ledger APIs | Explorador oficial de blocos e registros imutáveis de ativos ambientais (eRWA) da Amazonic One. |
 | **[amzx](https://github.com/D-H-O-R-A/amzx)** | [🌐 Repositório](https://github.com/D-H-O-R-A/amzx) | Scala | Scala, Akka, LevelDB, Waves Core Platform, LPoS | Implementação e nó L1 de blockchain customizada com suporte a contratos inteligentes Ride e alta taxa de TPS. |
 | **[b2-wallet](https://github.com/D-H-O-R-A/b2-wallet)** | [🌐 Repositório](https://github.com/D-H-O-R-A/b2-wallet) | JavaScript | React, Vite, WebCrypto AES-256-GCM, Argon2id KDF, Ledger SDK | B2 Wallet: Carteira institucional de auto-custódia multi-chain (39+ redes), hardware wallet WebUSB e criptografia avançada. |
@@ -214,6 +213,7 @@ Especializado em assumir desafios de **extrema complexidade algorítmica e arqui
 | **OmniCognition RAG** | 🔒 Sob Contrato / Confidencial (NDA) | Python | Python, Dense Retrieval, BM25 Hybrid Search, Cross-Encoder Re-ranking, Milvus | Mecanismo RAG corporativo de alta fidelidade com busca híbrida, re-ranking neural e particionamento multi-tenant seguro de vetores em escala petabyte. |
 | **AegisOps (Autonomous SRE)** | 🔒 Sob Contrato / Confidencial (NDA) | Go / Python | Go, Kubernetes Controller, Prometheus Metric Streaming, eBPF Anomaly Detection | Sistema autônomo de confiabilidade de infraestrutura (SRE) que correlaciona telemetria distribuída, antecipa anomalias e executa remediações automáticas. |
 | **DocuMind AI (Domain-Scoped PDF LLM)** | 🔒 Sob Contrato / Confidencial (NDA) | Python / TypeScript | Python, Strict Domain RAG, PDF Semantic Parsing, Hallucination-Free Vector Guardrails | Plataforma de IA com ancoragem estrita de contexto: ingere acervos de PDFs técnicos, gerando embeddings semânticos para responder exclusivamente com base no material fornecido. |
+| **Love Chat** | 🔒 Sob Contrato / Confidencial (NDA) | TypeScript / Python | Next.js, FastAPI, Multi-agent LLM, Stable Diffusion / SDXL, Vector Context, WebSockets | Plataforma conversacional de IA multimodal (NSFW) com +10 mil personas, geração contextual de imagens em tempo real e simulação imersiva de diálogos (2024, Turquia). |
 
 <a id="cat-mobile"></a>
 ### 📱 Categoria 6: Mobile Nativa & Cross-Platform (iOS & Android)
@@ -339,7 +339,7 @@ Expanda os painéis abaixo para inspecionar os projetos por stack de linguagem:
 | Projeto | Status / Acesso | Categoria | Descrição Técnica |
 |:---|:---:|:---|:---|
 | **[CryptoSeedRecovery](https://github.com/D-H-O-R-A/CryptoSeedRecovery)** | [🌐 GitHub](https://github.com/D-H-O-R-A/CryptoSeedRecovery) | Criptografia, Segurança & RE | Engine CLI e lib de alta performance para restauração de sementes mnemônicas perdidas em 39 blockchains simultâneas. |
-| **[address-generator](https://github.com/D-H-O-R-A/address-generator)** | [🌐 GitHub](https://github.com/D-H-O-R-A/address-generator) | Web3, L1/L2 & DeFi | Gerador determinístico de endereços públicos e chaves criptográficas para múltiplas blockchains. |
+| **Love Chat** | 🔒 Sob Contrato / Confidencial (NDA) | IA, Visão & Automação | Plataforma conversacional de IA multimodal (NSFW) com +10 mil personas, geração contextual de imagens com IA e WebSockets em tempo real (2024, Turquia). |
 | **[amzexplorer](https://github.com/D-H-O-R-A/amzexplorer)** | [🌐 GitHub](https://github.com/D-H-O-R-A/amzexplorer) | Web3, L1/L2 & DeFi | Explorador oficial de blocos e registros imutáveis de ativos ambientais (eRWA) da Amazonic One. |
 | **[arXivisual](https://github.com/D-H-O-R-A/arXivisual)** | [🌐 GitHub](https://github.com/D-H-O-R-A/arXivisual) | IA, Visão & Automação | Plataforma de sumarização visual de artigos científicos através de agentes de inteligência artificial (Premiado no TartanHacks). |
 | **[b2-wallet](https://github.com/D-H-O-R-A/b2-wallet)** | [🌐 GitHub](https://github.com/D-H-O-R-A/b2-wallet) | Web3, L1/L2 & DeFi | B2 Wallet: Carteira institucional de auto-custódia multi-chain (39+ redes), hardware wallet WebUSB e criptografia avançada. |
@@ -551,7 +551,7 @@ Expanda os painéis abaixo para inspecionar os projetos por stack de linguagem:
 </details>
 
 <details>
-<summary><a id="stack-backend"></a><h3>🔌 Backend, Microserviços & Matching Engines (27 Projetos) — Clique para Expandir</h3></summary>
+<summary><a id="stack-backend"></a><h3>🔌 Backend, Microserviços & Matching Engines (28 Projetos) — Clique para Expandir</h3></summary>
 
 *Serviços escaláveis em Go, Node.js, NestJS, FastAPI, Redis In-Memory OrderBook, BullMQ e gRPC.*
 
@@ -584,11 +584,12 @@ Expanda os painéis abaixo para inspecionar os projetos por stack de linguagem:
 | **PolyTenant Core** | TypeScript / Go | 🔒 Sob Contrato / Confidencial (NDA) | Infraestrutura de SaaS multi-inquilino com particionamento dinâmico de esquemas e isolamento rígido de dados. |
 | **DocuMind AI (Domain-Scoped PDF LLM)** | Python | 🔒 Sob Contrato / Confidencial (NDA) | Engine de IA para ancoragem estrita de conhecimento a partir de acervos técnicos em PDF, garantindo respostas livres de alucinações. |
 | **Solana Flash Bot** | Rust / TypeScript | 🔒 Sob Contrato / Confidencial (NDA) | Bot de alta frequência para negociação e flash swaps na rede Solana: execução algorítmica de arbitragem e trade automatizado (compra na baixa, venda na alta). |
+| **Love Chat** | TypeScript / Python | 🔒 Sob Contrato / Confidencial (NDA) | Plataforma conversacional de IA multimodal (NSFW) com +10 mil personas, geração contextual de imagens com IA e WebSockets em tempo real. |
 
 </details>
 
 <details>
-<summary><a id="stack-contracts"></a><h3>🔗 Smart Contracts & Blockchain Core (DEX/L1) (24 Projetos) — Clique para Expandir</h3></summary>
+<summary><a id="stack-contracts"></a><h3>🔗 Smart Contracts & Blockchain Core (DEX/L1) (23 Projetos) — Clique para Expandir</h3></summary>
 
 *Protocolos em Solidity, Ride, EVM, Hardhat, Foundry, Akka e Waves Core.*
 
@@ -596,7 +597,6 @@ Expanda os painéis abaixo para inspecionar os projetos por stack de linguagem:
 |:---|:---:|:---:|:---|
 | **[AnyStakeProtocol](https://github.com/D-H-O-R-A/AnyStakeProtocol)** | Solidity | [🌐 Código](https://github.com/D-H-O-R-A/AnyStakeProtocol) | Protocolo descentralizado de staking flexível com suporte a múltiplos ativos ERC-20 e yield distribuído. |
 | **[Waves](https://github.com/D-H-O-R-A/Waves)** | Scala | [🌐 Código](https://github.com/D-H-O-R-A/Waves) | Nó oficial de referência da blockchain Waves: protocolo de consenso, verificação de blocos e máquina de estados. |
-| **[address-generator](https://github.com/D-H-O-R-A/address-generator)** | JavaScript | [🌐 Código](https://github.com/D-H-O-R-A/address-generator) | Gerador determinístico de endereços públicos e chaves criptográficas para múltiplas blockchains. |
 | **[amzx](https://github.com/D-H-O-R-A/amzx)** | Scala | [🌐 Código](https://github.com/D-H-O-R-A/amzx) | Implementação e nó L1 de blockchain customizada com suporte a contratos inteligentes Ride e alta taxa de TPS. |
 | **[consensus](https://github.com/D-H-O-R-A/consensus)** | Swift | [🌐 Código](https://github.com/D-H-O-R-A/consensus) | Implementação e benchmark comparativo dos principais algoritmos de consenso distribuído em Swift puro. |
 | **[guaranteed-swap](https://github.com/D-H-O-R-A/guaranteed-swap)** | JavaScript | [🌐 Código](https://github.com/D-H-O-R-A/guaranteed-swap) | Mecanismo de swap atômico garantido sem intermediários para trocas descentralizadas entre pares. |
@@ -697,118 +697,118 @@ Expanda os painéis abaixo para inspecionar os projetos por stack de linguagem:
 
 A matriz a seguir consolida **os 110 principais projetos de alta complexidade** desenvolvidos, mantidos e liderados tecnicamente por Diego Antunes. Repositórios de código aberto possuem links diretos de acesso; projetos confidenciais sob contrato corporativo/NDA estão protegidos por sigilo contratual conforme as normas vigentes:
 
-| # | Projeto | Categoria Principal | Linguagem | Stack Tecnológica | Status & Acesso |
-|:---:|:---|:---|:---:|:---|:---:|
-| 1 | **[AICryptoPrediction](https://github.com/D-H-O-R-A/AICryptoPrediction)** | IA, Visão & Automação | Python | Python, PyTorch, LSTM/Transformers, Time-Series Forecasting | [🌐 Open Source](https://github.com/D-H-O-R-A/AICryptoPrediction) |
-| 2 | **[Android-real-emulator](https://github.com/D-H-O-R-A/Android-real-emulator)** | Baixo Nível & Emulação | Rust | Rust, Android SDK/NDK, ARM64 Translation (libndk), Magisk | [🌐 Open Source](https://github.com/D-H-O-R-A/Android-real-emulator) |
-| 3 | **[AnyStakeProtocol](https://github.com/D-H-O-R-A/AnyStakeProtocol)** | Web3, L1/L2 & DeFi | Solidity | Solidity, Hardhat, Multi-Token Staking, EVM | [🌐 Open Source](https://github.com/D-H-O-R-A/AnyStakeProtocol) |
-| 4 | **[BlackServerOS](https://github.com/D-H-O-R-A/BlackServerOS)** | Baixo Nível & Emulação | Shell | Bash, Linux Kernel Hardening, Minimal Security Appliance | [🌐 Open Source](https://github.com/D-H-O-R-A/BlackServerOS) |
-| 5 | **[CryptoSeedRecovery](https://github.com/D-H-O-R-A/CryptoSeedRecovery)** | Criptografia, Segurança & RE | JavaScript | BIP-39, BIP-44, Electrum, Levenshtein, Tree Pruning, SLSA 3 | [🌐 Open Source](https://github.com/D-H-O-R-A/CryptoSeedRecovery) |
-| 6 | **[Fluxx](https://github.com/D-H-O-R-A/Fluxx)** | Enterprise & Web Corporativa | Dart / Flutter | Flutter, Dart, SQLite, Responsive UI | [🌐 Open Source](https://github.com/D-H-O-R-A/Fluxx) |
-| 7 | **[NOrange](https://github.com/D-H-O-R-A/NOrange)** | Mobile (iOS & Android) | Java | Android SDK, OpenVPN Core, Tun2Socks, HTTP/SOCKS5 Proxy, Hotspot | [🌐 Open Source](https://github.com/D-H-O-R-A/NOrange) |
-| 8 | **[RealChar](https://github.com/D-H-O-R-A/RealChar)** | IA, Visão & Automação | Python / TS | Python, WebSockets, ElevenLabs, OpenAI Whisper, Conversational AI | [🌐 Open Source](https://github.com/D-H-O-R-A/RealChar) |
-| 9 | **[Scanning-and-Detecting-3D-Objects](https://github.com/D-H-O-R-A/Scanning-and-Detecting-3D-Objects)** | Computação Espacial, GIS & 3D | Swift | Swift, ARKit, SceneKit, 3D Spatial Point Cloud Mapping | [🌐 Open Source](https://github.com/D-H-O-R-A/Scanning-and-Detecting-3D-Objects) |
-| 10 | **[SharpOSAI](https://github.com/D-H-O-R-A/SharpOSAI)** | IA, Visão & Automação | Python | Python, FastAPI, Neural Pipeline Orchestration, Task Workers | [🌐 Open Source](https://github.com/D-H-O-R-A/SharpOSAI) |
-| 11 | **[Subway-money](https://github.com/D-H-O-R-A/Subway-money)** | Enterprise & Web Corporativa | PHP | PHP 8, MySQL, Payment Gateway Integration, Pix Webhooks | [🌐 Open Source](https://github.com/D-H-O-R-A/Subway-money) |
-| 12 | **[Waves](https://github.com/D-H-O-R-A/Waves)** | Web3, L1/L2 & DeFi | Scala | Scala, Akka Actors, LevelDB, Scorex Framework, LPoS | [🌐 Open Source](https://github.com/D-H-O-R-A/Waves) |
-| 13 | **[address-generator](https://github.com/D-H-O-R-A/address-generator)** | Web3, L1/L2 & DeFi | JavaScript | Node.js, BIP-39, BIP-44, Secp256k1, Multi-chain Derivation | [🌐 Open Source](https://github.com/D-H-O-R-A/address-generator) |
-| 14 | **[amzexplorer](https://github.com/D-H-O-R-A/amzexplorer)** | Web3, L1/L2 & DeFi | TypeScript | Next.js, TypeScript, Tailwind CSS, Blockchain Ledger APIs | [🌐 Open Source](https://github.com/D-H-O-R-A/amzexplorer) |
-| 15 | **[amzx](https://github.com/D-H-O-R-A/amzx)** | Web3, L1/L2 & DeFi | Scala | Scala, Akka, LevelDB, Waves Core Platform, LPoS | [🌐 Open Source](https://github.com/D-H-O-R-A/amzx) |
-| 16 | **[aoc-le32s5760-mt5880-firmware-research](https://github.com/D-H-O-R-A/aoc-le32s5760-mt5880-firmware-research)** | Criptografia, Segurança & RE | Python / C | MediaTek MT5880, DLM Reversing, dm-bht, MSTAR, Cryptographic Chain-of-Trust | [🌐 Open Source](https://github.com/D-H-O-R-A/aoc-le32s5760-mt5880-firmware-research) |
-| 17 | **[ar-ml-iOS-measure-detect](https://github.com/D-H-O-R-A/ar-ml-iOS-measure-detect)** | Baixo Nível & Emulação | C++ | C++, OpenCV, Metal Shaders, Low-Level SIMD, iOS | [🌐 Open Source](https://github.com/D-H-O-R-A/ar-ml-iOS-measure-detect) |
-| 18 | **[arXivisual](https://github.com/D-H-O-R-A/arXivisual)** | IA, Visão & Automação | TypeScript | TypeScript, React, LLM Visual Summarization, TartanHacks Winner | [🌐 Open Source](https://github.com/D-H-O-R-A/arXivisual) |
-| 19 | **[b2-wallet](https://github.com/D-H-O-R-A/b2-wallet)** | Web3, L1/L2 & DeFi | JavaScript | React, Vite, WebCrypto AES-256-GCM, Argon2id KDF, Ledger SDK | [🌐 Open Source](https://github.com/D-H-O-R-A/b2-wallet) |
-| 20 | **[bot-alias-waves](https://github.com/D-H-O-R-A/bot-alias-waves)** | Web3, L1/L2 & DeFi | JavaScript | Node.js, Waves API, Mass Transactions, Asynchronous Queue | [🌐 Open Source](https://github.com/D-H-O-R-A/bot-alias-waves) |
-| 21 | **[bulletproofs](https://github.com/D-H-O-R-A/bulletproofs)** | Criptografia, Segurança & RE | Pesquisa / ZK | Zero-Knowledge Proofs, Bulletproofs, Elliptic Curve Cryptography | [🌐 Open Source](https://github.com/D-H-O-R-A/bulletproofs) |
-| 22 | **[codebuff](https://github.com/D-H-O-R-A/codebuff)** | IA, Visão & Automação | TypeScript | TypeScript, Node.js, CLI Agent, LLM Code Generation | [🌐 Open Source](https://github.com/D-H-O-R-A/codebuff) |
-| 23 | **[consensus](https://github.com/D-H-O-R-A/consensus)** | Web3, L1/L2 & DeFi | Swift | Swift, Distributed Systems, PoW, PoS, DPoS, PoH, LPoS | [🌐 Open Source](https://github.com/D-H-O-R-A/consensus) |
-| 24 | **[gic-sports-website](https://github.com/D-H-O-R-A/gic-sports-website)** | Web3, L1/L2 & DeFi | TypeScript | TypeScript, React, Next.js, Web3 Connectors | [🌐 Open Source](https://github.com/D-H-O-R-A/gic-sports-website) |
-| 25 | **[gicwalletpro](https://github.com/D-H-O-R-A/gicwalletpro)** | Web3, L1/L2 & DeFi | TypeScript | TypeScript, Chrome Extension Manifest V3, Web3 Injection | [🌐 Open Source](https://github.com/D-H-O-R-A/gicwalletpro) |
-| 26 | **[guaranteed-swap](https://github.com/D-H-O-R-A/guaranteed-swap)** | Web3, L1/L2 & DeFi | JavaScript | Web3.js, Atomic Swaps, Liquidity Balancing, Ethers.js | [🌐 Open Source](https://github.com/D-H-O-R-A/guaranteed-swap) |
-| 27 | **[matcher](https://github.com/D-H-O-R-A/matcher)** | Web3, L1/L2 & DeFi | Scala | Scala, Akka Streams, High-Frequency Matching Engine | [🌐 Open Source](https://github.com/D-H-O-R-A/matcher) |
-| 28 | **[matcher_amzx](https://github.com/D-H-O-R-A/matcher_amzx)** | Web3, L1/L2 & DeFi | Scala | Scala, LevelDB, High-Throughput DEX Matcher, AMZX | [🌐 Open Source](https://github.com/D-H-O-R-A/matcher_amzx) |
-| 29 | **[paychain](https://github.com/D-H-O-R-A/paychain)** | Web3, L1/L2 & DeFi | Go / Rust | Go, Distributed Ledger, Instant Finality, Private Transactions | [🌐 Open Source](https://github.com/D-H-O-R-A/paychain) |
-| 30 | **[pdf-to-maps](https://github.com/D-H-O-R-A/pdf-to-maps)** | Computação Espacial, GIS & 3D | TypeScript | Three.js, WebGL, SIRGAS2000 UTM, DXF, GeoJSON, SLSA Level 3 | [🌐 Open Source](https://github.com/D-H-O-R-A/pdf-to-maps) |
-| 31 | **[planetone-explorer](https://github.com/D-H-O-R-A/planetone-explorer)** | Web3, L1/L2 & DeFi | TypeScript | React, TypeScript, Tailwind CSS, WebSockets, Carbon Data | [🌐 Open Source](https://github.com/D-H-O-R-A/planetone-explorer) |
-| 32 | **[proxy-gic-metamask](https://github.com/D-H-O-R-A/proxy-gic-metamask)** | Web3, L1/L2 & DeFi | JavaScript | Node.js, gRPC, GoWaves, JSON-RPC Shim, MetaMask / Trust Wallet | [🌐 Open Source](https://github.com/D-H-O-R-A/proxy-gic-metamask) |
-| 33 | **[solana-stake](https://github.com/D-H-O-R-A/solana-stake)** | Web3, L1/L2 & DeFi | JavaScript | Solana Web3.js, Anchor, SPL Tokens, Staking Rewards | [🌐 Open Source](https://github.com/D-H-O-R-A/solana-stake) |
-| 34 | **[solidity-defi](https://github.com/D-H-O-R-A/solidity-defi)** | Web3, L1/L2 & DeFi | Solidity | Solidity, Hardhat, Foundry, OpenZeppelin, DeFi Primitives | [🌐 Open Source](https://github.com/D-H-O-R-A/solidity-defi) |
-| 35 | **[swopfi-smart-contracts](https://github.com/D-H-O-R-A/swopfi-smart-contracts)** | Web3, L1/L2 & DeFi | Ride | Ride, AMM (Automated Market Maker), Liquidity Pools, Waves | [🌐 Open Source](https://github.com/D-H-O-R-A/swopfi-smart-contracts) |
-| 36 | **[ym-explorer](https://github.com/D-H-O-R-A/ym-explorer)** | Web3, L1/L2 & DeFi | TypeScript | TypeScript, React, Next.js, Blockchain Ledger Explorer | [🌐 Open Source](https://github.com/D-H-O-R-A/ym-explorer) |
-| 37 | **[ymcore](https://github.com/D-H-O-R-A/ymcore)** | Web3, L1/L2 & DeFi | Go | Go (Golang), gRPC, LevelDB, Young Market Core Daemon | [🌐 Open Source](https://github.com/D-H-O-R-A/ymcore) |
-| 38 | **[youtube-automation-agent](https://github.com/D-H-O-R-A/youtube-automation-agent)** | IA, Visão & Automação | Python | Python, YouTube Data API v3, LLM Agent, Content Pipelines | [🌐 Open Source](https://github.com/D-H-O-R-A/youtube-automation-agent) |
-| 39 | **Bicon DEX** | Web3, L1/L2 & DeFi | Solidity / TypeScript | Solidity, Hardhat, AMM Engine, Slippage Routing, React Web3 | 🔒 Sob Contrato / Confidencial (NDA) |
-| 40 | **Zero Swap** | Web3, L1/L2 & DeFi | Solidity | Hardhat, Foundry, Layer 2 Rollups, Private Flash Swaps, MEV Shield | 🔒 Sob Contrato / Confidencial (NDA) |
-| 41 | **Waves DEX** | Web3, L1/L2 & DeFi | Scala / Ride | Waves Protocol, Matcher Engine, Ride Smart Contracts, LevelDB OrderBook | 🔒 Sob Contrato / Confidencial (NDA) |
-| 42 | **Solarex Finance** | Web3, L1/L2 & DeFi | Solidity | Solidity, Hardhat, Tokenomics, EVM, Staking & Yield Vaults | 🔒 Sob Contrato / Confidencial (NDA) |
-| 43 | **Duck Swap** | Web3, L1/L2 & DeFi | Solidity / Ride | AMM Algorithm, Constant Product Formula (x*y=k), Multi-Asset Pools | 🔒 Sob Contrato / Confidencial (NDA) |
-| 44 | **Giddy Marketplace** | Web3, L1/L2 & DeFi | Solidity / TypeScript | Solidity, ERC-721/1155, EIP-2981 Royalties, On-Chain Escrow, Next.js | 🔒 Sob Contrato / Confidencial (NDA) |
-| 45 | **viper-king-swap** | Web3, L1/L2 & DeFi | TypeScript | TypeScript, Web3, DEX Router, Multi-hop Routing, Liquidity Aggregation | 🔒 Sob Contrato / Confidencial (NDA) |
-| 46 | **Futfinance** | Web3, L1/L2 & DeFi | Go / Node.js | Go, Node.js, High-Frequency Matching Engine, Redis In-Memory OrderBook, WebSockets | 🔒 Sob Contrato / Confidencial (NDA) |
-| 47 | **3Bee Exchange** | Web3, L1/L2 & DeFi | Go / PostgreSQL | Go, PostgreSQL, Redis, Multi-currency Ledger, Hot/Cold Wallet Treasury, REST/WS APIs | 🔒 Sob Contrato / Confidencial (NDA) |
-| 48 | **IO Binários** | Web3, L1/L2 & DeFi | TypeScript / C++ | Node.js, C++ Addons, High-Frequency WebSockets, Real-time Candlestick Feed, Risk Engine | 🔒 Sob Contrato / Confidencial (NDA) |
-| 49 | **Click Serviços** | Mobile (iOS & Android) | Dart / Flutter | Flutter (BloC), NestJS, PostgreSQL/PostGIS (R-Tree Index), Redis BullMQ, FCM | 🔒 Sob Contrato / Confidencial (NDA) |
-| 50 | **Inseo Web** | Mobile (iOS & Android) | TypeScript / Flutter | Flutter Mobile, Next.js, Cloud Analytics, Push Notifications, SEO Engine | 🔒 Sob Contrato / Confidencial (NDA) |
-| 51 | **Emaximóvel Imobiliária** | Mobile (iOS & Android) | Dart / Flutter | Flutter (iOS & Android), Firebase, Google Maps SDK, CRM Imobiliário Integrado | 🔒 Sob Contrato / Confidencial (NDA) |
-| 52 | **Pizza Delivery** | Mobile (iOS & Android) | Dart / Flutter | Flutter (iOS & Android), Node.js, WebSockets, Live GPS Tracking, Pix/Cartão | 🔒 Sob Contrato / Confidencial (NDA) |
-| 53 | **Petshop Delivery** | Mobile (iOS & Android) | Dart / Flutter | Flutter (iOS & Android), Firebase Cloud Firestore, Catalogo E-commerce, Push Notifications | 🔒 Sob Contrato / Confidencial (NDA) |
-| 54 | **Compass Club** | Mobile (iOS & Android) | Dart / Flutter | Flutter (iOS & Android), QR Code Access Control, Membership Rewards, Stripe | 🔒 Sob Contrato / Confidencial (NDA) |
-| 55 | **Golfe Clube** | Mobile (iOS & Android) | Dart / Flutter | Flutter (iOS & Android), Tee-Time Scheduling Algorithm, Handicap Scoring, GPS Yardage | 🔒 Sob Contrato / Confidencial (NDA) |
-| 56 | **Parque Estadual São João Marcos — The Game** | Computação Espacial, GIS & 3D | C# / Unity | Unity 3D, C#, Universal Render Pipeline (URP), WebGL Build, Historical Rebuild | 🔒 Sob Contrato (NDA) |
-| 57 | **SeteAlem - The game** | Computação Espacial, GIS & 3D | C# / Unity | Unity 3D, C#, Custom HLSL Shaders, Atmospheric Lighting, Narrative FSM (Lendas SeteAlém / Descontinuado) | 🔒 Sob Contrato (NDA) |
-| 58 | **Sinuca Club** | Computação Espacial, GIS & 3D | C# / Unity | Unity 3D, C#, Rigidbody Physics Math, Real-time Multiplayer, Ball Collision | 🔒 Sob Contrato (NDA) |
-| 59 | **Cidade de Deus - The game** | Computação Espacial, GIS & 3D | C# / Unity | Unity 3D, C#, Open World Asset Streaming, AI NavMeshes, Ragdoll Physics (Filme Cidade de Deus) | 🔒 Sob Contrato (NDA) |
-| 60 | **Match Blocks MVP** | Computação Espacial, GIS & 3D | C# / Unity | Unity 2022 LTS, C#, URP, Procedural Grid Physics, Advanced Match Mechanics | 🔒 Sob Contrato (NDA) |
-| 61 | **micron-stake** | Web3, L1/L2 & DeFi | Solidity / JavaScript | Solidity, Web3.js, Bitci Network, Dynamic APR Staking Engine | 🔒 Sob Contrato / Confidencial (NDA) |
-| 62 | **waves-payment** | Web3, L1/L2 & DeFi | PHP | PHP, WordPress, WooCommerce API, Waves Payment Gateway | 🔒 Sob Contrato / Confidencial (NDA) |
-| 63 | **GIC Wallet Pro Enterprise** | Web3, L1/L2 & DeFi | Solidity / TS | Multi-sig Treasury, Institutional Governance, WebCrypto API | 🔒 Sob Contrato / Confidencial (NDA) |
-| 64 | **Amazonic Pay** | Web3, L1/L2 & DeFi | TypeScript | Next.js, Node.js, Web3 On-ramp, Cross-border Settlement Gateway | 🔒 Sob Contrato / Confidencial (NDA) |
-| 65 | **Young Market Core** | Web3, L1/L2 & DeFi | Ride / Node.js | Waves Enterprise Core, Ride Contracts, CVM Compliance, Stripe | 🔒 Sob Contrato (Venture / NDA) |
-| 66 | **Planet One Wallet** | Web3, L1/L2 & DeFi | TypeScript | React, Tailwind, EVM & Custom L1 Integration, eRWA Custody | 🔒 Sob Contrato / Confidencial (NDA) |
-| 67 | **Meta-X-Wallet** | Web3, L1/L2 & DeFi | TypeScript | React 18, TypeScript, Web3 Providers, Multi-asset Custody | 🔒 Sob Contrato / Confidencial (NDA) |
-| 68 | **AMZ Wallet** | Web3, L1/L2 & DeFi | TypeScript | TypeScript, Waves/AMZX Connectors, Carbon Credit Transfers | 🔒 Sob Contrato / Confidencial (NDA) |
-| 69 | **Sistema de Auditoria de Consenso** | Web3, L1/L2 & DeFi | Swift / Go | Distributed Benchmarking, Fault Tolerance, Byzantine Simulation | 🔒 Sob Contrato / Confidencial (NDA) |
-| 70 | **cubedetector** | Computação Espacial, GIS & 3D | Swift | Swift, ARKit, LiDAR Sensor, SceneKit, 3D Metric Bounding Box | 🔒 Sob Contrato / Confidencial (NDA) |
-| 71 | **lens_detector** | Computação Espacial, GIS & 3D | Python / C++ | Computer Vision AI, Smart Glasses, Object Detection, Depth Estimation, TTS | 🔒 Sob Contrato / Confidencial (NDA) |
-| 72 | **METATRON** | IA, Visão & Automação | TypeScript | Next.js, Node.js, Biometria Facial / IA, PostGIS, Alertas Táticos | 🔒 Sob Contrato (NDA Governamental) |
-| 73 | **ChatBuilder (Satochat)** | IA, Visão & Automação | TypeScript | Next.js, LangChain, Embeddings, Vector Database, Cloud Functions | 🔒 Sob Contrato / Confidencial (NDA) |
-| 74 | **AuraTV** | Mobile (iOS & Android) | TypeScript / Dart | WebRTC Mesh, Firebase, Concorrência Maciça, Gamificação | 🔒 Sob Contrato / Confidencial (NDA) |
-| 75 | **Hide-Protocol-App-VPN** | Criptografia, Segurança & RE | Dart / C | Flutter, OpenVPN, Shadowsocks/V2Ray, Stealth Tunnels, WireGuard | 🔒 Sob Contrato / Confidencial (NDA) |
-| 76 | **Laboratório Forense OmeTV** | Criptografia, Segurança & RE | JavaScript | Node.js, WebRTC Forensics, Secure WebSockets (WSS), Responsible Disclosure | 🔒 Sob Contrato / Confidencial (NDA) |
-| 77 | **Engine de Derivação Criptográfica** | Criptografia, Segurança & RE | Rust / WebCrypto | Rust, Argon2id, AES-256-GCM, Constant-Time Primitives | 🔒 Sob Contrato / Confidencial (NDA) |
-| 78 | **AgroGestor** | Enterprise & Web Corporativa | TypeScript / Dart | Next.js, Firebase DataConnect, Flutter Mobile, Cloud Functions | 🔒 Sob Contrato / Confidencial (NDA) |
-| 79 | **Solucione Multas** | Enterprise & Web Corporativa | TypeScript | React, Cloud Firestore, WhatsApp Cloud API, Conversational AI | 🔒 Sob Contrato (Co-fundador & CTO) |
-| 80 | **Anjo Online** | Enterprise & Web Corporativa | TypeScript | NestJS, Next.js, PostgreSQL, Docker, Cloud Run, TWINT, Mercado Pago | 🔒 Sob Contrato / Confidencial (NDA) |
-| 81 | **Planet One Official Portal** | Enterprise & Web Corporativa | TypeScript | Nuxt 3, Nitro, Tailwind CSS, Web3 Connectors | 🔒 Sob Contrato / Confidencial (NDA) |
-| 82 | **Better2Better Website & Core** | Enterprise & Web Corporativa | TypeScript | Next.js, Tailwind CSS, Internationalization, B2 Ecosystem | 🔒 Sob Contrato / Confidencial (NDA) |
-| 83 | **DDM Website** | Enterprise & Web Corporativa | TypeScript | React, TypeScript, Cloudflare Edge, Modern Design System | 🔒 Sob Contrato / Confidencial (NDA) |
-| 84 | **Bicon Wallet** | Mobile (iOS & Android) | Dart / Flutter | Flutter, Waves Protocol, Web3 API, eRWA Green Tokens, Secure Enclave (2020) | 🔒 Sob Contrato / Confidencial (NDA) |
-| 85 | **Bicon Rewards** | Mobile (iOS & Android) | Dart / Flutter | Flutter, Web3 Micro-rewards, Task Gamification, Escrow On-chain (2020) | 🔒 Sob Contrato / Confidencial (NDA) |
-| 86 | **Bico - Serviço Extra** | Mobile (iOS & Android) | Dart / Flutter | Flutter, Gateway Híbrido Fiat/Crypto, Geocoding, P2P Escrow, WebSockets (2020) | 🔒 Sob Contrato / Confidencial (NDA) |
-| 87 | **Axio AI** | IA, Visão & Automação | Python / TypeScript | Python, FastAPI, React, LLM Multi-modal Inference, Diffusion Models, Vector RAG (2023) | 🔒 Sob Contrato / Confidencial (NDA) |
-| 88 | **Web3OS** | Sistemas de Baixo Nível & Emulação | Shell / Linux | openSUSE, Custom Linux Kernel, Web3 Developer Stack, Embedded Node & Wallets | 🔒 Sob Contrato / Confidencial (NDA) |
-| 89 | **Futfinance App** | Mobile (iOS & Android) | Dart / Flutter | Flutter, Go Backend, WebSockets, High-Frequency OrderBook, Pix Gateway | 🔒 Sob Contrato / Confidencial (NDA) |
-| 90 | **IO Binários App** | Mobile (iOS & Android) | Dart / Flutter | Flutter, C++ Engine, Real-time WebSockets, Candlestick Charting, 1-Click Execution | 🔒 Sob Contrato / Confidencial (NDA) |
-| 91 | **DDM Phone** | Mobile (iOS & Android) | Dart / Flutter | Flutter, WebRTC, SIP / VoIP Engine, End-to-End Encryption, PBX Integration | 🔒 Sob Contrato / Confidencial (NDA) |
-| 92 | **DDM Broker** | Enterprise & Web Corporativa | TypeScript | React, Node.js, Financial Clearing Engine, Order Routing, Institutional Backoffice | 🔒 Sob Contrato / Confidencial (NDA) |
-| 93 | **Encheu App** | Mobile (iOS & Android) | Dart / Flutter | Flutter, Geocoding, Digital Tickets, Postos Parceiros, QR Code Validation, Pix | 🔒 Sob Contrato / Confidencial (NDA) |
-| 94 | **Encheu Web** | Enterprise & Web Corporativa | TypeScript | Next.js, PostgreSQL, Ticket Clearing, Financial Reconciliation, Partner Stations Hub | 🔒 Sob Contrato / Confidencial (NDA) |
-| 95 | **Summit Prime** | Enterprise & Web Corporativa | TypeScript | React, Next.js, Node.js, Swiss Cloud Infrastructure, Enterprise Security | 🔒 Sob Contrato / Confidencial (NDA) |
-| 96 | **Mamba Agência** | Enterprise & Web Corporativa | TypeScript | Next.js, Node.js, Social Media API Auth, Task Verification, Automated Micro-rewards | 🔒 Sob Contrato / Confidencial (NDA) |
-| 97 | **NexusAgent Runtime** | IA, Visão & Automação | Python / Go | Python, Go, Distributed Runtime, Event Loop, Agent IPC, Vector Memory | 🔒 Sob Contrato / Confidencial (NDA) |
-| 98 | **Archon AI (Autonomous Software Engineer)** | IA, Visão & Automação | Python / TypeScript | Python, TypeScript, AST Parser, Tree-sitter, Git Automation, LLM Multi-Agent | 🔒 Sob Contrato / Confidencial (NDA) |
-| 99 | **Hyperion AI Gateway** | IA, Visão & Automação | Go | Go, Reverse Proxy, Caching Semântico, Token Bucket Rate Limiting, Streaming SSE | 🔒 Sob Contrato / Confidencial (NDA) |
-| 100 | **OmniCognition RAG** | IA, Visão & Automação | Python | Python, Qdrant/Milvus, Hybrid Search, Cross-Encoder Re-ranking, Document Chunking | 🔒 Sob Contrato / Confidencial (NDA) |
-| 101 | **AegisOps (Autonomous SRE)** | IA, Visão & Automação | Go / Python | Go, Kubernetes Operator, Prometheus Metrics, Auto-remediation, LLM RCA | 🔒 Sob Contrato / Confidencial (NDA) |
-| 102 | **Krypton Ledger** | Web3, L1/L2 & DeFi | Go / Scala | Go, Distributed Double-Entry Ledger, Sub-millisecond Clearing, Cryptographic Audit Trails | 🔒 Sob Contrato / Confidencial (NDA) |
-| 103 | **ForgeStack IDP** | Enterprise & Web Corporativa | TypeScript | Backstage, TypeScript, Kubernetes, ArgoCD, Terraform, Ephemeral Envs | 🔒 Sob Contrato / Confidencial (NDA) |
-| 104 | **SentinelGuard AI Security Lab** | Criptografia, Segurança & RE | Python / Shell | Python, Red Teaming, Prompt Injection Defense, Jailbreak Emulation, Agent Sandboxing | 🔒 Sob Contrato / Confidencial (NDA) |
-| 105 | **VortexStream Engine** | Baixo Nível & Emulação | Go / Rust | Go, Lock-free Ring Buffers, Zero-allocation, High-Throughput Streaming (>500k ops/sec) | 🔒 Sob Contrato / Confidencial (NDA) |
-| 106 | **PolyTenant Core** | Enterprise & Web Corporativa | TypeScript / Go | TypeScript, Node.js, PostgreSQL Row-Level Security, Tenant Sharding, Distributed Cache | 🔒 Sob Contrato / Confidencial (NDA) |
-| 107 | **Valkyrie Local AI Cluster** | Baixo Nível & Emulação | Python / Shell | vLLM Engine, Tensor Parallelism, Local GPU Clusters, AWQ/GGUF Quantization | 🔒 Sob Contrato / Confidencial (NDA) |
-| 108 | **ApexChain Autonomous Core** | Web3, L1/L2 & DeFi | Go / Rust | Go, Autonomous L1 Consensus, Dynamic Block Parameter Tuning, Gas Self-Stabilization | 🔒 Sob Contrato / Confidencial (NDA) |
-| 109 | **DocuMind AI (Domain-Scoped PDF LLM)** | IA, Visão & Automação | Python | Python, LangChain, PyMuPDF, Strict Grounded RAG, Vector Embeddings | 🔒 Sob Contrato / Confidencial (NDA) |
-| 110 | **Solana Flash Bot** | Web3, L1/L2 & DeFi | Rust / TypeScript | Solana, Rust, Anchor, Raydium/Orca DEX Routing, Flash Swaps, High-Frequency Trading | 🔒 Sob Contrato / Confidencial (NDA) |
+| # | Projeto | Categoria Principal | Linguagem | Stack Tecnológica | Ano / Origem | Status & Acesso |
+|:---:|:---|:---|:---:|:---|:---:|:---:|
+| 1 | **[AICryptoPrediction](https://github.com/D-H-O-R-A/AICryptoPrediction)** | IA, Visão & Automação | Python | Python, PyTorch, LSTM/Transformers, Time-Series Forecasting | 2024 • Turquia | [🌐 Open Source](https://github.com/D-H-O-R-A/AICryptoPrediction) |
+| 2 | **[Android-real-emulator](https://github.com/D-H-O-R-A/Android-real-emulator)** | Baixo Nível & Emulação | Rust | Rust, Android SDK/NDK, ARM64 Translation (libndk), Magisk | 2026 • Brasil (Pessoal) | [🌐 Open Source](https://github.com/D-H-O-R-A/Android-real-emulator) |
+| 3 | **[AnyStakeProtocol](https://github.com/D-H-O-R-A/AnyStakeProtocol)** | Web3, L1/L2 & DeFi | Solidity | Solidity, Hardhat, Multi-Token Staking, EVM | 2024 • Turquia | [🌐 Open Source](https://github.com/D-H-O-R-A/AnyStakeProtocol) |
+| 4 | **[BlackServerOS](https://github.com/D-H-O-R-A/BlackServerOS)** | Baixo Nível & Emulação | Shell | Bash, Linux Kernel Hardening, Minimal Security Appliance | 2026 • Brasil (Pessoal) | [🌐 Open Source](https://github.com/D-H-O-R-A/BlackServerOS) |
+| 5 | **[CryptoSeedRecovery](https://github.com/D-H-O-R-A/CryptoSeedRecovery)** | Criptografia, Segurança & RE | JavaScript | BIP-39, BIP-44, Electrum, Levenshtein, Tree Pruning, SLSA 3 | 2024 • Turquia | [🌐 Open Source](https://github.com/D-H-O-R-A/CryptoSeedRecovery) |
+| 6 | **[Fluxx](https://github.com/D-H-O-R-A/Fluxx)** | Enterprise & Web Corporativa | Dart / Flutter | Flutter, Dart, SQLite, Responsive UI | 2024 • Turquia | [🌐 Open Source](https://github.com/D-H-O-R-A/Fluxx) |
+| 7 | **[NOrange](https://github.com/D-H-O-R-A/NOrange)** | Mobile (iOS & Android) | Java | Android SDK, OpenVPN Core, Tun2Socks, HTTP/SOCKS5 Proxy, Hotspot | 2026 • Brasil (Pessoal) | [🌐 Open Source](https://github.com/D-H-O-R-A/NOrange) |
+| 8 | **[RealChar](https://github.com/D-H-O-R-A/RealChar)** | IA, Visão & Automação | Python / TS | Python, WebSockets, ElevenLabs, OpenAI Whisper, Conversational AI | 2024 • Brasil | [🌐 Open Source](https://github.com/D-H-O-R-A/RealChar) |
+| 9 | **[Scanning-and-Detecting-3D-Objects](https://github.com/D-H-O-R-A/Scanning-and-Detecting-3D-Objects)** | Computação Espacial, GIS & 3D | Swift | Swift, ARKit, SceneKit, 3D Spatial Point Cloud Mapping | 2024 • Turquia | [🌐 Open Source](https://github.com/D-H-O-R-A/Scanning-and-Detecting-3D-Objects) |
+| 10 | **[SharpOSAI](https://github.com/D-H-O-R-A/SharpOSAI)** | IA, Visão & Automação | Python | Python, FastAPI, Neural Pipeline Orchestration, Task Workers | 2024 • Turquia | [🌐 Open Source](https://github.com/D-H-O-R-A/SharpOSAI) |
+| 11 | **[Subway-money](https://github.com/D-H-O-R-A/Subway-money)** | Enterprise & Web Corporativa | PHP | PHP 8, MySQL, Payment Gateway Integration, Pix Webhooks | 2024 • Brasil | [🌐 Open Source](https://github.com/D-H-O-R-A/Subway-money) |
+| 12 | **[Waves](https://github.com/D-H-O-R-A/Waves)** | Web3, L1/L2 & DeFi | Scala | Scala, Akka Actors, LevelDB, Scorex Framework, LPoS | 2021–2026 • Rússia | [🌐 Open Source](https://github.com/D-H-O-R-A/Waves) |
+| 13 | **Love Chat** | IA, Visão & Automação | TypeScript / Python | Next.js, FastAPI, Multi-agent LLM, Stable Diffusion, Vector Context, WebSockets | 2024 • Turquia | 🔒 Sob Contrato / Confidencial (NDA) |
+| 14 | **[amzexplorer](https://github.com/D-H-O-R-A/amzexplorer)** | Web3, L1/L2 & DeFi | TypeScript | Next.js, TypeScript, Tailwind CSS, Blockchain Ledger APIs | 2024 • Emirados Árabes Unidos | [🌐 Open Source](https://github.com/D-H-O-R-A/amzexplorer) |
+| 15 | **[amzx](https://github.com/D-H-O-R-A/amzx)** | Web3, L1/L2 & DeFi | Scala | Scala, Akka, LevelDB, Waves Core Platform, LPoS | 2024–2026 • Brasil (Fork Waves) | [🌐 Open Source](https://github.com/D-H-O-R-A/amzx) |
+| 16 | **[aoc-le32s5760-mt5880-firmware-research](https://github.com/D-H-O-R-A/aoc-le32s5760-mt5880-firmware-research)** | Criptografia, Segurança & RE | Python / C | MediaTek MT5880, DLM Reversing, dm-bht, MSTAR, Cryptographic Chain-of-Trust | 2026 • Brasil (Estudo Próprio) | [🌐 Open Source](https://github.com/D-H-O-R-A/aoc-le32s5760-mt5880-firmware-research) |
+| 17 | **[ar-ml-iOS-measure-detect](https://github.com/D-H-O-R-A/ar-ml-iOS-measure-detect)** | Baixo Nível & Emulação | C++ | C++, OpenCV, Metal Shaders, Low-Level SIMD, iOS | 2024 • Turquia | [🌐 Open Source](https://github.com/D-H-O-R-A/ar-ml-iOS-measure-detect) |
+| 18 | **[arXivisual](https://github.com/D-H-O-R-A/arXivisual)** | IA, Visão & Automação | TypeScript | TypeScript, React, LLM Visual Summarization, TartanHacks Winner | 2026 • Brasil (Fork Próprio) | [🌐 Open Source](https://github.com/D-H-O-R-A/arXivisual) |
+| 19 | **[b2-wallet](https://github.com/D-H-O-R-A/b2-wallet)** | Web3, L1/L2 & DeFi | JavaScript | React, Vite, WebCrypto AES-256-GCM, Argon2id KDF, Ledger SDK | 2026 • Brasil (Estudo / Pessoal) | [🌐 Open Source](https://github.com/D-H-O-R-A/b2-wallet) |
+| 20 | **[bot-alias-waves](https://github.com/D-H-O-R-A/bot-alias-waves)** | Web3, L1/L2 & DeFi | JavaScript | Node.js, Waves API, Mass Transactions, Asynchronous Queue | 2021 • Ucrânia | [🌐 Open Source](https://github.com/D-H-O-R-A/bot-alias-waves) |
+| 21 | **[bulletproofs](https://github.com/D-H-O-R-A/bulletproofs)** | Criptografia, Segurança & RE | Pesquisa / ZK | Zero-Knowledge Proofs, Bulletproofs, Elliptic Curve Cryptography | 2023 • Brasil (Estudo Próprio) | [🌐 Open Source](https://github.com/D-H-O-R-A/bulletproofs) |
+| 22 | **[codebuff](https://github.com/D-H-O-R-A/codebuff)** | IA, Visão & Automação | TypeScript | TypeScript, Node.js, CLI Agent, LLM Code Generation | 2026 • Brasil (Estudo Próprio) | [🌐 Open Source](https://github.com/D-H-O-R-A/codebuff) |
+| 23 | **[consensus](https://github.com/D-H-O-R-A/consensus)** | Web3, L1/L2 & DeFi | Swift | Swift, Distributed Systems, PoW, PoS, DPoS, PoH, LPoS | 2023 • Turquia (Acadêmico / Pessoal) | [🌐 Open Source](https://github.com/D-H-O-R-A/consensus) |
+| 24 | **[gic-sports-website](https://github.com/D-H-O-R-A/gic-sports-website)** | Web3, L1/L2 & DeFi | TypeScript | TypeScript, React, Next.js, Web3 Connectors | 2024 • Portugal | [🌐 Open Source](https://github.com/D-H-O-R-A/gic-sports-website) |
+| 25 | **[gicwalletpro](https://github.com/D-H-O-R-A/gicwalletpro)** | Web3, L1/L2 & DeFi | TypeScript | TypeScript, Chrome Extension Manifest V3, Web3 Injection | 2024 • Portugal | [🌐 Open Source](https://github.com/D-H-O-R-A/gicwalletpro) |
+| 26 | **[guaranteed-swap](https://github.com/D-H-O-R-A/guaranteed-swap)** | Web3, L1/L2 & DeFi | JavaScript | Web3.js, Atomic Swaps, Liquidity Balancing, Ethers.js | 2023 • Rússia (Hackathon Waves Duck) | [🌐 Open Source](https://github.com/D-H-O-R-A/guaranteed-swap) |
+| 27 | **[matcher](https://github.com/D-H-O-R-A/matcher)** | Web3, L1/L2 & DeFi | Scala | Scala, Akka Streams, High-Frequency Matching Engine | 2021–2026 • Rússia | [🌐 Open Source](https://github.com/D-H-O-R-A/matcher) |
+| 28 | **[matcher_amzx](https://github.com/D-H-O-R-A/matcher_amzx)** | Web3, L1/L2 & DeFi | Scala | Scala, LevelDB, High-Throughput DEX Matcher, AMZX | 2024–2026 • Brasil (Fork Waves) | [🌐 Open Source](https://github.com/D-H-O-R-A/matcher_amzx) |
+| 29 | **[paychain](https://github.com/D-H-O-R-A/paychain)** | Web3, L1/L2 & DeFi | Go / Rust | Go, Distributed Ledger, Instant Finality, Private Transactions | 2021 • Nigéria (Fork Solana) | [🌐 Open Source](https://github.com/D-H-O-R-A/paychain) |
+| 30 | **[pdf-to-maps](https://github.com/D-H-O-R-A/pdf-to-maps)** | Computação Espacial, GIS & 3D | TypeScript | Three.js, WebGL, SIRGAS2000 UTM, DXF, GeoJSON, SLSA Level 3 | 2026 • Brasil (Projeto Cliente) | [🌐 Open Source](https://github.com/D-H-O-R-A/pdf-to-maps) |
+| 31 | **[planetone-explorer](https://github.com/D-H-O-R-A/planetone-explorer)** | Web3, L1/L2 & DeFi | TypeScript | React, TypeScript, Tailwind CSS, WebSockets, Carbon Data | — | [🌐 Open Source](https://github.com/D-H-O-R-A/planetone-explorer) |
+| 32 | **[proxy-gic-metamask](https://github.com/D-H-O-R-A/proxy-gic-metamask)** | Web3, L1/L2 & DeFi | JavaScript | Node.js, gRPC, GoWaves, JSON-RPC Shim, MetaMask / Trust Wallet | — | [🌐 Open Source](https://github.com/D-H-O-R-A/proxy-gic-metamask) |
+| 33 | **[solana-stake](https://github.com/D-H-O-R-A/solana-stake)** | Web3, L1/L2 & DeFi | JavaScript | Solana Web3.js, Anchor, SPL Tokens, Staking Rewards | — | [🌐 Open Source](https://github.com/D-H-O-R-A/solana-stake) |
+| 34 | **[solidity-defi](https://github.com/D-H-O-R-A/solidity-defi)** | Web3, L1/L2 & DeFi | Solidity | Solidity, Hardhat, Foundry, OpenZeppelin, DeFi Primitives | — | [🌐 Open Source](https://github.com/D-H-O-R-A/solidity-defi) |
+| 35 | **[swopfi-smart-contracts](https://github.com/D-H-O-R-A/swopfi-smart-contracts)** | Web3, L1/L2 & DeFi | Ride | Ride, AMM (Automated Market Maker), Liquidity Pools, Waves | — | [🌐 Open Source](https://github.com/D-H-O-R-A/swopfi-smart-contracts) |
+| 36 | **[ym-explorer](https://github.com/D-H-O-R-A/ym-explorer)** | Web3, L1/L2 & DeFi | TypeScript | TypeScript, React, Next.js, Blockchain Ledger Explorer | — | [🌐 Open Source](https://github.com/D-H-O-R-A/ym-explorer) |
+| 37 | **[ymcore](https://github.com/D-H-O-R-A/ymcore)** | Web3, L1/L2 & DeFi | Go | Go (Golang), gRPC, LevelDB, Young Market Core Daemon | — | [🌐 Open Source](https://github.com/D-H-O-R-A/ymcore) |
+| 38 | **[youtube-automation-agent](https://github.com/D-H-O-R-A/youtube-automation-agent)** | IA, Visão & Automação | Python | Python, YouTube Data API v3, LLM Agent, Content Pipelines | — | [🌐 Open Source](https://github.com/D-H-O-R-A/youtube-automation-agent) |
+| 39 | **Bicon DEX** | Web3, L1/L2 & DeFi | Solidity / TypeScript | Solidity, Hardhat, AMM Engine, Slippage Routing, React Web3 | — | 🔒 Sob Contrato / Confidencial (NDA) |
+| 40 | **Zero Swap** | Web3, L1/L2 & DeFi | Solidity | Hardhat, Foundry, Layer 2 Rollups, Private Flash Swaps, MEV Shield | — | 🔒 Sob Contrato / Confidencial (NDA) |
+| 41 | **Waves DEX** | Web3, L1/L2 & DeFi | Scala / Ride | Waves Protocol, Matcher Engine, Ride Smart Contracts, LevelDB OrderBook | — | 🔒 Sob Contrato / Confidencial (NDA) |
+| 42 | **Solarex Finance** | Web3, L1/L2 & DeFi | Solidity | Solidity, Hardhat, Tokenomics, EVM, Staking & Yield Vaults | — | 🔒 Sob Contrato / Confidencial (NDA) |
+| 43 | **Duck Swap** | Web3, L1/L2 & DeFi | Solidity / Ride | AMM Algorithm, Constant Product Formula (x*y=k), Multi-Asset Pools | — | 🔒 Sob Contrato / Confidencial (NDA) |
+| 44 | **Giddy Marketplace** | Web3, L1/L2 & DeFi | Solidity / TypeScript | Solidity, ERC-721/1155, EIP-2981 Royalties, On-Chain Escrow, Next.js | — | 🔒 Sob Contrato / Confidencial (NDA) |
+| 45 | **viper-king-swap** | Web3, L1/L2 & DeFi | TypeScript | TypeScript, Web3, DEX Router, Multi-hop Routing, Liquidity Aggregation | — | 🔒 Sob Contrato / Confidencial (NDA) |
+| 46 | **Futfinance** | Web3, L1/L2 & DeFi | Go / Node.js | Go, Node.js, High-Frequency Matching Engine, Redis In-Memory OrderBook, WebSockets | — | 🔒 Sob Contrato / Confidencial (NDA) |
+| 47 | **3Bee Exchange** | Web3, L1/L2 & DeFi | Go / PostgreSQL | Go, PostgreSQL, Redis, Multi-currency Ledger, Hot/Cold Wallet Treasury, REST/WS APIs | — | 🔒 Sob Contrato / Confidencial (NDA) |
+| 48 | **IO Binários** | Web3, L1/L2 & DeFi | TypeScript / C++ | Node.js, C++ Addons, High-Frequency WebSockets, Real-time Candlestick Feed, Risk Engine | — | 🔒 Sob Contrato / Confidencial (NDA) |
+| 49 | **Click Serviços** | Mobile (iOS & Android) | Dart / Flutter | Flutter (BloC), NestJS, PostgreSQL/PostGIS (R-Tree Index), Redis BullMQ, FCM | — | 🔒 Sob Contrato / Confidencial (NDA) |
+| 50 | **Inseo Web** | Mobile (iOS & Android) | TypeScript / Flutter | Flutter Mobile, Next.js, Cloud Analytics, Push Notifications, SEO Engine | — | 🔒 Sob Contrato / Confidencial (NDA) |
+| 51 | **Emaximóvel Imobiliária** | Mobile (iOS & Android) | Dart / Flutter | Flutter (iOS & Android), Firebase, Google Maps SDK, CRM Imobiliário Integrado | — | 🔒 Sob Contrato / Confidencial (NDA) |
+| 52 | **Pizza Delivery** | Mobile (iOS & Android) | Dart / Flutter | Flutter (iOS & Android), Node.js, WebSockets, Live GPS Tracking, Pix/Cartão | — | 🔒 Sob Contrato / Confidencial (NDA) |
+| 53 | **Petshop Delivery** | Mobile (iOS & Android) | Dart / Flutter | Flutter (iOS & Android), Firebase Cloud Firestore, Catalogo E-commerce, Push Notifications | — | 🔒 Sob Contrato / Confidencial (NDA) |
+| 54 | **Compass Club** | Mobile (iOS & Android) | Dart / Flutter | Flutter (iOS & Android), QR Code Access Control, Membership Rewards, Stripe | — | 🔒 Sob Contrato / Confidencial (NDA) |
+| 55 | **Golfe Clube** | Mobile (iOS & Android) | Dart / Flutter | Flutter (iOS & Android), Tee-Time Scheduling Algorithm, Handicap Scoring, GPS Yardage | — | 🔒 Sob Contrato / Confidencial (NDA) |
+| 56 | **Parque Estadual São João Marcos — The Game** | Computação Espacial, GIS & 3D | C# / Unity | Unity 3D, C#, Universal Render Pipeline (URP), WebGL Build, Historical Rebuild | — | 🔒 Sob Contrato (NDA) |
+| 57 | **SeteAlem - The game** | Computação Espacial, GIS & 3D | C# / Unity | Unity 3D, C#, Custom HLSL Shaders, Atmospheric Lighting, Narrative FSM (Lendas SeteAlém / Descontinuado) | — | 🔒 Sob Contrato (NDA) |
+| 58 | **Sinuca Club** | Computação Espacial, GIS & 3D | C# / Unity | Unity 3D, C#, Rigidbody Physics Math, Real-time Multiplayer, Ball Collision | — | 🔒 Sob Contrato (NDA) |
+| 59 | **Cidade de Deus - The game** | Computação Espacial, GIS & 3D | C# / Unity | Unity 3D, C#, Open World Asset Streaming, AI NavMeshes, Ragdoll Physics (Filme Cidade de Deus) | — | 🔒 Sob Contrato (NDA) |
+| 60 | **Match Blocks MVP** | Computação Espacial, GIS & 3D | C# / Unity | Unity 2022 LTS, C#, URP, Procedural Grid Physics, Advanced Match Mechanics | — | 🔒 Sob Contrato (NDA) |
+| 61 | **micron-stake** | Web3, L1/L2 & DeFi | Solidity / JavaScript | Solidity, Web3.js, Bitci Network, Dynamic APR Staking Engine | — | 🔒 Sob Contrato / Confidencial (NDA) |
+| 62 | **waves-payment** | Web3, L1/L2 & DeFi | PHP | PHP, WordPress, WooCommerce API, Waves Payment Gateway | — | 🔒 Sob Contrato / Confidencial (NDA) |
+| 63 | **GIC Wallet Pro Enterprise** | Web3, L1/L2 & DeFi | Solidity / TS | Multi-sig Treasury, Institutional Governance, WebCrypto API | — | 🔒 Sob Contrato / Confidencial (NDA) |
+| 64 | **Amazonic Pay** | Web3, L1/L2 & DeFi | TypeScript | Next.js, Node.js, Web3 On-ramp, Cross-border Settlement Gateway | — | 🔒 Sob Contrato / Confidencial (NDA) |
+| 65 | **Young Market Core** | Web3, L1/L2 & DeFi | Ride / Node.js | Waves Enterprise Core, Ride Contracts, CVM Compliance, Stripe | — | 🔒 Sob Contrato (Venture / NDA) |
+| 66 | **Planet One Wallet** | Web3, L1/L2 & DeFi | TypeScript | React, Tailwind, EVM & Custom L1 Integration, eRWA Custody | — | 🔒 Sob Contrato / Confidencial (NDA) |
+| 67 | **Meta-X-Wallet** | Web3, L1/L2 & DeFi | TypeScript | React 18, TypeScript, Web3 Providers, Multi-asset Custody | — | 🔒 Sob Contrato / Confidencial (NDA) |
+| 68 | **AMZ Wallet** | Web3, L1/L2 & DeFi | TypeScript | TypeScript, Waves/AMZX Connectors, Carbon Credit Transfers | — | 🔒 Sob Contrato / Confidencial (NDA) |
+| 69 | **Sistema de Auditoria de Consenso** | Web3, L1/L2 & DeFi | Swift / Go | Distributed Benchmarking, Fault Tolerance, Byzantine Simulation | — | 🔒 Sob Contrato / Confidencial (NDA) |
+| 70 | **cubedetector** | Computação Espacial, GIS & 3D | Swift | Swift, ARKit, LiDAR Sensor, SceneKit, 3D Metric Bounding Box | — | 🔒 Sob Contrato / Confidencial (NDA) |
+| 71 | **lens_detector** | Computação Espacial, GIS & 3D | Python / C++ | Computer Vision AI, Smart Glasses, Object Detection, Depth Estimation, TTS | — | 🔒 Sob Contrato / Confidencial (NDA) |
+| 72 | **METATRON** | IA, Visão & Automação | TypeScript | Next.js, Node.js, Biometria Facial / IA, PostGIS, Alertas Táticos | — | 🔒 Sob Contrato (NDA Governamental) |
+| 73 | **ChatBuilder (Satochat)** | IA, Visão & Automação | TypeScript | Next.js, LangChain, Embeddings, Vector Database, Cloud Functions | — | 🔒 Sob Contrato / Confidencial (NDA) |
+| 74 | **AuraTV** | Mobile (iOS & Android) | TypeScript / Dart | WebRTC Mesh, Firebase, Concorrência Maciça, Gamificação | — | 🔒 Sob Contrato / Confidencial (NDA) |
+| 75 | **Hide-Protocol-App-VPN** | Criptografia, Segurança & RE | Dart / C | Flutter, OpenVPN, Shadowsocks/V2Ray, Stealth Tunnels, WireGuard | — | 🔒 Sob Contrato / Confidencial (NDA) |
+| 76 | **Laboratório Forense OmeTV** | Criptografia, Segurança & RE | JavaScript | Node.js, WebRTC Forensics, Secure WebSockets (WSS), Responsible Disclosure | — | 🔒 Sob Contrato / Confidencial (NDA) |
+| 77 | **Engine de Derivação Criptográfica** | Criptografia, Segurança & RE | Rust / WebCrypto | Rust, Argon2id, AES-256-GCM, Constant-Time Primitives | — | 🔒 Sob Contrato / Confidencial (NDA) |
+| 78 | **AgroGestor** | Enterprise & Web Corporativa | TypeScript / Dart | Next.js, Firebase DataConnect, Flutter Mobile, Cloud Functions | — | 🔒 Sob Contrato / Confidencial (NDA) |
+| 79 | **Solucione Multas** | Enterprise & Web Corporativa | TypeScript | React, Cloud Firestore, WhatsApp Cloud API, Conversational AI | — | 🔒 Sob Contrato (Co-fundador & CTO) |
+| 80 | **Anjo Online** | Enterprise & Web Corporativa | TypeScript | NestJS, Next.js, PostgreSQL, Docker, Cloud Run, TWINT, Mercado Pago | — | 🔒 Sob Contrato / Confidencial (NDA) |
+| 81 | **Planet One Official Portal** | Enterprise & Web Corporativa | TypeScript | Nuxt 3, Nitro, Tailwind CSS, Web3 Connectors | — | 🔒 Sob Contrato / Confidencial (NDA) |
+| 82 | **Better2Better Website & Core** | Enterprise & Web Corporativa | TypeScript | Next.js, Tailwind CSS, Internationalization, B2 Ecosystem | — | 🔒 Sob Contrato / Confidencial (NDA) |
+| 83 | **DDM Website** | Enterprise & Web Corporativa | TypeScript | React, TypeScript, Cloudflare Edge, Modern Design System | — | 🔒 Sob Contrato / Confidencial (NDA) |
+| 84 | **Bicon Wallet** | Mobile (iOS & Android) | Dart / Flutter | Flutter, Waves Protocol, Web3 API, eRWA Green Tokens, Secure Enclave (2020) | — | 🔒 Sob Contrato / Confidencial (NDA) |
+| 85 | **Bicon Rewards** | Mobile (iOS & Android) | Dart / Flutter | Flutter, Web3 Micro-rewards, Task Gamification, Escrow On-chain (2020) | — | 🔒 Sob Contrato / Confidencial (NDA) |
+| 86 | **Bico - Serviço Extra** | Mobile (iOS & Android) | Dart / Flutter | Flutter, Gateway Híbrido Fiat/Crypto, Geocoding, P2P Escrow, WebSockets (2020) | — | 🔒 Sob Contrato / Confidencial (NDA) |
+| 87 | **Axio AI** | IA, Visão & Automação | Python / TypeScript | Python, FastAPI, React, LLM Multi-modal Inference, Diffusion Models, Vector RAG (2023) | — | 🔒 Sob Contrato / Confidencial (NDA) |
+| 88 | **Web3OS** | Sistemas de Baixo Nível & Emulação | Shell / Linux | openSUSE, Custom Linux Kernel, Web3 Developer Stack, Embedded Node & Wallets | — | 🔒 Sob Contrato / Confidencial (NDA) |
+| 89 | **Futfinance App** | Mobile (iOS & Android) | Dart / Flutter | Flutter, Go Backend, WebSockets, High-Frequency OrderBook, Pix Gateway | — | 🔒 Sob Contrato / Confidencial (NDA) |
+| 90 | **IO Binários App** | Mobile (iOS & Android) | Dart / Flutter | Flutter, C++ Engine, Real-time WebSockets, Candlestick Charting, 1-Click Execution | — | 🔒 Sob Contrato / Confidencial (NDA) |
+| 91 | **DDM Phone** | Mobile (iOS & Android) | Dart / Flutter | Flutter, WebRTC, SIP / VoIP Engine, End-to-End Encryption, PBX Integration | — | 🔒 Sob Contrato / Confidencial (NDA) |
+| 92 | **DDM Broker** | Enterprise & Web Corporativa | TypeScript | React, Node.js, Financial Clearing Engine, Order Routing, Institutional Backoffice | — | 🔒 Sob Contrato / Confidencial (NDA) |
+| 93 | **Encheu App** | Mobile (iOS & Android) | Dart / Flutter | Flutter, Geocoding, Digital Tickets, Postos Parceiros, QR Code Validation, Pix | — | 🔒 Sob Contrato / Confidencial (NDA) |
+| 94 | **Encheu Web** | Enterprise & Web Corporativa | TypeScript | Next.js, PostgreSQL, Ticket Clearing, Financial Reconciliation, Partner Stations Hub | — | 🔒 Sob Contrato / Confidencial (NDA) |
+| 95 | **Summit Prime** | Enterprise & Web Corporativa | TypeScript | React, Next.js, Node.js, Swiss Cloud Infrastructure, Enterprise Security | — | 🔒 Sob Contrato / Confidencial (NDA) |
+| 96 | **Mamba Agência** | Enterprise & Web Corporativa | TypeScript | Next.js, Node.js, Social Media API Auth, Task Verification, Automated Micro-rewards | — | 🔒 Sob Contrato / Confidencial (NDA) |
+| 97 | **NexusAgent Runtime** | IA, Visão & Automação | Python / Go | Python, Go, Distributed Runtime, Event Loop, Agent IPC, Vector Memory | — | 🔒 Sob Contrato / Confidencial (NDA) |
+| 98 | **Archon AI (Autonomous Software Engineer)** | IA, Visão & Automação | Python / TypeScript | Python, TypeScript, AST Parser, Tree-sitter, Git Automation, LLM Multi-Agent | — | 🔒 Sob Contrato / Confidencial (NDA) |
+| 99 | **Hyperion AI Gateway** | IA, Visão & Automação | Go | Go, Reverse Proxy, Caching Semântico, Token Bucket Rate Limiting, Streaming SSE | — | 🔒 Sob Contrato / Confidencial (NDA) |
+| 100 | **OmniCognition RAG** | IA, Visão & Automação | Python | Python, Qdrant/Milvus, Hybrid Search, Cross-Encoder Re-ranking, Document Chunking | — | 🔒 Sob Contrato / Confidencial (NDA) |
+| 101 | **AegisOps (Autonomous SRE)** | IA, Visão & Automação | Go / Python | Go, Kubernetes Operator, Prometheus Metrics, Auto-remediation, LLM RCA | — | 🔒 Sob Contrato / Confidencial (NDA) |
+| 102 | **Krypton Ledger** | Web3, L1/L2 & DeFi | Go / Scala | Go, Distributed Double-Entry Ledger, Sub-millisecond Clearing, Cryptographic Audit Trails | — | 🔒 Sob Contrato / Confidencial (NDA) |
+| 103 | **ForgeStack IDP** | Enterprise & Web Corporativa | TypeScript | Backstage, TypeScript, Kubernetes, ArgoCD, Terraform, Ephemeral Envs | — | 🔒 Sob Contrato / Confidencial (NDA) |
+| 104 | **SentinelGuard AI Security Lab** | Criptografia, Segurança & RE | Python / Shell | Python, Red Teaming, Prompt Injection Defense, Jailbreak Emulation, Agent Sandboxing | — | 🔒 Sob Contrato / Confidencial (NDA) |
+| 105 | **VortexStream Engine** | Baixo Nível & Emulação | Go / Rust | Go, Lock-free Ring Buffers, Zero-allocation, High-Throughput Streaming (>500k ops/sec) | — | 🔒 Sob Contrato / Confidencial (NDA) |
+| 106 | **PolyTenant Core** | Enterprise & Web Corporativa | TypeScript / Go | TypeScript, Node.js, PostgreSQL Row-Level Security, Tenant Sharding, Distributed Cache | — | 🔒 Sob Contrato / Confidencial (NDA) |
+| 107 | **Valkyrie Local AI Cluster** | Baixo Nível & Emulação | Python / Shell | vLLM Engine, Tensor Parallelism, Local GPU Clusters, AWQ/GGUF Quantization | — | 🔒 Sob Contrato / Confidencial (NDA) |
+| 108 | **ApexChain Autonomous Core** | Web3, L1/L2 & DeFi | Go / Rust | Go, Autonomous L1 Consensus, Dynamic Block Parameter Tuning, Gas Self-Stabilization | — | 🔒 Sob Contrato / Confidencial (NDA) |
+| 109 | **DocuMind AI (Domain-Scoped PDF LLM)** | IA, Visão & Automação | Python | Python, LangChain, PyMuPDF, Strict Grounded RAG, Vector Embeddings | — | 🔒 Sob Contrato / Confidencial (NDA) |
+| 110 | **Solana Flash Bot** | Web3, L1/L2 & DeFi | Rust / TypeScript | Solana, Rust, Anchor, Raydium/Orca DEX Routing, Flash Swaps, High-Frequency Trading | — | 🔒 Sob Contrato / Confidencial (NDA) |
 
 ---
 
