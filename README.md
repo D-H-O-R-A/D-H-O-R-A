@@ -782,7 +782,7 @@ A matriz a seguir consolida **os 115 principais projetos de alta complexidade** 
 | 66 | **Planet One Wallet** | Web3, L1/L2 & DeFi | TypeScript | React, Tailwind, EVM & Custom L1 Integration, eRWA Custody | 2026 • Brasil | 🔒 Sob Contrato / Confidencial (NDA) |
 | 67 | **Meta-X-Wallet** | Web3, L1/L2 & DeFi | TypeScript | React 18, TypeScript, Web3 Providers, Multi-asset Custody | 2026 • Brasil | 🔒 Sob Contrato / Confidencial (NDA) |
 | 68 | **AMZ Wallet** | Web3, L1/L2 & DeFi | TypeScript | TypeScript, Waves/AMZX Connectors, Carbon Credit Transfers | 2021 • Argentina | 🔒 Sob Contrato / Confidencial (NDA) |
-| 69 | **Sistema de Auditoria de Consenso** | Web3, L1/L2 & DeFi | Swift / Go | Distributed Benchmarking, Fault Tolerance, Byzantine Simulation | — | 🔒 Sob Contrato / Confidencial (NDA) |
+| 69 | **Sistema de Auditoria de Consenso** | Web3, L1/L2 & DeFi | Swift / Go | Distributed Benchmarking, Fault Tolerance, Byzantine Simulation | 2022 • Finlândia | 🔒 Sob Contrato / Confidencial (NDA) |
 | 70 | **cubedetector** | Computação Espacial, GIS & 3D | Swift | Swift, ARKit, LiDAR Sensor, SceneKit, 3D Metric Bounding Box | 2024 • Turquia | 🔒 Sob Contrato / Confidencial (NDA) |
 | 71 | **lens_detector** | Computação Espacial, GIS & 3D | Python / C++ | Computer Vision AI, Smart Glasses, Object Detection, Depth Estimation, TTS | 2024 • Turquia | 🔒 Sob Contrato / Confidencial (NDA) |
 | 72 | **METATRON** | IA, Visão & Automação | TypeScript | Next.js, Node.js, Biometria Facial / IA, PostGIS, Alertas Táticos | 2026 • Brasil (Projeto Próprio) | 🔒 Sob Contrato (NDA Governamental) |
@@ -791,17 +791,17 @@ A matriz a seguir consolida **os 115 principais projetos de alta complexidade** 
 | 75 | **Hide-Protocol-App-VPN** | Criptografia, Segurança & RE | Dart / C | Flutter, OpenVPN, Shadowsocks/V2Ray, Stealth Tunnels, WireGuard | 2024 • Turquia | 🔒 Sob Contrato / Confidencial (NDA) |
 | 76 | **Laboratório Forense OmeTV** | Criptografia, Segurança & RE | JavaScript | Node.js, WebRTC Forensics, Secure WebSockets (WSS), Responsible Disclosure | 2026 • Brasil (Análise & Report Próprio) | 🔒 Sob Contrato / Confidencial (NDA) |
 | 77 | **Engine de Derivação Criptográfica** | Criptografia, Segurança & RE | Rust / WebCrypto | Rust, Argon2id, AES-256-GCM, Constant-Time Primitives | 2021 • Finlândia | 🔒 Sob Contrato / Confidencial (NDA) |
-| 78 | **AgroGestor** | Enterprise & Web Corporativa | TypeScript / Dart | Next.js, Firebase DataConnect, Flutter Mobile, Cloud Functions | — | 🔒 Sob Contrato / Confidencial (NDA) |
-| 79 | **Solucione Multas** | Enterprise & Web Corporativa | TypeScript | React, Cloud Firestore, WhatsApp Cloud API, Conversational AI | — | 🔒 Sob Contrato (Co-fundador & CTO) |
+| 78 | **AgroGestor** | Enterprise & Web Corporativa | TypeScript / Dart | Next.js, Firebase DataConnect, Flutter Mobile, Cloud Functions | 2026 • Brasil | 🔒 Sob Contrato / Confidencial (NDA) |
+| 79 | **Solucione Multas** | Enterprise & Web Corporativa | TypeScript | React, Cloud Firestore, WhatsApp Cloud API, Conversational AI | 2026 • Brasil | 🔒 Sob Contrato (Co-fundador & CTO) |
 | 80 | **Anjo Online** | Enterprise & Web Corporativa | TypeScript | NestJS, Next.js, PostgreSQL, Docker, Cloud Run, Mercado Pago, Pix Webhooks | 2026 • Brasil | 🔒 Sob Contrato / Confidencial (NDA) |
-| 81 | **Planet One Official Portal** | Enterprise & Web Corporativa | TypeScript | Nuxt 3, Nitro, Tailwind CSS, Web3 Connectors | — | 🔒 Sob Contrato / Confidencial (NDA) |
-| 82 | **Better2Better Website & Core** | Enterprise & Web Corporativa | TypeScript | Next.js, Tailwind CSS, Internationalization, B2 Ecosystem | — | 🔒 Sob Contrato / Confidencial (NDA) |
+| 81 | **Planet One Official Portal** | Enterprise & Web Corporativa | TypeScript | Nuxt 3, Nitro, Tailwind CSS, Web3 Connectors | 2026 • Brasil | 🔒 Sob Contrato / Confidencial (NDA) |
+| 82 | **Better2Better Website & Core** | Enterprise & Web Corporativa | TypeScript | Next.js, Tailwind CSS, Internationalization, B2 Ecosystem | 2024 • Brasil | 🔒 Sob Contrato / Confidencial (NDA) |
 | 83 | **DDM Website** | Enterprise & Web Corporativa | TypeScript | React, TypeScript, Cloudflare Edge, Modern Design System | 2026 • Suíça | 🔒 Sob Contrato / Confidencial (NDA) |
 | 84 | **Bicon Wallet** | Mobile (iOS & Android) | Dart / Flutter | Flutter, Waves Protocol, Web3 API, eRWA Green Tokens, Secure Enclave (2020) | 2020 • Brasil | 🔒 Sob Contrato / Confidencial (NDA) |
 | 85 | **Bicon Rewards** | Mobile (iOS & Android) | Dart / Flutter | Flutter, Web3 Micro-rewards, Task Gamification, Escrow On-chain (2020) | 2020 • Brasil | 🔒 Sob Contrato / Confidencial (NDA) |
 | 86 | **Bico - Serviço Extra** | Mobile (iOS & Android) | Dart / Flutter | Flutter, Gateway Híbrido Fiat/Crypto, Geocoding, P2P Escrow, WebSockets (2020) | 2020 • Brasil | 🔒 Sob Contrato / Confidencial (NDA) |
 | 87 | **Axio AI** | IA, Visão & Automação | Python / TypeScript | Python, FastAPI, React, LLM Multi-modal Inference, Diffusion Models, Vector RAG (2023) | 2023 • Brasil | 🔒 Sob Contrato / Confidencial (NDA) |
-| 88 | **Web3OS** | Sistemas de Baixo Nível & Emulação | Shell / Linux | openSUSE, Custom Linux Kernel, Web3 Developer Stack, Embedded Node & Wallets | — | 🔒 Sob Contrato / Confidencial (NDA) |
+| 88 | **Web3OS** | Sistemas de Baixo Nível & Emulação | Shell / Linux | openSUSE, Custom Linux Kernel, Web3 Developer Stack, Embedded Node & Wallets | 2024 • Turquia | 🔒 Sob Contrato / Confidencial (NDA) |
 | 89 | **Futfinance App** | Mobile (iOS & Android) | Dart / Flutter | Flutter, Go Backend, WebSockets, High-Frequency OrderBook, Pix Gateway | 2025 • Portugal | 🔒 Sob Contrato / Confidencial (NDA) |
 | 90 | **IO Binários App** | Mobile (iOS & Android) | Dart / Flutter | Flutter, C++ Engine, Real-time WebSockets, Candlestick Charting, 1-Click Execution | 2022 • China | 🔒 Sob Contrato / Confidencial (NDA) |
 | 91 | **DDM Phone** | Mobile (iOS & Android) | Dart / Flutter | Flutter, WebRTC, SIP / VoIP Engine, End-to-End Encryption, PBX Integration | 2026 • Suíça | 🔒 Sob Contrato / Confidencial (NDA) |
@@ -809,11 +809,11 @@ A matriz a seguir consolida **os 115 principais projetos de alta complexidade** 
 | 93 | **Encheu App** | Mobile (iOS & Android) | Dart / Flutter | Flutter, Geocoding, Digital Tickets, Postos Parceiros, QR Code Validation, Pix | 2026 • Suíça | 🔒 Sob Contrato / Confidencial (NDA) |
 | 94 | **Encheu Web** | Enterprise & Web Corporativa | TypeScript | Next.js, PostgreSQL, Ticket Clearing, Financial Reconciliation, Partner Stations Hub | 2026 • Suíça | 🔒 Sob Contrato / Confidencial (NDA) |
 | 95 | **Summit Prime** | Enterprise & Web Corporativa | TypeScript | React, Next.js, Node.js, Swiss Cloud Infrastructure, Enterprise Security | 2026 • Suíça | 🔒 Sob Contrato / Confidencial (NDA) |
-| 96 | **Mamba Agência** | Enterprise & Web Corporativa | TypeScript | Next.js, Node.js, Social Media API Auth, Task Verification, Automated Micro-rewards | — | 🔒 Sob Contrato / Confidencial (NDA) |
-| 97 | **NexusAgent Runtime** | IA, Visão & Automação | Python / Go | Python, Go, Distributed Runtime, Event Loop, Agent IPC, Vector Memory | — | 🔒 Sob Contrato / Confidencial (NDA) |
-| 98 | **Archon AI (Autonomous Software Engineer)** | IA, Visão & Automação | Python / TypeScript | Python, TypeScript, AST Parser, Tree-sitter, Git Automation, LLM Multi-Agent | — | 🔒 Sob Contrato / Confidencial (NDA) |
-| 99 | **Hyperion AI Gateway** | IA, Visão & Automação | Go | Go, Reverse Proxy, Caching Semântico, Token Bucket Rate Limiting, Streaming SSE | — | 🔒 Sob Contrato / Confidencial (NDA) |
-| 100 | **OmniCognition RAG** | IA, Visão & Automação | Python | Python, Qdrant/Milvus, Hybrid Search, Cross-Encoder Re-ranking, Document Chunking | — | 🔒 Sob Contrato / Confidencial (NDA) |
+| 96 | **Mamba Agência** | Enterprise & Web Corporativa | TypeScript | Next.js, Node.js, Social Media API Auth, Task Verification, Automated Micro-rewards | 2026 • Brasil | 🔒 Sob Contrato / Confidencial (NDA) |
+| 97 | **NexusAgent Runtime** | IA, Visão & Automação | Python / Go | Python, Go, Distributed Runtime, Event Loop, Agent IPC, Vector Memory | 2026 • Suíça | 🔒 Sob Contrato / Confidencial (NDA) |
+| 98 | **Archon AI (Autonomous Software Engineer)** | IA, Visão & Automação | Python / TypeScript | Python, TypeScript, AST Parser, Tree-sitter, Git Automation, LLM Multi-Agent | 2025 • Portugal | 🔒 Sob Contrato / Confidencial (NDA) |
+| 99 | **Hyperion AI Gateway** | IA, Visão & Automação | Go | Go, Reverse Proxy, Caching Semântico, Token Bucket Rate Limiting, Streaming SSE | 2024 • Turquia | 🔒 Sob Contrato / Confidencial (NDA) |
+| 100 | **OmniCognition RAG** | IA, Visão & Automação | Python | Python, Qdrant/Milvus, Hybrid Search, Cross-Encoder Re-ranking, Document Chunking | 2024 • Turquia | 🔒 Sob Contrato / Confidencial (NDA) |
 | 101 | **AegisOps (Autonomous SRE)** | IA, Visão & Automação | Go / Python | Go, Kubernetes Operator, Prometheus Metrics, Auto-remediation, LLM RCA | — | 🔒 Sob Contrato / Confidencial (NDA) |
 | 102 | **Krypton Ledger** | Web3, L1/L2 & DeFi | Go / Scala | Go, Distributed Double-Entry Ledger, Sub-millisecond Clearing, Cryptographic Audit Trails | — | 🔒 Sob Contrato / Confidencial (NDA) |
 | 103 | **ForgeStack IDP** | Enterprise & Web Corporativa | TypeScript | Backstage, TypeScript, Kubernetes, ArgoCD, Terraform, Ephemeral Envs | — | 🔒 Sob Contrato / Confidencial (NDA) |
@@ -821,9 +821,9 @@ A matriz a seguir consolida **os 115 principais projetos de alta complexidade** 
 | 105 | **VortexStream Engine** | Baixo Nível & Emulação | Go / Rust | Go, Lock-free Ring Buffers, Zero-allocation, High-Throughput Streaming (>500k ops/sec) | — | 🔒 Sob Contrato / Confidencial (NDA) |
 | 106 | **PolyTenant Core** | Enterprise & Web Corporativa | TypeScript / Go | TypeScript, Node.js, PostgreSQL Row-Level Security, Tenant Sharding, Distributed Cache | — | 🔒 Sob Contrato / Confidencial (NDA) |
 | 107 | **Valkyrie Local AI Cluster** | Baixo Nível & Emulação | Python / Shell | vLLM Engine, Tensor Parallelism, Local GPU Clusters, AWQ/GGUF Quantization | — | 🔒 Sob Contrato / Confidencial (NDA) |
-| 108 | **ApexChain Autonomous Core** | Web3, L1/L2 & DeFi | Go / Rust | Go, Autonomous L1 Consensus, Dynamic Block Parameter Tuning, Gas Self-Stabilization | — | 🔒 Sob Contrato / Confidencial (NDA) |
-| 109 | **DocuMind AI (Domain-Scoped PDF LLM)** | IA, Visão & Automação | Python | Python, LangChain, PyMuPDF, Strict Grounded RAG, Vector Embeddings | — | 🔒 Sob Contrato / Confidencial (NDA) |
-| 110 | **Solana Flash Bot** | Web3, L1/L2 & DeFi | Rust / TypeScript | Solana, Rust, Anchor, Raydium/Orca DEX Routing, Flash Swaps, High-Frequency Trading | — | 🔒 Sob Contrato / Confidencial (NDA) |
+| 108 | **ApexChain Autonomous Core** | Web3, L1/L2 & DeFi | Go / Rust | Go, Autonomous L1 Consensus, Dynamic Block Parameter Tuning, Gas Self-Stabilization | 2024 • Turquia | 🔒 Sob Contrato / Confidencial (NDA) |
+| 109 | **DocuMind AI (Domain-Scoped PDF LLM)** | IA, Visão & Automação | Python | Python, LangChain, PyMuPDF, Strict Grounded RAG, Vector Embeddings | 2024 • Turquia | 🔒 Sob Contrato / Confidencial (NDA) |
+| 110 | **Solana Flash Bot** | Web3, L1/L2 & DeFi | Rust / TypeScript | Solana, Rust, Anchor, Raydium/Orca DEX Routing, Flash Swaps, High-Frequency Trading | 2025 • Estados Unidos | 🔒 Sob Contrato / Confidencial (NDA) |
 | 111 | **Waves Play** | Web3, L1/L2 & DeFi | TypeScript / Ride | Waves Protocol, Ride Smart Contracts, Web3 Gaming SDK, NFT Badges | 2023 • Suíça | 🔒 Sob Contrato / Confidencial (NDA) |
 | 112 | **AxAi Swap** | Web3, L1/L2 & DeFi | Solidity / TypeScript | Solidity, EVM, AMM Engine, AI Predictive Routing, Liquidity Pools | 2022 • Curaçao (Caribe) | 🔒 Sob Contrato / Confidencial (NDA) |
 | 113 | **Bee Crazy** | Web3, L1/L2 & DeFi | TypeScript / Python | Telegram Bot API, WebSockets, Node.js, Web3 Wallets, Tap-to-Earn Engine | 2024 • Brasil | 🔒 Sob Contrato / Confidencial (NDA) |
