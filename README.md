@@ -154,7 +154,7 @@ Especializado em assumir desafios de **extrema complexidade algorítmica e arqui
 | **[aoc-le32s5760-mt5880-firmware-research](https://github.com/D-H-O-R-A/aoc-le32s5760-mt5880-firmware-research)** | [🌐 Repositório](https://github.com/D-H-O-R-A/aoc-le32s5760-mt5880-firmware-research) | Python / C | MediaTek MT5880, DLM Reversing, dm-bht, MSTAR, Cryptographic Chain-of-Trust | Engenharia reversa forense em Smart TV: análise de cadeias de confiança criptográfica, containers DLM e partições mtd12. |
 | **[bulletproofs](https://github.com/D-H-O-R-A/bulletproofs)** | [🌐 Repositório](https://github.com/D-H-O-R-A/bulletproofs) | Pesquisa / ZK | Zero-Knowledge Proofs, Bulletproofs, Elliptic Curve Cryptography | Pesquisa aprofundada e implementação didático-técnica de provas de intervalo de conhecimento zero sem trusted setup. |
 | **Hide-Protocol-App-VPN** | 🔒 Sob Contrato / Confidencial (NDA) | Dart / C | Flutter, OpenVPN, Shadowsocks/V2Ray, Stealth Tunnels, WireGuard | Suíte móvel de privacidade com camuflagem de pacotes contra DPI (Deep Packet Inspection). |
-| **Laboratório Forense OmeTV** | 🔒 Sob Contrato / Confidencial (NDA) | JavaScript | Node.js, WebRTC Forensics, Secure WebSockets (WSS), Packet Sniffing | Ambiente especializado para auditoria de segurança, descriptografia de handshake e análise forense WebRTC. |
+| **Laboratório Forense OmeTV** | 🔒 Sob Contrato / Confidencial (NDA) | JavaScript | Node.js, WebRTC Forensics, Secure WebSockets (WSS), Responsible Disclosure | Auditoria forense demonstrando falhas críticas de segurança e vazamento de dados no protocolo WebRTC da OmeTV, formalmente reportadas à equipe de TI da plataforma para correção. |
 | **Engine de Derivação Criptográfica** | 🔒 Sob Contrato / Confidencial (NDA) | Rust / WebCrypto | Rust, Argon2id, AES-256-GCM, Constant-Time Primitives | Módulo proprietário de derivação e hashing de chaves criptográficas em tempo constante resistente a ataques de canal lateral. |
 
 <a id="cat-gis"></a>
@@ -170,9 +170,9 @@ Especializado em assumir desafios de **extrema complexidade algorítmica e arqui
 | **SeteAlem - The game** | 🔒 Sob Contrato (NDA) | C# / Unity | Unity 3D, C#, Custom HLSL Shaders, Atmospheric Lighting, Narrative FSM | Jogo 3D de sobrevivência e terror psicológico baseado nas lendas urbanas de "SeteAlém" da internet, desenvolvido na Unity Engine com shaders HLSL (projeto descontinuado por restrições orçamentárias do estúdio). |
 | **Sinuca Club** | 🔒 Sob Contrato (NDA) | C# / Unity | Unity 3D, C#, Rigidbody Physics Math, Real-time Multiplayer, Ball Collision | Simulador de bilhar/sinuca 3D com física matemática de precisão e partidas multijogador em tempo real na Unity. |
 | **Cidade de Deus - The game** | 🔒 Sob Contrato (NDA) | C# / Unity | Unity 3D, C#, Open World Asset Streaming, AI NavMeshes, Ragdoll Physics | Jogo 3D de ação, estratégia e narrativa urbana ambientado no universo do consagrado filme brasileiro "Cidade de Deus", desenvolvido em Unity Engine com streaming contínuo de cenários e IA tática de NPCs. |
-| **Match Blocks MVP** | 🔒 Sob Contrato (NDA) | C# / Unity | Unity 2022 LTS, C#, URP, HLSL Shaders, PostGIS R-Tree, Deterministic RNG | Engine híbrida de jogo e processamento de malhas espaciais processando 10.000 registros territoriais por minuto. |
-| **cubedetector** | 🔒 Sob Contrato / Confidencial (NDA) | Swift | Swift, ARKit, Vision Framework, 3D Spatial Geometry | Reconhecimento e rastreamento em tempo real de geometrias cúbicas no espaço tridimensional com ARKit. |
-| **lens_detector** | 🔒 Sob Contrato / Confidencial (NDA) | JavaScript | JavaScript, HTML5 Canvas, Optical Distortion Algorithms | Algoritmo de visão computacional em navegador para calibração de distorção óptica e análise de lentes de câmeras. |
+| **Match Blocks MVP** | 🔒 Sob Contrato (NDA) | C# / Unity | Unity 2022 LTS, C#, URP, Procedural Grid Physics, Advanced Match Mechanics | MVP de jogo estilo match de blocos com mecânicas de física espacial e algoritmos combinatórios projetados para oferecer profundidade e complexidade matemática superiores ao Candy Crush. |
+| **cubedetector** | 🔒 Sob Contrato / Confidencial (NDA) | Swift | Swift, ARKit, LiDAR Sensor, SceneKit, 3D Metric Bounding Box | Detector volumétrico via sensor LiDAR do iPhone para medição precisa de caixas e objetos arbitrários em tempo real, calculando altura, largura e comprimento exatos em centímetros. |
+| **lens_detector** | 🔒 Sob Contrato / Confidencial (NDA) | Python / C++ | Computer Vision AI, Smart Glasses, Object Detection, Depth Estimation, TTS | Algoritmo de visão computacional e IA para óculos inteligentes (smart glasses) que analisa o ambiente circundante em tempo real e sintetiza em áudio o que está à frente e a distância métrica até os objetos. |
 
 <a id="cat-lowlevel"></a>
 ### ⚙️ Categoria 4: Sistemas de Baixo Nível, Emulação & Compiladores
@@ -184,6 +184,7 @@ Especializado em assumir desafios de **extrema complexidade algorítmica e arqui
 | **[Android-real-emulator](https://github.com/D-H-O-R-A/Android-real-emulator)** | [🌐 Repositório](https://github.com/D-H-O-R-A/Android-real-emulator) | Rust | Rust, Android SDK/NDK, ARM64 Translation (libndk), Magisk | DroidRun: Runner open-source em Rust para rodar o Android Oficial em desktops com Google Play e tradução ARM64. |
 | **[BlackServerOS](https://github.com/D-H-O-R-A/BlackServerOS)** | [🌐 Repositório](https://github.com/D-H-O-R-A/BlackServerOS) | Shell | Bash, Linux Kernel Hardening, Minimal Security Appliance | Scripts e automação para compilação de appliance Linux minimalista de alta segurança para servidores de missão crítica. |
 | **[ar-ml-iOS-measure-detect](https://github.com/D-H-O-R-A/ar-ml-iOS-measure-detect)** | [🌐 Repositório](https://github.com/D-H-O-R-A/ar-ml-iOS-measure-detect) | C++ | C++, OpenCV, Metal Shaders, Low-Level SIMD, iOS | Pipeline em C++ de baixa latência para visão computacional, medições métricas e inferência em iOS. |
+| **Web3OS** | 🔒 Sob Contrato / Confidencial (NDA) | Shell / Linux | openSUSE, Linux Appliance, Web3 Core Tools, Integrated Wallets, Hardening | Sistema operacional customizado baseado em openSUSE voltado ao mercado Web3: ambiente pré-configurado com nós de rede, carteiras criptográficas, SDKs e hardening avançado. |
 
 <a id="cat-ai"></a>
 ### 🤖 Categoria 5: Inteligência Artificial, Visão Computacional & Automação
@@ -293,10 +294,10 @@ Expanda os painéis abaixo para inspecionar os projetos por stack de linguagem:
 | **Planet One Wallet** | 🔒 Sob Contrato / Confidencial (NDA) | Web3, L1/L2 & DeFi | Carteira institucional para emissão e transferência de ativos do mundo real e créditos de carbono. |
 | **Meta-X-Wallet** | 🔒 Sob Contrato / Confidencial (NDA) | Web3, L1/L2 & DeFi | Custódia descentralizada e gestão multi-ativo de carteiras digitais corporativas. |
 | **AMZ Wallet** | 🔒 Sob Contrato / Confidencial (NDA) | Web3, L1/L2 & DeFi | Carteira dedicada para transacionar ativos de compensação ambiental e certificados verdes. |
-| **lens_detector** | 🔒 Sob Contrato / Confidencial (NDA) | Computação Espacial, GIS & 3D | Algoritmo de visão computacional em navegador para calibração de distorção óptica e análise de lentes de câmeras. |
+| **lens_detector** | 🔒 Sob Contrato / Confidencial (NDA) | Computação Espacial, GIS & 3D | Algoritmo de visão computacional e IA para óculos inteligentes que analisa o ambiente e descreve em áudio os objetos e sua distância métrica. |
 | **METATRON** | 🔒 Sob Contrato (NDA Governamental) | IA, Visão & Automação | Sistema Integrado de Inteligência & Captura de Foragidos para Segurança Pública, cruzando alertas em tempo real. |
 | **ChatBuilder (Satochat)** | 🔒 Sob Contrato / Confidencial (NDA) | IA, Visão & Automação | Plataforma SaaS para treinamento e implantação de agentes de conversação autônomos baseados em sites. |
-| **Laboratório Forense OmeTV** | 🔒 Sob Contrato / Confidencial (NDA) | Criptografia, Segurança & RE | Ambiente especializado para auditoria de segurança, descriptografia de handshake e análise forense WebRTC. |
+| **Laboratório Forense OmeTV** | 🔒 Sob Contrato / Confidencial (NDA) | Criptografia, Segurança & RE | Auditoria forense demonstrando falhas de segurança no protocolo WebRTC da OmeTV, reportadas à equipe de TI para correção. |
 | **Solucione Multas** | 🔒 Sob Contrato (Co-fundador & CTO) | Enterprise & Web Corporativa | LegalTech com portal do cliente, backoffice jurídico e triagem autônoma de leads via WhatsApp Oficial. |
 | **Anjo Online** | 🔒 Sob Contrato / Confidencial (NDA) | Enterprise & Web Corporativa | SaaS internacional de arrecadação filantrópica com gateway duplo de liquidação bancária (Suíça / Brasil). |
 | **Planet One Official Portal** | 🔒 Sob Contrato / Confidencial (NDA) | Enterprise & Web Corporativa | Portal institucional corporativo da infraestrutura blockchain Planet One para ativos ambientais. |
@@ -370,7 +371,7 @@ Expanda os painéis abaixo para inspecionar os projetos por stack de linguagem:
 | **SeteAlem - The game** | 🔒 Sob Contrato (NDA) | Computação Espacial, GIS & Games 3D | Jogo 3D de sobrevivência e terror psicológico baseado nas lendas urbanas de "SeteAlém" da internet, desenvolvido na Unity Engine com shaders HLSL (projeto descontinuado por restrições orçamentárias do estúdio). |
 | **Sinuca Club** | 🔒 Sob Contrato (NDA) | Computação Espacial, GIS & Games 3D | Simulador de bilhar/sinuca 3D com física matemática de precisão e partidas multijogador em tempo real na Unity. |
 | **Cidade de Deus - The game** | 🔒 Sob Contrato (NDA) | Computação Espacial, GIS & Games 3D | Jogo 3D de ação, estratégia e narrativa urbana ambientado no universo do consagrado filme brasileiro "Cidade de Deus", desenvolvido em Unity Engine com streaming contínuo de cenários e IA tática de NPCs. |
-| **Match Blocks MVP** | 🔒 Sob Contrato (NDA) | Computação Espacial, GIS & Games 3D | Engine híbrida de jogo e processamento de malhas espaciais processando 10.000 registros territoriais por minuto. |
+| **Match Blocks MVP** | 🔒 Sob Contrato (NDA) | Computação Espacial, GIS & Games 3D | MVP de jogo estilo match de blocos com mecânicas de física espacial e algoritmos combinatórios mais complexos que Candy Crush. |
 
 </details>
 
@@ -382,7 +383,7 @@ Expanda os painéis abaixo para inspecionar os projetos por stack de linguagem:
 | **[Scanning-and-Detecting-3D-Objects](https://github.com/D-H-O-R-A/Scanning-and-Detecting-3D-Objects)** | [🌐 GitHub](https://github.com/D-H-O-R-A/Scanning-and-Detecting-3D-Objects) | Computação Espacial, GIS & 3D | Captura e persistência de nuvens de pontos 3D de objetos físicos para rastreamento espacial e Realidade Aumentada. |
 | **[consensus](https://github.com/D-H-O-R-A/consensus)** | [🌐 GitHub](https://github.com/D-H-O-R-A/consensus) | Web3, L1/L2 & DeFi | Implementação e benchmark comparativo dos principais algoritmos de consenso distribuído em Swift puro. |
 | **Sistema de Auditoria de Consenso** | 🔒 Sob Contrato / Confidencial (NDA) | Web3, L1/L2 & DeFi | Suíte para análise e benchmarking de tolerância a falhas bizantinas em redes descentralizadas. |
-| **cubedetector** | 🔒 Sob Contrato / Confidencial (NDA) | Computação Espacial, GIS & 3D | Reconhecimento e rastreamento em tempo real de geometrias cúbicas no espaço tridimensional com ARKit. |
+| **cubedetector** | 🔒 Sob Contrato / Confidencial (NDA) | Computação Espacial, GIS & 3D | Detector volumétrico via sensor LiDAR do iPhone para medição precisa de caixas e objetos, calculando altura, largura e comprimento em centímetros. |
 
 </details>
 
@@ -418,13 +419,14 @@ Expanda os painéis abaixo para inspecionar os projetos por stack de linguagem:
 </details>
 
 <details>
-<summary><a id="lang-php"></a><h3>🐘 PHP & Shell (3 Projetos) — Clique para Expandir</h3></summary>
+<summary><a id="lang-php"></a><h3>🐘 PHP & Shell (4 Projetos) — Clique para Expandir</h3></summary>
 
 | Projeto | Status / Acesso | Categoria | Descrição Técnica |
 |:---|:---:|:---|:---|
 | **[BlackServerOS](https://github.com/D-H-O-R-A/BlackServerOS)** | [🌐 GitHub](https://github.com/D-H-O-R-A/BlackServerOS) | Sistemas de Baixo Nível & Emulação | Scripts e automação para compilação de appliance Linux minimalista de alta segurança para servidores de missão crítica. |
 | **[Subway-money](https://github.com/D-H-O-R-A/Subway-money)** | [🌐 GitHub](https://github.com/D-H-O-R-A/Subway-money) | Plataformas Corporativas & SaaS | Backend financeiro para processamento instantâneo de depósitos e saques em jogos transacionais. |
 | **waves-payment** | 🔒 Sob Contrato / Confidencial (NDA) | Web3, Blockchain Core, DeFi, DEX & CEX | Plugin WooCommerce para integração e liquidação de pagamentos em criptoativos da rede Waves em lojas virtuais. |
+| **Web3OS** | 🔒 Sob Contrato / Confidencial (NDA) | Sistemas de Baixo Nível & Emulação | Sistema operacional customizado baseado em openSUSE voltado ao mercado Web3: nós de rede, carteiras integradas e ferramentas de desenvolvimento. |
 
 </details>
 
@@ -554,14 +556,14 @@ Expanda os painéis abaixo para inspecionar os projetos por stack de linguagem:
 | **SeteAlem - The game** | C# / Unity | 🔒 Sob Contrato (NDA) | Jogo 3D de sobrevivência e terror psicológico baseado nas lendas urbanas de "SeteAlém" da internet, desenvolvido na Unity Engine com shaders HLSL (descontinuado por restrições orçamentárias do estúdio). |
 | **Sinuca Club** | C# / Unity | 🔒 Sob Contrato (NDA) | Simulador de bilhar/sinuca 3D com física matemática de precisão e partidas multijogador em tempo real na Unity. |
 | **Cidade de Deus - The game** | C# / Unity | 🔒 Sob Contrato (NDA) | Jogo 3D de ação, estratégia e narrativa urbana ambientado no universo do consagrado filme brasileiro "Cidade de Deus", desenvolvido em Unity Engine com streaming contínuo de cenários e IA tática de NPCs. |
-| **Match Blocks MVP** | C# / Unity | 🔒 Sob Contrato (NDA) | Engine híbrida de jogo e processamento de malhas espaciais processando 10.000 registros territoriais por minuto. |
-| **cubedetector** | Swift | 🔒 Sob Contrato / Confidencial (NDA) | Reconhecimento e rastreamento em tempo real de geometrias cúbicas no espaço tridimensional com ARKit. |
-| **lens_detector** | JavaScript | 🔒 Sob Contrato / Confidencial (NDA) | Algoritmo de visão computacional em navegador para calibração de distorção óptica e análise de lentes de câmeras. |
+| **Match Blocks MVP** | C# / Unity | 🔒 Sob Contrato (NDA) | MVP de jogo de combinação de blocos com mecânicas de física espacial e algoritmos combinatórios mais complexos que Candy Crush. |
+| **cubedetector** | Swift | 🔒 Sob Contrato / Confidencial (NDA) | Detector volumétrico via sensor LiDAR do iPhone para medição precisa de caixas e objetos, calculando altura, largura e comprimento em centímetros. |
+| **lens_detector** | Python / C++ | 🔒 Sob Contrato / Confidencial (NDA) | Algoritmo de visão computacional e IA para óculos inteligentes que analisa o ambiente e descreve em áudio os objetos e sua distância métrica. |
 
 </details>
 
 <details>
-<summary><a id="stack-security"></a><h3>🔒 Segurança, Criptografia & Baixo Nível (9 Projetos) — Clique para Expandir</h3></summary>
+<summary><a id="stack-security"></a><h3>🔒 Segurança, Criptografia & Baixo Nível (10 Projetos) — Clique para Expandir</h3></summary>
 
 *WebCrypto API, Argon2id KDF, AES-256-GCM, Rust, engenharia reversa e SLSA 3.*
 
@@ -574,17 +576,18 @@ Expanda os painéis abaixo para inspecionar os projetos por stack de linguagem:
 | **[ar-ml-iOS-measure-detect](https://github.com/D-H-O-R-A/ar-ml-iOS-measure-detect)** | C++ | [🌐 Código](https://github.com/D-H-O-R-A/ar-ml-iOS-measure-detect) | Pipeline em C++ de baixa latência para visão computacional, medições métricas e inferência em iOS. |
 | **[bulletproofs](https://github.com/D-H-O-R-A/bulletproofs)** | Pesquisa / ZK | [🌐 Código](https://github.com/D-H-O-R-A/bulletproofs) | Pesquisa aprofundada e implementação didático-técnica de provas de intervalo de conhecimento zero sem trusted setup. |
 | **Hide-Protocol-App-VPN** | Dart / C | 🔒 Sob Contrato / Confidencial (NDA) | Suíte móvel de privacidade com camuflagem de pacotes contra DPI (Deep Packet Inspection). |
-| **Laboratório Forense OmeTV** | JavaScript | 🔒 Sob Contrato / Confidencial (NDA) | Ambiente especializado para auditoria de segurança, descriptografia de handshake e análise forense WebRTC. |
+| **Laboratório Forense OmeTV** | JavaScript | 🔒 Sob Contrato / Confidencial (NDA) | Auditoria forense demonstrando falhas críticas de segurança e vazamento de dados no protocolo WebRTC da OmeTV, reportadas à equipe de TI. |
 | **Engine de Derivação Criptográfica** | Rust / WebCrypto | 🔒 Sob Contrato / Confidencial (NDA) | Módulo proprietário de derivação e hashing de chaves criptográficas em tempo constante resistente a ataques de canal lateral. |
+| **Web3OS** | Shell / Linux | 🔒 Sob Contrato / Confidencial (NDA) | Sistema operacional baseado em openSUSE customizado para o mercado Web3: nós de rede, carteiras integradas e ferramentas de desenvolvimento. |
 
 </details>
 
 ---
 
 <a id="tabela-mestra"></a>
-## 📊 Matriz Geral de Todos os Projetos (87 Sistemas Selecionados)
+## 📊 Matriz Geral de Todos os Projetos (88 Sistemas Selecionados)
 
-A matriz a seguir consolida **os 87 principais projetos de alta complexidade** desenvolvidos, mantidos e liderados tecnicamente por Diego Antunes. Repositórios de código aberto possuem links diretos de acesso; projetos confidenciais sob contrato corporativo/NDA estão protegidos por sigilo contratual conforme as normas vigentes:
+A matriz a seguir consolida **os 88 principais projetos de alta complexidade** desenvolvidos, mantidos e liderados tecnicamente por Diego Antunes. Repositórios de código aberto possuem links diretos de acesso; projetos confidenciais sob contrato corporativo/NDA estão protegidos por sigilo contratual conforme as normas vigentes:
 
 | # | Projeto | Categoria Principal | Linguagem | Stack Tecnológica | Status & Acesso |
 |:---:|:---|:---|:---:|:---|:---:|
@@ -647,7 +650,7 @@ A matriz a seguir consolida **os 87 principais projetos de alta complexidade** d
 | 57 | **SeteAlem - The game** | Computação Espacial, GIS & 3D | C# / Unity | Unity 3D, C#, Custom HLSL Shaders, Atmospheric Lighting, Narrative FSM (Lendas SeteAlém / Descontinuado) | 🔒 Sob Contrato (NDA) |
 | 58 | **Sinuca Club** | Computação Espacial, GIS & 3D | C# / Unity | Unity 3D, C#, Rigidbody Physics Math, Real-time Multiplayer, Ball Collision | 🔒 Sob Contrato (NDA) |
 | 59 | **Cidade de Deus - The game** | Computação Espacial, GIS & 3D | C# / Unity | Unity 3D, C#, Open World Asset Streaming, AI NavMeshes, Ragdoll Physics (Filme Cidade de Deus) | 🔒 Sob Contrato (NDA) |
-| 60 | **Match Blocks MVP** | Computação Espacial, GIS & 3D | C# / Unity | Unity 2022 LTS, C#, URP, HLSL Shaders, PostGIS R-Tree, Deterministic RNG | 🔒 Sob Contrato (NDA) |
+| 60 | **Match Blocks MVP** | Computação Espacial, GIS & 3D | C# / Unity | Unity 2022 LTS, C#, URP, Procedural Grid Physics, Advanced Match Mechanics | 🔒 Sob Contrato (NDA) |
 | 61 | **micron-stake** | Web3, L1/L2 & DeFi | Solidity / JavaScript | Solidity, Web3.js, Bitci Network, Dynamic APR Staking Engine | 🔒 Sob Contrato / Confidencial (NDA) |
 | 62 | **waves-payment** | Web3, L1/L2 & DeFi | PHP | PHP, WordPress, WooCommerce API, Waves Payment Gateway | 🔒 Sob Contrato / Confidencial (NDA) |
 | 63 | **GIC Wallet Pro Enterprise** | Web3, L1/L2 & DeFi | Solidity / TS | Multi-sig Treasury, Institutional Governance, WebCrypto API | 🔒 Sob Contrato / Confidencial (NDA) |
@@ -657,13 +660,13 @@ A matriz a seguir consolida **os 87 principais projetos de alta complexidade** d
 | 67 | **Meta-X-Wallet** | Web3, L1/L2 & DeFi | TypeScript | React 18, TypeScript, Web3 Providers, Multi-asset Custody | 🔒 Sob Contrato / Confidencial (NDA) |
 | 68 | **AMZ Wallet** | Web3, L1/L2 & DeFi | TypeScript | TypeScript, Waves/AMZX Connectors, Carbon Credit Transfers | 🔒 Sob Contrato / Confidencial (NDA) |
 | 69 | **Sistema de Auditoria de Consenso** | Web3, L1/L2 & DeFi | Swift / Go | Distributed Benchmarking, Fault Tolerance, Byzantine Simulation | 🔒 Sob Contrato / Confidencial (NDA) |
-| 70 | **cubedetector** | Computação Espacial, GIS & 3D | Swift | Swift, ARKit, Vision Framework, 3D Spatial Geometry | 🔒 Sob Contrato / Confidencial (NDA) |
-| 71 | **lens_detector** | Computação Espacial, GIS & 3D | JavaScript | JavaScript, HTML5 Canvas, Optical Distortion Algorithms | 🔒 Sob Contrato / Confidencial (NDA) |
+| 70 | **cubedetector** | Computação Espacial, GIS & 3D | Swift | Swift, ARKit, LiDAR Sensor, SceneKit, 3D Metric Bounding Box | 🔒 Sob Contrato / Confidencial (NDA) |
+| 71 | **lens_detector** | Computação Espacial, GIS & 3D | Python / C++ | Computer Vision AI, Smart Glasses, Object Detection, Depth Estimation, TTS | 🔒 Sob Contrato / Confidencial (NDA) |
 | 72 | **METATRON** | IA, Visão & Automação | TypeScript | Next.js, Node.js, Biometria Facial / IA, PostGIS, Alertas Táticos | 🔒 Sob Contrato (NDA Governamental) |
 | 73 | **ChatBuilder (Satochat)** | IA, Visão & Automação | TypeScript | Next.js, LangChain, Embeddings, Vector Database, Cloud Functions | 🔒 Sob Contrato / Confidencial (NDA) |
 | 74 | **AuraTV** | Mobile (iOS & Android) | TypeScript / Dart | WebRTC Mesh, Firebase, Concorrência Maciça, Gamificação | 🔒 Sob Contrato / Confidencial (NDA) |
 | 75 | **Hide-Protocol-App-VPN** | Criptografia, Segurança & RE | Dart / C | Flutter, OpenVPN, Shadowsocks/V2Ray, Stealth Tunnels, WireGuard | 🔒 Sob Contrato / Confidencial (NDA) |
-| 76 | **Laboratório Forense OmeTV** | Criptografia, Segurança & RE | JavaScript | Node.js, WebRTC Forensics, Secure WebSockets (WSS), Packet Sniffing | 🔒 Sob Contrato / Confidencial (NDA) |
+| 76 | **Laboratório Forense OmeTV** | Criptografia, Segurança & RE | JavaScript | Node.js, WebRTC Forensics, Secure WebSockets (WSS), Responsible Disclosure | 🔒 Sob Contrato / Confidencial (NDA) |
 | 77 | **Engine de Derivação Criptográfica** | Criptografia, Segurança & RE | Rust / WebCrypto | Rust, Argon2id, AES-256-GCM, Constant-Time Primitives | 🔒 Sob Contrato / Confidencial (NDA) |
 | 78 | **AgroGestor** | Enterprise & Web Corporativa | TypeScript / Dart | Next.js, Firebase DataConnect, Flutter Mobile, Cloud Functions | 🔒 Sob Contrato / Confidencial (NDA) |
 | 79 | **Solucione Multas** | Enterprise & Web Corporativa | TypeScript | React, Cloud Firestore, WhatsApp Cloud API, Conversational AI | 🔒 Sob Contrato (Co-fundador & CTO) |
@@ -675,6 +678,7 @@ A matriz a seguir consolida **os 87 principais projetos de alta complexidade** d
 | 85 | **Bicon Rewards** | Mobile (iOS & Android) | Dart / Flutter | Flutter, Web3 Micro-rewards, Task Gamification, Escrow On-chain (2020) | 🔒 Sob Contrato / Confidencial (NDA) |
 | 86 | **Bico - Serviço Extra** | Mobile (iOS & Android) | Dart / Flutter | Flutter, Gateway Híbrido Fiat/Crypto, Geocoding, P2P Escrow, WebSockets (2020) | 🔒 Sob Contrato / Confidencial (NDA) |
 | 87 | **Axio AI** | IA, Visão & Automação | Python / TypeScript | Python, FastAPI, React, LLM Multi-modal Inference, Diffusion Models, Vector RAG (2023) | 🔒 Sob Contrato / Confidencial (NDA) |
+| 88 | **Web3OS** | Sistemas de Baixo Nível & Emulação | Shell / Linux | openSUSE, Custom Linux Kernel, Web3 Developer Stack, Embedded Node & Wallets | 🔒 Sob Contrato / Confidencial (NDA) |
 
 ---
 
