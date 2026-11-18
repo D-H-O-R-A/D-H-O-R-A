@@ -2,7 +2,7 @@
 
 # Diego Henrique Oris de Roa Antunes (Diego Antunes)
 ### **Senior Full Stack Software Engineer • Systems Architect • Fractional CTO**
-#### *Especialista em Web3, Criptografia, Compiladores, Computação Espacial & Sistemas de Baixa Latência*
+#### *Especialista em Web3, Criptografia, Compiladores, Computação Espacial, Games (Unity) & Sistemas de Baixa Latência*
 
 <p align="center">
   <a href="https://diegooris.ch/"><img src="https://img.shields.io/badge/Portfolio%20Oficial-diegooris.ch-00f2fe?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
@@ -36,7 +36,7 @@ Filtre e explore o portfólio selecionado de projetos de alta complexidade diret
 
 | 📂 **Filtrar por Categoria** | 💻 **Filtrar por Linguagem** | 🛠️ **Filtrar por Stack / Camada** |
 |:---|:---|:---|
-| • [⛓️ Web3, L1/L2 & DeFi](#cat-web3)<br>• [🛡️ Criptografia & Segurança](#cat-crypto)<br>• [🗺️ GIS, Cartografia & 3D](#cat-gis)<br>• [⚙️ Baixo Nível & Emulação](#cat-lowlevel)<br>• [🤖 IA, Visão & Automação](#cat-ai)<br>• [📱 Mobile & Redes / VPN](#cat-mobile)<br>• [🏢 Enterprise & LegalTech](#cat-enterprise) | • [🦀 Rust](#lang-rust)<br>• [📜 Scala](#lang-scala)<br>• [⚡ TypeScript / JavaScript](#lang-ts-js)<br>• [💎 Solidity & Ride](#lang-solidity-ride)<br>• [🐍 Python](#lang-python)<br>• [⚙️ C / C++ & C#](#lang-c-cpp)<br>• [🍎 Swift](#lang-swift)<br>• [🎯 Dart / Flutter](#lang-flutter)<br>• [☕ Java & Kotlin](#lang-java)<br>• [🐘 Go, Shell & PHP](#lang-php) | • [🖥️ Frontend & Web3 UI](#stack-frontend)<br>• [🔌 Backend & Microserviços](#stack-backend)<br>• [🔗 Smart Contracts & Core](#stack-contracts)<br>• [📲 Mobile & Tunnels VPN](#stack-mobile)<br>• [🌐 Bancos & Motores GIS](#stack-gis)<br>• [🔒 Segurança & Hardening](#stack-security) |
+| • [⛓️ Web3, L1/L2 & DeFi](#cat-web3)<br>• [🛡️ Criptografia & Segurança](#cat-crypto)<br>• [🗺️ GIS, Cartografia & Games 3D](#cat-gis)<br>• [⚙️ Baixo Nível & Emulação](#cat-lowlevel)<br>• [🤖 IA, Visão & Automação](#cat-ai)<br>• [📱 Mobile & Redes / VPN](#cat-mobile)<br>• [🏢 Enterprise & LegalTech](#cat-enterprise) | • [🦀 Rust](#lang-rust)<br>• [📜 Scala](#lang-scala)<br>• [⚡ TypeScript / JavaScript](#lang-ts-js)<br>• [💎 Solidity & Ride](#lang-solidity-ride)<br>• [🐍 Python](#lang-python)<br>• [🎮 C / C++ & C# (Unity)](#lang-c-cpp)<br>• [🍎 Swift](#lang-swift)<br>• [🎯 Dart / Flutter](#lang-flutter)<br>• [☕ Java & Kotlin](#lang-java)<br>• [🐘 Go, Shell & PHP](#lang-php) | • [🖥️ Frontend & Web3 UI](#stack-frontend)<br>• [🔌 Backend & Microserviços](#stack-backend)<br>• [🔗 Smart Contracts & Core](#stack-contracts)<br>• [📲 Mobile & Tunnels VPN](#stack-mobile)<br>• [🌐 Bancos & Motores GIS](#stack-gis)<br>• [🔒 Segurança & Hardening](#stack-security) |
 
 </div>
 
@@ -74,7 +74,7 @@ Especializado em assumir desafios de **extrema complexidade algorítmica e arqui
 *Infraestrutura de livros-razão distribuídos, nós de consenso, oráculos, AMM, staking, bridges e carteiras de custódia institucional.*
 
 | Projeto | Acesso / Status | Linguagem | Stack Principal | Destaque Técnico |
-|:---|:---:|:---:|:---|
+|:---|:---:|:---:|:---|:---|
 | **[AnyStakeProtocol](https://github.com/D-H-O-R-A/AnyStakeProtocol)** | [🌐 Repositório](https://github.com/D-H-O-R-A/AnyStakeProtocol) | Solidity | Solidity, Hardhat, Multi-Token Staking, EVM | Protocolo descentralizado de staking flexível com suporte a múltiplos ativos ERC-20 e yield distribuído. |
 | **[Waves](https://github.com/D-H-O-R-A/Waves)** | [🌐 Repositório](https://github.com/D-H-O-R-A/Waves) | Scala | Scala, Akka Actors, LevelDB, Scorex Framework, LPoS | Nó oficial de referência da blockchain Waves: protocolo de consenso, verificação de blocos e máquina de estados. |
 | **[address-generator](https://github.com/D-H-O-R-A/address-generator)** | [🌐 Repositório](https://github.com/D-H-O-R-A/address-generator) | JavaScript | Node.js, BIP-39, BIP-44, Secp256k1, Multi-chain Derivation | Gerador determinístico de endereços públicos e chaves criptográficas para múltiplas blockchains. |
@@ -116,7 +116,7 @@ Especializado em assumir desafios de **extrema complexidade algorítmica e arqui
 *Segurança defensiva, engenharia reversa de firmware bare-metal, derivação determinística de chaves e túneis de privacidade.*
 
 | Projeto | Acesso / Status | Linguagem | Stack Principal | Destaque Técnico |
-|:---|:---:|:---:|:---|
+|:---|:---:|:---:|:---|:---|
 | **[CryptoSeedRecovery](https://github.com/D-H-O-R-A/CryptoSeedRecovery)** | [🌐 Repositório](https://github.com/D-H-O-R-A/CryptoSeedRecovery) | JavaScript | BIP-39, BIP-44, Electrum, Levenshtein, Tree Pruning, SLSA 3 | Engine CLI e lib de alta performance para restauração de sementes mnemônicas perdidas em 39 blockchains simultâneas. |
 | **[aoc-le32s5760-mt5880-firmware-research](https://github.com/D-H-O-R-A/aoc-le32s5760-mt5880-firmware-research)** | [🌐 Repositório](https://github.com/D-H-O-R-A/aoc-le32s5760-mt5880-firmware-research) | Python / C | MediaTek MT5880, DLM Reversing, dm-bht, MSTAR, Cryptographic Chain-of-Trust | Engenharia reversa forense em Smart TV: análise de cadeias de confiança criptográfica, containers DLM e partições mtd12. |
 | **[bulletproofs](https://github.com/D-H-O-R-A/bulletproofs)** | [🌐 Repositório](https://github.com/D-H-O-R-A/bulletproofs) | Pesquisa / ZK | Zero-Knowledge Proofs, Bulletproofs, Elliptic Curve Cryptography | Pesquisa aprofundada e implementação didático-técnica de provas de intervalo de conhecimento zero sem trusted setup. |
@@ -125,18 +125,21 @@ Especializado em assumir desafios de **extrema complexidade algorítmica e arqui
 | **Engine de Derivação Criptográfica** | 🔒 Sob Contrato (NDA) | Rust / WebCrypto | Rust, Argon2id, AES-256-GCM, Constant-Time Primitives | Módulo proprietário de derivação e hashing de chaves criptográficas em tempo constante resistente a ataques de canal lateral. |
 
 <a id="cat-gis"></a>
-### 🗺️ Categoria 3: Computação Espacial, GIS & Engines 3D/WebGL
+### 🗺️ Categoria 3: Computação Espacial, GIS & Games 3D (Unity / WebGL)
 
-*Compiladores cartográficos, conversão geodésica elipsoidal em tempo real, visualização 3D isométrica e realidade aumentada.*
+*Engines de jogos em Unity (C#), compiladores cartográficos, conversão geodésica elipsoidal em tempo real, física 3D e realidade aumentada.*
 
 | Projeto | Acesso / Status | Linguagem | Stack Principal | Destaque Técnico |
-|:---|:---:|:---:|:---|
+|:---|:---:|:---:|:---|:---|
 | **[Scanning-and-Detecting-3D-Objects](https://github.com/D-H-O-R-A/Scanning-and-Detecting-3D-Objects)** | [🌐 Repositório](https://github.com/D-H-O-R-A/Scanning-and-Detecting-3D-Objects) | Swift | Swift, ARKit, SceneKit, 3D Spatial Point Cloud Mapping | Captura e persistência de nuvens de pontos 3D de objetos físicos para rastreamento espacial e Realidade Aumentada. |
 | **[pdf-to-maps](https://github.com/D-H-O-R-A/pdf-to-maps)** | [🌐 Repositório](https://github.com/D-H-O-R-A/pdf-to-maps) | TypeScript | Three.js, WebGL, SIRGAS2000 UTM, DXF, GeoJSON, SLSA Level 3 | Compilador cartográfico 100% offline: transforma PDFs do INCRA/SIGEF em modelos 3D WebGL, DXF e GeoJSON em sub-segundos. |
+| **Parque Estadual São João Marcos — The Game** | 🔒 Sob Contrato (NDA) | C# / Unity | Unity 3D, C#, Universal Render Pipeline (URP), WebGL Build, Historical Rebuild | Jogo de exploração interativa 3D e reconstrução histórica do sítio arqueológico desenvolvido em Unity com alta fidelidade gráfica. |
+| **SeteAlem - The game** | 🔒 Sob Contrato (NDA) | C# / Unity | Unity 3D, C#, Custom HLSL Shaders, Atmospheric Lighting, Narrative FSM | Jogo 3D imersivo de atmosfera e suspense desenvolvido em Unity com renderização customizada e máquinas de estados. |
+| **Sinuca Club** | 🔒 Sob Contrato (NDA) | C# / Unity | Unity 3D, C#, Rigidbody Physics Math, Real-time Multiplayer, Ball Collision | Simulador de bilhar/sinuca 3D com física matemática de precisão e partidas multijogador em tempo real na Unity. |
+| **Cidade de Deus - The game** | 🔒 Sob Contrato (NDA) | C# / Unity | Unity 3D, C#, Open World Asset Streaming, AI NavMeshes, Ragdoll Physics | Jogo 3D de ação e simulação urbana em mundo aberto desenvolvido em Unity com streaming contínuo de cenários e IA de NPCs. |
+| **Match Blocks MVP** | 🔒 Sob Contrato (NDA) | C# / Unity | Unity 2022 LTS, C#, URP, HLSL Shaders, PostGIS R-Tree, Deterministic RNG | Engine híbrida de jogo e processamento de malhas espaciais processando 10.000 registros territoriais por minuto. |
 | **cubedetector** | 🔒 Sob Contrato / Confidencial (NDA) | Swift | Swift, ARKit, Vision Framework, 3D Spatial Geometry | Reconhecimento e rastreamento em tempo real de geometrias cúbicas no espaço tridimensional com ARKit. |
 | **lens_detector** | 🔒 Sob Contrato / Confidencial (NDA) | JavaScript | JavaScript, HTML5 Canvas, Optical Distortion Algorithms | Algoritmo de visão computacional em navegador para calibração de distorção óptica e análise de lentes de câmeras. |
-| **Match Blocks MVP** | 🔒 Sob Contrato (NDA) | C# / Unity | Unity 2022 LTS, C#, URP, HLSL Shaders, PostGIS R-Tree | Engine híbrida de jogo e processamento de malhas espaciais processando 10.000 registros territoriais por minuto. |
-| **Parque São João Marcos 3D** | 🔒 Sob Contrato (Institucional) | JavaScript / WebGL | Three.js, WebGL, Low-poly Optimization, WebXR Spatial Audio | Museu virtual interativo 3D com navegação em tempo real por sítio arqueológico histórico. |
 
 <a id="cat-lowlevel"></a>
 ### ⚙️ Categoria 4: Sistemas de Baixo Nível, Emulação & Compiladores
@@ -144,7 +147,7 @@ Especializado em assumir desafios de **extrema complexidade algorítmica e arqui
 *Desenvolvimento próximo ao hardware, tradução binária, otimização de ciclos de CPU e emulação de sistemas operacionais.*
 
 | Projeto | Acesso / Status | Linguagem | Stack Principal | Destaque Técnico |
-|:---|:---:|:---:|:---|
+|:---|:---:|:---:|:---|:---|
 | **[Android-real-emulator](https://github.com/D-H-O-R-A/Android-real-emulator)** | [🌐 Repositório](https://github.com/D-H-O-R-A/Android-real-emulator) | Rust | Rust, Android SDK/NDK, ARM64 Translation (libndk), Magisk | DroidRun: Runner open-source em Rust para rodar o Android Oficial em desktops com Google Play e tradução ARM64. |
 | **[BlackServerOS](https://github.com/D-H-O-R-A/BlackServerOS)** | [🌐 Repositório](https://github.com/D-H-O-R-A/BlackServerOS) | Shell | Bash, Linux Kernel Hardening, Minimal Security Appliance | Scripts e automação para compilação de appliance Linux minimalista de alta segurança para servidores de missão crítica. |
 | **[ar-ml-iOS-measure-detect](https://github.com/D-H-O-R-A/ar-ml-iOS-measure-detect)** | [🌐 Repositório](https://github.com/D-H-O-R-A/ar-ml-iOS-measure-detect) | C++ | C++, OpenCV, Metal Shaders, Low-Level SIMD, iOS | Pipeline em C++ de baixa latência para visão computacional, medições métricas e inferência em iOS. |
@@ -155,7 +158,7 @@ Especializado em assumir desafios de **extrema complexidade algorítmica e arqui
 *Pipelines RAG (Retrieval-Augmented Generation), bots autônomos, visão computacional e agentes conversacionais.*
 
 | Projeto | Acesso / Status | Linguagem | Stack Principal | Destaque Técnico |
-|:---|:---:|:---:|:---|
+|:---|:---:|:---:|:---|:---|
 | **[AICryptoPrediction](https://github.com/D-H-O-R-A/AICryptoPrediction)** | [🌐 Repositório](https://github.com/D-H-O-R-A/AICryptoPrediction) | Python | Python, PyTorch, LSTM/Transformers, Time-Series Forecasting | Engine de inteligência artificial para previsão de preços de criptoativos baseada em séries temporais. |
 | **[RealChar](https://github.com/D-H-O-R-A/RealChar)** | [🌐 Repositório](https://github.com/D-H-O-R-A/RealChar) | Python / TS | Python, WebSockets, ElevenLabs, OpenAI Whisper, Conversational AI | Engine conversacional em tempo real para criação e diálogo com avatares autônomos de inteligência artificial. |
 | **[SharpOSAI](https://github.com/D-H-O-R-A/SharpOSAI)** | [🌐 Repositório](https://github.com/D-H-O-R-A/SharpOSAI) | Python | Python, FastAPI, Neural Pipeline Orchestration, Task Workers | Infraestrutura em Python para orquestração de chamadas neurais e fluxos de automação cognitiva. |
@@ -171,18 +174,18 @@ Especializado em assumir desafios de **extrema complexidade algorítmica e arqui
 *Arquitetura reativa mobile (BloC), telecomunicações de baixa latência, VPNs táticas e interfaces fluidas.*
 
 | Projeto | Acesso / Status | Linguagem | Stack Principal | Destaque Técnico |
-|:---|:---:|:---:|:---|
+|:---|:---:|:---:|:---|:---|
 | **[NOrange](https://github.com/D-H-O-R-A/NOrange)** | [🌐 Repositório](https://github.com/D-H-O-R-A/NOrange) | Java | Android SDK, OpenVPN Core, Tun2Socks, HTTP/SOCKS5 Proxy, Hotspot | Suíte tática de privacidade e rede para Android: cliente OpenVPN, servidor proxy local e gateway hotspot sem root. |
 | **AuraTV** | 🔒 Sob Contrato (NDA) | TypeScript / Dart | WebRTC Mesh, Firebase, Concorrência Maciça, Gamificação | Plataforma social móvel de streaming de vídeo P2P e competições ao vivo em tempo real. |
 | **Click Serviços** | 🔒 Sob Contrato (NDA) | Dart / Flutter | Flutter (BloC), NestJS, PostGIS R-Tree Spatial Index, Redis BullMQ | Marketplace multiplataforma de alta concorrência para matching de serviços por proximidade geográfica. |
 
 <a id="cat-enterprise"></a>
-### 🏢 Categoria 7: Plataformas Corporativas, LegalTech, GovTech, Gaming & SaaS
+### 🏢 Categoria 7: Plataformas Corporativas, LegalTech, GovTech & SaaS
 
 *Plataformas multi-tenant, billing internacional, integrações regulatórias, engines de jogos e infraestrutura corporativa.*
 
 | Projeto | Acesso / Status | Linguagem | Stack Principal | Destaque Técnico |
-|:---|:---:|:---:|:---|
+|:---|:---:|:---:|:---|:---|
 | **[Fluxx](https://github.com/D-H-O-R-A/Fluxx)** | [🌐 Repositório](https://github.com/D-H-O-R-A/Fluxx) | Dart / Flutter | Flutter, Dart, SQLite, Responsive UI | Aplicativo mobile para controle e inteligência financeira pessoal com gráficos interativos e relatórios offline. |
 | **[Subway-money](https://github.com/D-H-O-R-A/Subway-money)** | [🌐 Repositório](https://github.com/D-H-O-R-A/Subway-money) | PHP | PHP 8, MySQL, Payment Gateway Integration, Pix Webhooks | Backend financeiro para processamento instantâneo de depósitos e saques em jogos transacionais. |
 | **AgroGestor** | 🔒 Sob Contrato (NDA) | TypeScript / Dart | Next.js, Firebase DataConnect, Flutter Mobile, Cloud Functions | Plataforma corporativa multi-tenant para gestão rural: safras, rebanhos zootécnicos, patrimônio e maquinário. |
@@ -221,7 +224,7 @@ Expanda os painéis abaixo para inspecionar os projetos por stack de linguagem:
 </details>
 
 <details>
-<summary><a id="lang-ts-js"></a><h3>⚡ TypeScript & JavaScript (30 Projetos) — Clique para Expandir</h3></summary>
+<summary><a id="lang-ts-js"></a><h3>⚡ TypeScript & JavaScript (29 Projetos) — Clique para Expandir</h3></summary>
 
 | Projeto | Status / Acesso | Categoria | Descrição Técnica |
 |:---|:---:|:---|:---|
@@ -241,20 +244,19 @@ Expanda os painéis abaixo para inspecionar os projetos por stack de linguagem:
 | **[solana-stake](https://github.com/D-H-O-R-A/solana-stake)** | [🌐 GitHub](https://github.com/D-H-O-R-A/solana-stake) | Web3, L1/L2 & DeFi | Aplicação de staking descentralizado nativa da rede Solana para rendimento e bloqueio de tokens SPL. |
 | **[ym-explorer](https://github.com/D-H-O-R-A/ym-explorer)** | [🌐 GitHub](https://github.com/D-H-O-R-A/ym-explorer) | Web3, L1/L2 & DeFi | Explorador de blocos e transações de ativos desportivos tokenizados da rede Young Market. |
 | **viper-king-swap** | 🔒 Sob Contrato / Confidencial (NDA) | Web3, L1/L2 & DeFi | Roteador descentralizado de liquidez e execução otimizada de ordens com baixo impacto de slippage. |
-| **lens_detector** | 🔒 Sob Contrato / Confidencial (NDA) | Computação Espacial, GIS & 3D | Algoritmo de visão computacional em navegador para calibração de distorção óptica e análise de lentes de câmeras. |
-| **METATRON** | 🔒 Sob Contrato (NDA Governamental) | IA, Visão & Automação | Sistema Integrado de Inteligência & Captura de Foragidos para Segurança Pública, cruzando alertas em tempo real. |
-| **Solucione Multas** | 🔒 Sob Contrato (Co-fundador & CTO) | Enterprise & Web Corporativa | LegalTech com portal do cliente, backoffice jurídico e triagem autônoma de leads via WhatsApp Oficial. |
-| **Anjo Online** | 🔒 Sob Contrato (NDA) | Enterprise & Web Corporativa | SaaS internacional de arrecadação filantrópica com gateway duplo de liquidação bancária (Suíça / Brasil). |
-| **Laboratório Forense OmeTV** | 🔒 Sob Contrato (NDA) | Criptografia, Segurança & RE | Ambiente especializado para auditoria de segurança, descriptografia de handshake e análise forense WebRTC. |
 | **Amazonic Pay** | 🔒 Sob Contrato (NDA) | Web3, L1/L2 & DeFi | Gateway de liquidação cross-border reduzindo taxas de remessa de 4.5% para <0.5%. |
 | **Planet One Wallet** | 🔒 Sob Contrato (NDA) | Web3, L1/L2 & DeFi | Carteira institucional para emissão e transferência de ativos do mundo real e créditos de carbono. |
 | **Meta-X-Wallet** | 🔒 Sob Contrato (NDA) | Web3, L1/L2 & DeFi | Custódia descentralizada e gestão multi-ativo de carteiras digitais corporativas. |
 | **AMZ Wallet** | 🔒 Sob Contrato (NDA) | Web3, L1/L2 & DeFi | Carteira dedicada para transacionar ativos de compensação ambiental e certificados verdes. |
+| **lens_detector** | 🔒 Sob Contrato / Confidencial (NDA) | Computação Espacial, GIS & 3D | Algoritmo de visão computacional em navegador para calibração de distorção óptica e análise de lentes de câmeras. |
+| **METATRON** | 🔒 Sob Contrato (NDA Governamental) | IA, Visão & Automação | Sistema Integrado de Inteligência & Captura de Foragidos para Segurança Pública, cruzando alertas em tempo real. |
+| **ChatBuilder (Satochat)** | 🔒 Sob Contrato (NDA) | IA, Visão & Automação | Plataforma SaaS para treinamento e implantação de agentes de conversação autônomos baseados em sites. |
+| **Laboratório Forense OmeTV** | 🔒 Sob Contrato (NDA) | Criptografia, Segurança & RE | Ambiente especializado para auditoria de segurança, descriptografia de handshake e análise forense WebRTC. |
+| **Solucione Multas** | 🔒 Sob Contrato (Co-fundador & CTO) | Enterprise & Web Corporativa | LegalTech com portal do cliente, backoffice jurídico e triagem autônoma de leads via WhatsApp Oficial. |
+| **Anjo Online** | 🔒 Sob Contrato (NDA) | Enterprise & Web Corporativa | SaaS internacional de arrecadação filantrópica com gateway duplo de liquidação bancária (Suíça / Brasil). |
 | **Planet One Official Portal** | 🔒 Sob Contrato (NDA) | Enterprise & Web Corporativa | Portal institucional corporativo da infraestrutura blockchain Planet One para ativos ambientais. |
 | **Better2Better Website & Core** | 🔒 Sob Contrato (NDA) | Enterprise & Web Corporativa | Hub institucional e ecossistema de produtos da Better2Better. |
 | **DDM Website** | 🔒 Sob Contrato (NDA) | Enterprise & Web Corporativa | Infraestrutura web corporativa institucional de alta disponibilidade. |
-| **ChatBuilder (Satochat)** | 🔒 Sob Contrato (NDA) | IA, Visão & Automação | Plataforma SaaS para treinamento e implantação de agentes de conversação autônomos baseados em sites. |
-| **Parque São João Marcos 3D** | 🔒 Sob Contrato (Institucional) | Computação Espacial, GIS & 3D | Museu virtual interativo 3D com navegação em tempo real por sítio arqueológico histórico. |
 
 </details>
 
@@ -289,7 +291,7 @@ Expanda os painéis abaixo para inspecionar os projetos por stack de linguagem:
 </details>
 
 <details>
-<summary><a id="lang-c-cpp"></a><h3>⚙️ C / C++ & C# (5 Projetos) — Clique para Expandir</h3></summary>
+<summary><a id="lang-c-cpp"></a><h3>🎮 C / C++ & C# (Unity Game Engine) (9 Projetos) — Clique para Expandir</h3></summary>
 
 | Projeto | Status / Acesso | Categoria | Descrição Técnica |
 |:---|:---:|:---|:---|
@@ -297,6 +299,10 @@ Expanda os painéis abaixo para inspecionar os projetos por stack de linguagem:
 | **[bulletproofs](https://github.com/D-H-O-R-A/bulletproofs)** | [🌐 GitHub](https://github.com/D-H-O-R-A/bulletproofs) | Criptografia, Segurança & RE | Pesquisa aprofundada e implementação didático-técnica de provas de intervalo de conhecimento zero sem trusted setup. |
 | **[paychain](https://github.com/D-H-O-R-A/paychain)** | [🌐 GitHub](https://github.com/D-H-O-R-A/paychain) | Web3, L1/L2 & DeFi | Blockchain orientada a pagamentos corporativos de alta velocidade com privacidade de dados e microtaxas. |
 | **[ymcore](https://github.com/D-H-O-R-A/ymcore)** | [🌐 GitHub](https://github.com/D-H-O-R-A/ymcore) | Web3, L1/L2 & DeFi | Implementação em Go do daemon de nó e bibliotecas de baixo nível para a rede Young Market. |
+| **Parque Estadual São João Marcos — The Game** | 🔒 Sob Contrato (NDA) | Computação Espacial, GIS & 3D | Jogo de exploração interativa 3D e reconstrução histórica do sítio arqueológico desenvolvido em Unity com alta fidelidade gráfica. |
+| **SeteAlem - The game** | 🔒 Sob Contrato (NDA) | Computação Espacial, GIS & 3D | Jogo 3D imersivo de atmosfera e suspense desenvolvido em Unity com renderização customizada e máquinas de estados. |
+| **Sinuca Club** | 🔒 Sob Contrato (NDA) | Computação Espacial, GIS & 3D | Simulador de bilhar/sinuca 3D com física matemática de precisão e partidas multijogador em tempo real na Unity. |
+| **Cidade de Deus - The game** | 🔒 Sob Contrato (NDA) | Computação Espacial, GIS & 3D | Jogo 3D de ação e simulação urbana em mundo aberto desenvolvido em Unity com streaming contínuo de cenários e IA de NPCs. |
 | **Match Blocks MVP** | 🔒 Sob Contrato (NDA) | Computação Espacial, GIS & 3D | Engine híbrida de jogo e processamento de malhas espaciais processando 10.000 registros territoriais por minuto. |
 
 </details>
@@ -308,8 +314,8 @@ Expanda os painéis abaixo para inspecionar os projetos por stack de linguagem:
 |:---|:---:|:---|:---|
 | **[Scanning-and-Detecting-3D-Objects](https://github.com/D-H-O-R-A/Scanning-and-Detecting-3D-Objects)** | [🌐 GitHub](https://github.com/D-H-O-R-A/Scanning-and-Detecting-3D-Objects) | Computação Espacial, GIS & 3D | Captura e persistência de nuvens de pontos 3D de objetos físicos para rastreamento espacial e Realidade Aumentada. |
 | **[consensus](https://github.com/D-H-O-R-A/consensus)** | [🌐 GitHub](https://github.com/D-H-O-R-A/consensus) | Web3, L1/L2 & DeFi | Implementação e benchmark comparativo dos principais algoritmos de consenso distribuído em Swift puro. |
-| **cubedetector** | 🔒 Sob Contrato / Confidencial (NDA) | Computação Espacial, GIS & 3D | Reconhecimento e rastreamento em tempo real de geometrias cúbicas no espaço tridimensional com ARKit. |
 | **Sistema de Auditoria de Consenso** | 🔒 Sob Contrato (NDA) | Web3, L1/L2 & DeFi | Suíte para análise e benchmarking de tolerância a falhas bizantinas em redes descentralizadas. |
+| **cubedetector** | 🔒 Sob Contrato / Confidencial (NDA) | Computação Espacial, GIS & 3D | Reconhecimento e rastreamento em tempo real de geometrias cúbicas no espaço tridimensional com ARKit. |
 
 </details>
 
@@ -320,9 +326,9 @@ Expanda os painéis abaixo para inspecionar os projetos por stack de linguagem:
 |:---|:---:|:---|:---|
 | **[Fluxx](https://github.com/D-H-O-R-A/Fluxx)** | [🌐 GitHub](https://github.com/D-H-O-R-A/Fluxx) | Enterprise & Web Corporativa | Aplicativo mobile para controle e inteligência financeira pessoal com gráficos interativos e relatórios offline. |
 | **AuraTV** | 🔒 Sob Contrato (NDA) | Mobile & Telecom VPN | Plataforma social móvel de streaming de vídeo P2P e competições ao vivo em tempo real. |
-| **AgroGestor** | 🔒 Sob Contrato (NDA) | Enterprise & Web Corporativa | Plataforma corporativa multi-tenant para gestão rural: safras, rebanhos zootécnicos, patrimônio e maquinário. |
 | **Click Serviços** | 🔒 Sob Contrato (NDA) | Mobile & Telecom VPN | Marketplace multiplataforma de alta concorrência para matching de serviços por proximidade geográfica. |
 | **Hide-Protocol-App-VPN** | 🔒 Sob Contrato (NDA) | Criptografia, Segurança & RE | Suíte móvel de privacidade com camuflagem de pacotes contra DPI (Deep Packet Inspection). |
+| **AgroGestor** | 🔒 Sob Contrato (NDA) | Enterprise & Web Corporativa | Plataforma corporativa multi-tenant para gestão rural: safras, rebanhos zootécnicos, patrimônio e maquinário. |
 
 </details>
 
@@ -364,11 +370,11 @@ Expanda os painéis abaixo para inspecionar os projetos por stack de linguagem:
 | **[gicwalletpro](https://github.com/D-H-O-R-A/gicwalletpro)** | TypeScript | [🌐 Código](https://github.com/D-H-O-R-A/gicwalletpro) | GIC Wallet Pro: Extensão de navegador para interação com a rede corporativa GIC Blockchain. |
 | **[planetone-explorer](https://github.com/D-H-O-R-A/planetone-explorer)** | TypeScript | [🌐 Código](https://github.com/D-H-O-R-A/planetone-explorer) | Explorador em tempo real da blockchain Planet One para monitoramento de ativos ambientais (eRWA) e nós validadores. |
 | **[ym-explorer](https://github.com/D-H-O-R-A/ym-explorer)** | TypeScript | [🌐 Código](https://github.com/D-H-O-R-A/ym-explorer) | Explorador de blocos e transações de ativos desportivos tokenizados da rede Young Market. |
-| **AgroGestor** | TypeScript / Dart | 🔒 Sob Contrato (NDA) | Plataforma corporativa multi-tenant para gestão rural: safras, rebanhos zootécnicos, patrimônio e maquinário. |
-| **Solucione Multas** | TypeScript | 🔒 Sob Contrato (Co-fundador & CTO) | LegalTech com portal do cliente, backoffice jurídico e triagem autônoma de leads via WhatsApp Oficial. |
 | **Planet One Wallet** | TypeScript | 🔒 Sob Contrato (NDA) | Carteira institucional para emissão e transferência de ativos do mundo real e créditos de carbono. |
 | **Meta-X-Wallet** | TypeScript | 🔒 Sob Contrato (NDA) | Custódia descentralizada e gestão multi-ativo de carteiras digitais corporativas. |
 | **AMZ Wallet** | TypeScript | 🔒 Sob Contrato (NDA) | Carteira dedicada para transacionar ativos de compensação ambiental e certificados verdes. |
+| **AgroGestor** | TypeScript / Dart | 🔒 Sob Contrato (NDA) | Plataforma corporativa multi-tenant para gestão rural: safras, rebanhos zootécnicos, patrimônio e maquinário. |
+| **Solucione Multas** | TypeScript | 🔒 Sob Contrato (Co-fundador & CTO) | LegalTech com portal do cliente, backoffice jurídico e triagem autônoma de leads via WhatsApp Oficial. |
 | **Planet One Official Portal** | TypeScript | 🔒 Sob Contrato (NDA) | Portal institucional corporativo da infraestrutura blockchain Planet One para ativos ambientais. |
 | **Better2Better Website & Core** | TypeScript | 🔒 Sob Contrato (NDA) | Hub institucional e ecossistema de produtos da Better2Better. |
 | **DDM Website** | TypeScript | 🔒 Sob Contrato (NDA) | Infraestrutura web corporativa institucional de alta disponibilidade. |
@@ -392,10 +398,10 @@ Expanda os painéis abaixo para inspecionar os projetos por stack de linguagem:
 | **[proxy-gic-metamask](https://github.com/D-H-O-R-A/proxy-gic-metamask)** | JavaScript | [🌐 Código](https://github.com/D-H-O-R-A/proxy-gic-metamask) | Camada de compatibilidade (RPC proxy) que permite conectar MetaMask e Trust Wallet a blockchains GoWaves. |
 | **[youtube-automation-agent](https://github.com/D-H-O-R-A/youtube-automation-agent)** | Python | [🌐 Código](https://github.com/D-H-O-R-A/youtube-automation-agent) | Agente autônomo de inteligência artificial para automação completa de upload, otimização de SEO e gestão de canais. |
 | **waves-payment** | PHP | 🔒 Sob Contrato / Confidencial (NDA) | Plugin WooCommerce para integração e liquidação de pagamentos em criptoativos da rede Waves em lojas virtuais. |
-| **METATRON** | TypeScript | 🔒 Sob Contrato (NDA Governamental) | Sistema Integrado de Inteligência & Captura de Foragidos para Segurança Pública, cruzando alertas em tempo real. |
-| **Anjo Online** | TypeScript | 🔒 Sob Contrato (NDA) | SaaS internacional de arrecadação filantrópica com gateway duplo de liquidação bancária (Suíça / Brasil). |
 | **Amazonic Pay** | TypeScript | 🔒 Sob Contrato (NDA) | Gateway de liquidação cross-border reduzindo taxas de remessa de 4.5% para <0.5%. |
+| **METATRON** | TypeScript | 🔒 Sob Contrato (NDA Governamental) | Sistema Integrado de Inteligência & Captura de Foragidos para Segurança Pública, cruzando alertas em tempo real. |
 | **ChatBuilder (Satochat)** | TypeScript | 🔒 Sob Contrato (NDA) | Plataforma SaaS para treinamento e implantação de agentes de conversação autônomos baseados em sites. |
+| **Anjo Online** | TypeScript | 🔒 Sob Contrato (NDA) | SaaS internacional de arrecadação filantrópica com gateway duplo de liquidação bancária (Suíça / Brasil). |
 
 </details>
 
@@ -444,18 +450,21 @@ Expanda os painéis abaixo para inspecionar os projetos por stack de linguagem:
 </details>
 
 <details>
-<summary><a id="stack-gis"></a><h3>🌐 Bancos de Dados & Motores Geoespaciais (6 Projetos) — Clique para Expandir</h3></summary>
+<summary><a id="stack-gis"></a><h3>🌐 Bancos de Dados & Motores Geoespaciais e Games 3D (9 Projetos) — Clique para Expandir</h3></summary>
 
-*Processamento geodésico elipsoidal SIRGAS2000 UTM, PostGIS R-Tree e DXF/GeoJSON.*
+*Engines Unity 3D (C#), processamento geodésico SIRGAS2000 UTM, PostGIS R-Tree e DXF/GeoJSON.*
 
 | Projeto | Linguagem | Status / Acesso | Destaque Arquitetural |
 |:---|:---:|:---:|:---|
 | **[Scanning-and-Detecting-3D-Objects](https://github.com/D-H-O-R-A/Scanning-and-Detecting-3D-Objects)** | Swift | [🌐 Código](https://github.com/D-H-O-R-A/Scanning-and-Detecting-3D-Objects) | Captura e persistência de nuvens de pontos 3D de objetos físicos para rastreamento espacial e Realidade Aumentada. |
 | **[pdf-to-maps](https://github.com/D-H-O-R-A/pdf-to-maps)** | TypeScript | [🌐 Código](https://github.com/D-H-O-R-A/pdf-to-maps) | Compilador cartográfico 100% offline: transforma PDFs do INCRA/SIGEF em modelos 3D WebGL, DXF e GeoJSON em sub-segundos. |
+| **Parque Estadual São João Marcos — The Game** | C# / Unity | 🔒 Sob Contrato (NDA) | Jogo de exploração interativa 3D e reconstrução histórica do sítio arqueológico desenvolvido em Unity com alta fidelidade gráfica. |
+| **SeteAlem - The game** | C# / Unity | 🔒 Sob Contrato (NDA) | Jogo 3D imersivo de atmosfera e suspense desenvolvido em Unity com renderização customizada e máquinas de estados. |
+| **Sinuca Club** | C# / Unity | 🔒 Sob Contrato (NDA) | Simulador de bilhar/sinuca 3D com física matemática de precisão e partidas multijogador em tempo real na Unity. |
+| **Cidade de Deus - The game** | C# / Unity | 🔒 Sob Contrato (NDA) | Jogo 3D de ação e simulação urbana em mundo aberto desenvolvido em Unity com streaming contínuo de cenários e IA de NPCs. |
+| **Match Blocks MVP** | C# / Unity | 🔒 Sob Contrato (NDA) | Engine híbrida de jogo e processamento de malhas espaciais processando 10.000 registros territoriais por minuto. |
 | **cubedetector** | Swift | 🔒 Sob Contrato / Confidencial (NDA) | Reconhecimento e rastreamento em tempo real de geometrias cúbicas no espaço tridimensional com ARKit. |
 | **lens_detector** | JavaScript | 🔒 Sob Contrato / Confidencial (NDA) | Algoritmo de visão computacional em navegador para calibração de distorção óptica e análise de lentes de câmeras. |
-| **Match Blocks MVP** | C# / Unity | 🔒 Sob Contrato (NDA) | Engine híbrida de jogo e processamento de malhas espaciais processando 10.000 registros territoriais por minuto. |
-| **Parque São João Marcos 3D** | JavaScript / WebGL | 🔒 Sob Contrato (Institucional) | Museu virtual interativo 3D com navegação em tempo real por sítio arqueológico histórico. |
 
 </details>
 
@@ -481,9 +490,9 @@ Expanda os painéis abaixo para inspecionar os projetos por stack de linguagem:
 ---
 
 <a id="tabela-mestra"></a>
-## 📊 Matriz Geral de Todos os Projetos (68 Sistemas Selecionados)
+## 📊 Matriz Geral de Todos os Projetos (71 Sistemas Selecionados)
 
-A matriz a seguir consolida **os 68 principais projetos de alta complexidade** desenvolvidos, arquivados, mantidos e liderados tecnicamente por Diego Antunes. Repositórios de código aberto possuem links diretos de acesso; projetos confidenciais sob contrato corporativo/NDA estão protegidos por sigilo contratual conforme as normas vigentes:
+A matriz a seguir consolida **os 71 principais projetos de alta complexidade** desenvolvidos, arquivados, mantidos e liderados tecnicamente por Diego Antunes. Repositórios de código aberto possuem links diretos de acesso; projetos confidenciais sob contrato corporativo/NDA estão protegidos por sigilo contratual conforme as normas vigentes:
 
 | # | Projeto | Categoria Principal | Linguagem | Stack Tecnológica | Status & Acesso |
 |:---:|:---|:---|:---:|:---|:---:|
@@ -527,34 +536,37 @@ A matriz a seguir consolida **os 68 principais projetos de alta complexidade** d
 | 38 | **[ym-explorer](https://github.com/D-H-O-R-A/ym-explorer)** | Web3, L1/L2 & DeFi | TypeScript | TypeScript, React, Next.js, Blockchain Ledger Explorer | [🌐 Open Source](https://github.com/D-H-O-R-A/ym-explorer) |
 | 39 | **[ymcore](https://github.com/D-H-O-R-A/ymcore)** | Web3, L1/L2 & DeFi | Go | Go (Golang), gRPC, LevelDB, Young Market Core Daemon | [🌐 Open Source](https://github.com/D-H-O-R-A/ymcore) |
 | 40 | **[youtube-automation-agent](https://github.com/D-H-O-R-A/youtube-automation-agent)** | IA, Visão & Automação | Python | Python, YouTube Data API v3, LLM Agent, Content Pipelines | [🌐 Open Source](https://github.com/D-H-O-R-A/youtube-automation-agent) |
-| 41 | **micron-stake** | Web3, L1/L2 & DeFi | Solidity / JavaScript | Solidity, Web3.js, Bitci Network, Dynamic APR Staking Engine | 🔒 Sob Contrato / Confidencial (NDA) |
-| 42 | **viper-king-swap** | Web3, L1/L2 & DeFi | TypeScript | TypeScript, Web3, DEX Router, Liquidity Management | 🔒 Sob Contrato / Confidencial (NDA) |
-| 43 | **waves-payment** | Web3, L1/L2 & DeFi | PHP | PHP, WordPress, WooCommerce API, Waves Payment Gateway | 🔒 Sob Contrato / Confidencial (NDA) |
-| 44 | **cubedetector** | Computação Espacial, GIS & 3D | Swift | Swift, ARKit, Vision Framework, 3D Spatial Geometry | 🔒 Sob Contrato / Confidencial (NDA) |
-| 45 | **lens_detector** | Computação Espacial, GIS & 3D | JavaScript | JavaScript, HTML5 Canvas, Optical Distortion Algorithms | 🔒 Sob Contrato / Confidencial (NDA) |
-| 46 | **METATRON** | IA, Visão & Automação | TypeScript | Next.js, Node.js, Biometria Facial / IA, PostGIS, Alertas Táticos | 🔒 Sob Contrato (NDA Governamental) |
-| 47 | **AuraTV** | Mobile & Telecom VPN | TypeScript / Dart | WebRTC Mesh, Firebase, Concorrência Maciça, Gamificação | 🔒 Sob Contrato (NDA) |
-| 48 | **AgroGestor** | Enterprise & Web Corporativa | TypeScript / Dart | Next.js, Firebase DataConnect, Flutter Mobile, Cloud Functions | 🔒 Sob Contrato (NDA) |
-| 49 | **Click Serviços** | Mobile & Telecom VPN | Dart / Flutter | Flutter (BloC), NestJS, PostGIS R-Tree Spatial Index, Redis BullMQ | 🔒 Sob Contrato (NDA) |
-| 50 | **Solucione Multas** | Enterprise & Web Corporativa | TypeScript | React, Cloud Firestore, WhatsApp Cloud API, Conversational AI | 🔒 Sob Contrato (Co-fundador & CTO) |
-| 51 | **Anjo Online** | Enterprise & Web Corporativa | TypeScript | NestJS, Next.js, PostgreSQL, Docker, Cloud Run, TWINT, Mercado Pago | 🔒 Sob Contrato (NDA) |
-| 52 | **Hide-Protocol-App-VPN** | Criptografia, Segurança & RE | Dart / C | Flutter, OpenVPN, Shadowsocks/V2Ray, Stealth Tunnels, WireGuard | 🔒 Sob Contrato (NDA) |
-| 53 | **Laboratório Forense OmeTV** | Criptografia, Segurança & RE | JavaScript | Node.js, WebRTC Forensics, Secure WebSockets (WSS), Packet Sniffing | 🔒 Sob Contrato (NDA) |
-| 54 | **Zero Swap** | Web3, L1/L2 & DeFi | Solidity | Hardhat, Foundry, Layer 2 Rollups, Flash Swaps, MEV Shield | 🔒 Sob Contrato (NDA) |
-| 55 | **GIC Wallet Pro Enterprise** | Web3, L1/L2 & DeFi | Solidity / TS | Multi-sig Treasury, Institutional Governance, WebCrypto API | 🔒 Sob Contrato (NDA) |
-| 56 | **Amazonic Pay** | Web3, L1/L2 & DeFi | TypeScript | Next.js, Node.js, Web3 On-ramp, Cross-border Settlement Gateway | 🔒 Sob Contrato (NDA) |
-| 57 | **Young Market Core** | Web3, L1/L2 & DeFi | Ride / Node.js | Waves Enterprise Core, Ride Contracts, CVM Compliance, Stripe | 🔒 Sob Contrato (Venture / NDA) |
-| 58 | **Planet One Wallet** | Web3, L1/L2 & DeFi | TypeScript | React, Tailwind, EVM & Custom L1 Integration, eRWA Custody | 🔒 Sob Contrato (NDA) |
-| 59 | **Meta-X-Wallet** | Web3, L1/L2 & DeFi | TypeScript | React 18, TypeScript, Web3 Providers, Multi-asset Custody | 🔒 Sob Contrato (NDA) |
-| 60 | **AMZ Wallet** | Web3, L1/L2 & DeFi | TypeScript | TypeScript, Waves/AMZX Connectors, Carbon Credit Transfers | 🔒 Sob Contrato (NDA) |
-| 61 | **Planet One Official Portal** | Enterprise & Web Corporativa | TypeScript | Nuxt 3, Nitro, Tailwind CSS, Web3 Connectors | 🔒 Sob Contrato (NDA) |
-| 62 | **Better2Better Website & Core** | Enterprise & Web Corporativa | TypeScript | Next.js, Tailwind CSS, Internationalization, B2 Ecosystem | 🔒 Sob Contrato (NDA) |
-| 63 | **DDM Website** | Enterprise & Web Corporativa | TypeScript | React, TypeScript, Cloudflare Edge, Modern Design System | 🔒 Sob Contrato (NDA) |
-| 64 | **ChatBuilder (Satochat)** | IA, Visão & Automação | TypeScript | Next.js, LangChain, Embeddings, Vector Database, Cloud Functions | 🔒 Sob Contrato (NDA) |
-| 65 | **Match Blocks MVP** | Computação Espacial, GIS & 3D | C# / Unity | Unity 2022 LTS, C#, URP, HLSL Shaders, PostGIS R-Tree | 🔒 Sob Contrato (NDA) |
-| 66 | **Parque São João Marcos 3D** | Computação Espacial, GIS & 3D | JavaScript / WebGL | Three.js, WebGL, Low-poly Optimization, WebXR Spatial Audio | 🔒 Sob Contrato (Institucional) |
-| 67 | **Sistema de Auditoria de Consenso** | Web3, L1/L2 & DeFi | Swift / Go | Distributed Benchmarking, Fault Tolerance, Byzantine Simulation | 🔒 Sob Contrato (NDA) |
-| 68 | **Engine de Derivação Criptográfica** | Criptografia, Segurança & RE | Rust / WebCrypto | Rust, Argon2id, AES-256-GCM, Constant-Time Primitives | 🔒 Sob Contrato (NDA) |
+| 41 | **Parque Estadual São João Marcos — The Game** | Computação Espacial, GIS & 3D | C# / Unity | Unity 3D, C#, Universal Render Pipeline (URP), WebGL Build, Historical Rebuild | 🔒 Sob Contrato (NDA) |
+| 42 | **SeteAlem - The game** | Computação Espacial, GIS & 3D | C# / Unity | Unity 3D, C#, Custom HLSL Shaders, Atmospheric Lighting, Narrative FSM | 🔒 Sob Contrato (NDA) |
+| 43 | **Sinuca Club** | Computação Espacial, GIS & 3D | C# / Unity | Unity 3D, C#, Rigidbody Physics Math, Real-time Multiplayer, Ball Collision | 🔒 Sob Contrato (NDA) |
+| 44 | **Cidade de Deus - The game** | Computação Espacial, GIS & 3D | C# / Unity | Unity 3D, C#, Open World Asset Streaming, AI NavMeshes, Ragdoll Physics | 🔒 Sob Contrato (NDA) |
+| 45 | **Match Blocks MVP** | Computação Espacial, GIS & 3D | C# / Unity | Unity 2022 LTS, C#, URP, HLSL Shaders, PostGIS R-Tree, Deterministic RNG | 🔒 Sob Contrato (NDA) |
+| 46 | **micron-stake** | Web3, L1/L2 & DeFi | Solidity / JavaScript | Solidity, Web3.js, Bitci Network, Dynamic APR Staking Engine | 🔒 Sob Contrato / Confidencial (NDA) |
+| 47 | **viper-king-swap** | Web3, L1/L2 & DeFi | TypeScript | TypeScript, Web3, DEX Router, Liquidity Management | 🔒 Sob Contrato / Confidencial (NDA) |
+| 48 | **waves-payment** | Web3, L1/L2 & DeFi | PHP | PHP, WordPress, WooCommerce API, Waves Payment Gateway | 🔒 Sob Contrato / Confidencial (NDA) |
+| 49 | **Zero Swap** | Web3, L1/L2 & DeFi | Solidity | Hardhat, Foundry, Layer 2 Rollups, Flash Swaps, MEV Shield | 🔒 Sob Contrato (NDA) |
+| 50 | **GIC Wallet Pro Enterprise** | Web3, L1/L2 & DeFi | Solidity / TS | Multi-sig Treasury, Institutional Governance, WebCrypto API | 🔒 Sob Contrato (NDA) |
+| 51 | **Amazonic Pay** | Web3, L1/L2 & DeFi | TypeScript | Next.js, Node.js, Web3 On-ramp, Cross-border Settlement Gateway | 🔒 Sob Contrato (NDA) |
+| 52 | **Young Market Core** | Web3, L1/L2 & DeFi | Ride / Node.js | Waves Enterprise Core, Ride Contracts, CVM Compliance, Stripe | 🔒 Sob Contrato (Venture / NDA) |
+| 53 | **Planet One Wallet** | Web3, L1/L2 & DeFi | TypeScript | React, Tailwind, EVM & Custom L1 Integration, eRWA Custody | 🔒 Sob Contrato (NDA) |
+| 54 | **Meta-X-Wallet** | Web3, L1/L2 & DeFi | TypeScript | React 18, TypeScript, Web3 Providers, Multi-asset Custody | 🔒 Sob Contrato (NDA) |
+| 55 | **AMZ Wallet** | Web3, L1/L2 & DeFi | TypeScript | TypeScript, Waves/AMZX Connectors, Carbon Credit Transfers | 🔒 Sob Contrato (NDA) |
+| 56 | **Sistema de Auditoria de Consenso** | Web3, L1/L2 & DeFi | Swift / Go | Distributed Benchmarking, Fault Tolerance, Byzantine Simulation | 🔒 Sob Contrato (NDA) |
+| 57 | **cubedetector** | Computação Espacial, GIS & 3D | Swift | Swift, ARKit, Vision Framework, 3D Spatial Geometry | 🔒 Sob Contrato / Confidencial (NDA) |
+| 58 | **lens_detector** | Computação Espacial, GIS & 3D | JavaScript | JavaScript, HTML5 Canvas, Optical Distortion Algorithms | 🔒 Sob Contrato / Confidencial (NDA) |
+| 59 | **METATRON** | IA, Visão & Automação | TypeScript | Next.js, Node.js, Biometria Facial / IA, PostGIS, Alertas Táticos | 🔒 Sob Contrato (NDA Governamental) |
+| 60 | **ChatBuilder (Satochat)** | IA, Visão & Automação | TypeScript | Next.js, LangChain, Embeddings, Vector Database, Cloud Functions | 🔒 Sob Contrato (NDA) |
+| 61 | **AuraTV** | Mobile & Telecom VPN | TypeScript / Dart | WebRTC Mesh, Firebase, Concorrência Maciça, Gamificação | 🔒 Sob Contrato (NDA) |
+| 62 | **Click Serviços** | Mobile & Telecom VPN | Dart / Flutter | Flutter (BloC), NestJS, PostGIS R-Tree Spatial Index, Redis BullMQ | 🔒 Sob Contrato (NDA) |
+| 63 | **Hide-Protocol-App-VPN** | Criptografia, Segurança & RE | Dart / C | Flutter, OpenVPN, Shadowsocks/V2Ray, Stealth Tunnels, WireGuard | 🔒 Sob Contrato (NDA) |
+| 64 | **Laboratório Forense OmeTV** | Criptografia, Segurança & RE | JavaScript | Node.js, WebRTC Forensics, Secure WebSockets (WSS), Packet Sniffing | 🔒 Sob Contrato (NDA) |
+| 65 | **Engine de Derivação Criptográfica** | Criptografia, Segurança & RE | Rust / WebCrypto | Rust, Argon2id, AES-256-GCM, Constant-Time Primitives | 🔒 Sob Contrato (NDA) |
+| 66 | **AgroGestor** | Enterprise & Web Corporativa | TypeScript / Dart | Next.js, Firebase DataConnect, Flutter Mobile, Cloud Functions | 🔒 Sob Contrato (NDA) |
+| 67 | **Solucione Multas** | Enterprise & Web Corporativa | TypeScript | React, Cloud Firestore, WhatsApp Cloud API, Conversational AI | 🔒 Sob Contrato (Co-fundador & CTO) |
+| 68 | **Anjo Online** | Enterprise & Web Corporativa | TypeScript | NestJS, Next.js, PostgreSQL, Docker, Cloud Run, TWINT, Mercado Pago | 🔒 Sob Contrato (NDA) |
+| 69 | **Planet One Official Portal** | Enterprise & Web Corporativa | TypeScript | Nuxt 3, Nitro, Tailwind CSS, Web3 Connectors | 🔒 Sob Contrato (NDA) |
+| 70 | **Better2Better Website & Core** | Enterprise & Web Corporativa | TypeScript | Next.js, Tailwind CSS, Internationalization, B2 Ecosystem | 🔒 Sob Contrato (NDA) |
+| 71 | **DDM Website** | Enterprise & Web Corporativa | TypeScript | React, TypeScript, Cloudflare Edge, Modern Design System | 🔒 Sob Contrato (NDA) |
 
 ---
 
