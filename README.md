@@ -36,7 +36,7 @@ Filtre e explore o portfólio selecionado de projetos de alta complexidade diret
 
 | 📂 **Filtrar por Categoria** | 💻 **Filtrar por Linguagem** | 🛠️ **Filtrar por Stack / Camada** |
 |:---|:---|:---|
-| • [⛓️ Web3, DeFi & CEX](#cat-web3)<br>• [🛡️ Criptografia & Segurança](#cat-crypto)<br>• [🗺️ GIS, Cartografia & Games 3D](#cat-gis)<br>• [⚙️ Baixo Nível & Emulação](#cat-lowlevel)<br>• [🤖 IA, Visão & Automação](#cat-ai)<br>• [📱 Mobile (iOS & Android)](#cat-mobile)<br>• [🏢 Enterprise & LegalTech](#cat-enterprise) | • [🦀 Rust](#lang-rust)<br>• [📜 Scala](#lang-scala)<br>• [⚡ TypeScript / JavaScript](#lang-ts-js)<br>• [💎 Solidity & Ride](#lang-solidity-ride)<br>• [🐍 Python](#lang-python)<br>• [🎮 C / C++ & C# (Unity Game Engine)](#lang-c-cpp)<br>• [🍎 Swift](#lang-swift)<br>• [🎯 Dart / Flutter](#lang-flutter)<br>• [☕ Java & Kotlin](#lang-java)<br>• [🐘 Go, Shell & PHP](#lang-php) | • [🖥️ Frontend & Web3 UI](#stack-frontend)<br>• [🔌 Backend & Microserviços](#stack-backend)<br>• [🔗 Smart Contracts & Core](#stack-contracts)<br>• [📲 Mobile & Apps iOS/Android](#stack-mobile)<br>• [🌐 Bancos, GIS & Games 3D](#stack-gis)<br>• [🔒 Segurança & Hardening](#stack-security) |
+| • [⛓️ Web3, DeFi & CEX](#cat-web3)<br>• [🛡️ Criptografia & Segurança](#cat-crypto)<br>• [🗺️ GIS, Cartografia & Games 3D](#cat-gis)<br>• [⚙️ Baixo Nível & Emulação](#cat-lowlevel)<br>• [🤖 IA, Visão & Automação](#cat-ai)<br>• [📱 Mobile (iOS & Android)](#cat-mobile)<br>• [🏢 Enterprise & LegalTech](#cat-enterprise) | • [🦀 Rust](#lang-rust)<br>• [📜 Scala](#lang-scala)<br>• [⚡ TypeScript / JavaScript](#lang-ts-js)<br>• [💎 Solidity & Ride](#lang-solidity-ride)<br>• [🐍 Python](#lang-python)<br>• [🦫 Go (Golang)](#lang-go)<br>• [⚙️ C & C++](#lang-cpp)<br>• [🎮 C# (Unity Game Engine)](#lang-unity)<br>• [🍎 Swift](#lang-swift)<br>• [🎯 Dart / Flutter](#lang-flutter)<br>• [☕ Java & Kotlin](#lang-java)<br>• [🐘 PHP & Shell](#lang-php) | • [🖥️ Frontend & Web3 UI](#stack-frontend)<br>• [🔌 Backend & Microserviços](#stack-backend)<br>• [🔗 Smart Contracts & Core](#stack-contracts)<br>• [📲 Mobile & Apps iOS/Android](#stack-mobile)<br>• [🌐 Bancos, GIS & Games 3D](#stack-gis)<br>• [🔒 Segurança & Hardening](#stack-security) |
 
 </div>
 
@@ -302,7 +302,7 @@ Expanda os painéis abaixo para inspecionar os projetos por stack de linguagem:
 </details>
 
 <details>
-<summary><a id="lang-solidity-ride"></a><h3>💎 Solidity & Ride (12 Projetos) — Clique para Expandir</h3></summary>
+<summary><a id="lang-solidity-ride"></a><h3>💎 Solidity & Ride (11 Projetos) — Clique para Expandir</h3></summary>
 
 | Projeto | Status / Acesso | Categoria | Descrição Técnica |
 |:---|:---:|:---|:---|
@@ -334,21 +334,38 @@ Expanda os painéis abaixo para inspecionar os projetos por stack de linguagem:
 </details>
 
 <details>
-<summary><a id="lang-c-cpp"></a><h3>🎮 C / C++ & C# (Unity Game Engine) (11 Projetos) — Clique para Expandir</h3></summary>
+<summary><a id="lang-go"></a><h3>🦫 Go / Golang (4 Projetos) — Clique para Expandir</h3></summary>
 
 | Projeto | Status / Acesso | Categoria | Descrição Técnica |
 |:---|:---:|:---|:---|
-| **[ar-ml-iOS-measure-detect](https://github.com/D-H-O-R-A/ar-ml-iOS-measure-detect)** | [🌐 GitHub](https://github.com/D-H-O-R-A/ar-ml-iOS-measure-detect) | Baixo Nível & Emulação | Pipeline em C++ de baixa latência para visão computacional, medições métricas e inferência em iOS. |
+| **[paychain](https://github.com/D-H-O-R-A/paychain)** | [🌐 GitHub](https://github.com/D-H-O-R-A/paychain) | Web3, Blockchain Core, DeFi, DEX & CEX | Blockchain orientada a pagamentos corporativos de alta velocidade com privacidade de dados e microtaxas. |
+| **[ymcore](https://github.com/D-H-O-R-A/ymcore)** | [🌐 GitHub](https://github.com/D-H-O-R-A/ymcore) | Web3, Blockchain Core, DeFi, DEX & CEX | Implementação em Go do daemon de nó e bibliotecas de baixo nível para a rede Young Market. |
+| **Futfinance** | 🔒 Sob Contrato / Confidencial (NDA) | Web3, Blockchain Core, DeFi, DEX & CEX | Corretora centralizada (CEX estilo Binance) de alta performance: livro de ofertas em memória, matching de ordens ultra-rápido e gateway fiat. |
+| **3Bee Exchange** | 🔒 Sob Contrato / Confidencial (NDA) | Web3, Blockchain Core, DeFi, DEX & CEX | Plataforma de exchange centralizada institucional (CEX) com custódia segregada, motor de correspondência e auditoria de saldos em tempo real. |
+
+</details>
+
+<details>
+<summary><a id="lang-c-cpp"></a><a id="lang-cpp"></a><h3>⚙️ C & C++ (Sistemas & Baixo Nível) (3 Projetos) — Clique para Expandir</h3></summary>
+
+| Projeto | Status / Acesso | Categoria | Descrição Técnica |
+|:---|:---:|:---|:---|
+| **[ar-ml-iOS-measure-detect](https://github.com/D-H-O-R-A/ar-ml-iOS-measure-detect)** | [🌐 GitHub](https://github.com/D-H-O-R-A/ar-ml-iOS-measure-detect) | Sistemas de Baixo Nível & Emulação | Pipeline em C++ de baixa latência para visão computacional, medições métricas e inferência em iOS. |
 | **[bulletproofs](https://github.com/D-H-O-R-A/bulletproofs)** | [🌐 GitHub](https://github.com/D-H-O-R-A/bulletproofs) | Criptografia, Segurança & RE | Pesquisa aprofundada e implementação didático-técnica de provas de intervalo de conhecimento zero sem trusted setup. |
-| **[paychain](https://github.com/D-H-O-R-A/paychain)** | [🌐 GitHub](https://github.com/D-H-O-R-A/paychain) | Web3, L1/L2 & DeFi | Blockchain orientada a pagamentos corporativos de alta velocidade com privacidade de dados e microtaxas. |
-| **[ymcore](https://github.com/D-H-O-R-A/ymcore)** | [🌐 GitHub](https://github.com/D-H-O-R-A/ymcore) | Web3, L1/L2 & DeFi | Implementação em Go do daemon de nó e bibliotecas de baixo nível para a rede Young Market. |
-| **Futfinance** | 🔒 Sob Contrato / Confidencial (NDA) | Web3, L1/L2 & DeFi | Corretora centralizada (CEX estilo Binance) de alta performance: livro de ofertas em memória, matching de ordens ultra-rápido e gateway fiat. |
-| **3Bee Exchange** | 🔒 Sob Contrato / Confidencial (NDA) | Web3, L1/L2 & DeFi | Plataforma de exchange centralizada institucional (CEX) com custódia segregada, motor de correspondência e auditoria de saldos em tempo real. |
-| **Parque Estadual São João Marcos — The Game** | 🔒 Sob Contrato (NDA) | Computação Espacial, GIS & 3D | Jogo de exploração interativa 3D e reconstrução histórica do sítio arqueológico desenvolvido em Unity com alta fidelidade gráfica. |
-| **SeteAlem - The game** | 🔒 Sob Contrato (NDA) | Computação Espacial, GIS & 3D | Jogo 3D imersivo de atmosfera e suspense desenvolvido em Unity com renderização customizada e máquinas de estados. |
-| **Sinuca Club** | 🔒 Sob Contrato (NDA) | Computação Espacial, GIS & 3D | Simulador de bilhar/sinuca 3D com física matemática de precisão e partidas multijogador em tempo real na Unity. |
-| **Cidade de Deus - The game** | 🔒 Sob Contrato (NDA) | Computação Espacial, GIS & 3D | Jogo 3D de ação e simulação urbana em mundo aberto na Unity com streaming contínuo de cenários e IA de NPCs. |
-| **Match Blocks MVP** | 🔒 Sob Contrato (NDA) | Computação Espacial, GIS & 3D | Engine híbrida de jogo e processamento de malhas espaciais processando 10.000 registros territoriais por minuto. |
+| **IO Binários** | 🔒 Sob Contrato / Confidencial (NDA) | Web3, Blockchain Core, DeFi, DEX & CEX | Plataforma de alta frequência para negociação de opções binárias e derivativos com streaming de cotações em sub-milissegundos (Addons C++ e WebSockets). |
+
+</details>
+
+<details>
+<summary><a id="lang-unity"></a><a id="lang-csharp"></a><h3>🎮 C# & Unity Game Engine (Games 3D & Simulação) (5 Projetos) — Clique para Expandir</h3></summary>
+
+| Projeto | Status / Acesso | Categoria | Descrição Técnica |
+|:---|:---:|:---|:---|
+| **Parque Estadual São João Marcos — The Game** | 🔒 Sob Contrato (NDA) | Computação Espacial, GIS & Games 3D | Jogo de exploração interativa 3D e reconstrução histórica do sítio arqueológico desenvolvido em Unity com alta fidelidade gráfica. |
+| **SeteAlem - The game** | 🔒 Sob Contrato (NDA) | Computação Espacial, GIS & Games 3D | Jogo 3D imersivo de atmosfera e suspense desenvolvido em Unity com renderização customizada e máquinas de estados. |
+| **Sinuca Club** | 🔒 Sob Contrato (NDA) | Computação Espacial, GIS & Games 3D | Simulador de bilhar/sinuca 3D com física matemática de precisão e partidas multijogador em tempo real na Unity. |
+| **Cidade de Deus - The game** | 🔒 Sob Contrato (NDA) | Computação Espacial, GIS & Games 3D | Jogo 3D de ação e simulação urbana em mundo aberto na Unity com streaming contínuo de cenários e IA de NPCs. |
+| **Match Blocks MVP** | 🔒 Sob Contrato (NDA) | Computação Espacial, GIS & Games 3D | Engine híbrida de jogo e processamento de malhas espaciais processando 10.000 registros territoriais por minuto. |
 
 </details>
 
@@ -369,37 +386,37 @@ Expanda os painéis abaixo para inspecionar os projetos por stack de linguagem:
 
 | Projeto | Status / Acesso | Categoria | Descrição Técnica |
 |:---|:---:|:---|:---|
-| **[Fluxx](https://github.com/D-H-O-R-A/Fluxx)** | [🌐 GitHub](https://github.com/D-H-O-R-A/Fluxx) | Enterprise & Web Corporativa | Aplicativo mobile para controle e inteligência financeira pessoal com gráficos interativos e relatórios offline. |
-| **Click Serviços** | 🔒 Sob Contrato / Confidencial (NDA) | Mobile & Telecom VPN | Aplicativo mobile marketplace (iOS & Android) de alta concorrência para matching em tempo real de serviços por proximidade geográfica. |
-| **Inseo Web** | 🔒 Sob Contrato / Confidencial (NDA) | Mobile & Telecom VPN | Ecossistema mobile e web para auditoria técnica, monitoramento de performance de aplicações e indexação inteligente. |
-| **Emaximóvel Imobiliária** | 🔒 Sob Contrato / Confidencial (NDA) | Mobile & Telecom VPN | Aplicativo mobile completo para o setor imobiliário: busca geolocalizada de imóveis, agendamento de visitas e chat integrado com corretores. |
-| **Pizza Delivery** | 🔒 Sob Contrato / Confidencial (NDA) | Mobile & Telecom VPN | Aplicativo móvel sob demanda de delivery gastronômico com rastreamento GPS de entregadores em tempo real e despacho automático. |
-| **Petshop Delivery** | 🔒 Sob Contrato / Confidencial (NDA) | Mobile & Telecom VPN | Plataforma mobile para comércio eletrônico pet e agendamento de serviços veterinários/estéticos com entrega rápida. |
-| **Compass Club** | 🔒 Sob Contrato / Confidencial (NDA) | Mobile & Telecom VPN | Aplicativo mobile exclusivo para membros de clube privado: credencial digital via QR dinâmico, reservas de eventos e programa de fidelidade. |
-| **Golfe Clube** | 🔒 Sob Contrato / Confidencial (NDA) | Mobile & Telecom VPN | Aplicativo esportivo mobile para gestão de campos de golfe, agendamento de partidas (tee times), scorecards digitais e torneios. |
-| **AuraTV** | 🔒 Sob Contrato / Confidencial (NDA) | Mobile & Telecom VPN | Plataforma social móvel de streaming de vídeo P2P e competições ao vivo em tempo real. |
+| **[Fluxx](https://github.com/D-H-O-R-A/Fluxx)** | [🌐 GitHub](https://github.com/D-H-O-R-A/Fluxx) | Plataformas Corporativas & SaaS | Aplicativo mobile para controle e inteligência financeira pessoal com gráficos interativos e relatórios offline. |
+| **Click Serviços** | 🔒 Sob Contrato / Confidencial (NDA) | Mobile (iOS & Android) | Aplicativo mobile marketplace (iOS & Android) de alta concorrência para matching em tempo real de serviços por proximidade geográfica. |
+| **Inseo Web** | 🔒 Sob Contrato / Confidencial (NDA) | Mobile (iOS & Android) | Ecossistema mobile e web para auditoria técnica, monitoramento de performance de aplicações e indexação inteligente. |
+| **Emaximóvel Imobiliária** | 🔒 Sob Contrato / Confidencial (NDA) | Mobile (iOS & Android) | Aplicativo mobile completo para o setor imobiliário: busca geolocalizada de imóveis, agendamento de visitas e chat integrado com corretores. |
+| **Pizza Delivery** | 🔒 Sob Contrato / Confidencial (NDA) | Mobile (iOS & Android) | Aplicativo móvel sob demanda de delivery gastronômico com rastreamento GPS de entregadores em tempo real e despacho automático. |
+| **Petshop Delivery** | 🔒 Sob Contrato / Confidencial (NDA) | Mobile (iOS & Android) | Plataforma mobile para comércio eletrônico pet e agendamento de serviços veterinários/estéticos com entrega rápida. |
+| **Compass Club** | 🔒 Sob Contrato / Confidencial (NDA) | Mobile (iOS & Android) | Aplicativo mobile exclusivo para membros de clube privado: credencial digital via QR dinâmico, reservas de eventos e programa de fidelidade. |
+| **Golfe Clube** | 🔒 Sob Contrato / Confidencial (NDA) | Mobile (iOS & Android) | Aplicativo esportivo mobile para gestão de campos de golfe, agendamento de partidas (tee times), scorecards digitais e torneios. |
+| **AuraTV** | 🔒 Sob Contrato / Confidencial (NDA) | Mobile (iOS & Android) | Plataforma social móvel de streaming de vídeo P2P e competições ao vivo em tempo real. |
 | **Hide-Protocol-App-VPN** | 🔒 Sob Contrato / Confidencial (NDA) | Criptografia, Segurança & RE | Suíte móvel de privacidade com camuflagem de pacotes contra DPI (Deep Packet Inspection). |
-| **AgroGestor** | 🔒 Sob Contrato / Confidencial (NDA) | Enterprise & Web Corporativa | Plataforma corporativa multi-tenant para gestão rural: safras, rebanhos zootécnicos, patrimônio e maquinário. |
+| **AgroGestor** | 🔒 Sob Contrato / Confidencial (NDA) | Plataformas Corporativas & SaaS | Plataforma corporativa multi-tenant para gestão rural: safras, rebanhos zootécnicos, patrimônio e maquinário. |
 
 </details>
 
 <details>
-<summary><a id="lang-java"></a><h3>☕ Java & Kotlin (1 Projetos) — Clique para Expandir</h3></summary>
+<summary><a id="lang-java"></a><h3>☕ Java & Kotlin (1 Projeto) — Clique para Expandir</h3></summary>
 
 | Projeto | Status / Acesso | Categoria | Descrição Técnica |
 |:---|:---:|:---|:---|
-| **[NOrange](https://github.com/D-H-O-R-A/NOrange)** | [🌐 GitHub](https://github.com/D-H-O-R-A/NOrange) | Mobile & Telecom VPN | Suíte tática de privacidade e rede para Android: cliente OpenVPN, servidor proxy local e gateway hotspot sem root. |
+| **[NOrange](https://github.com/D-H-O-R-A/NOrange)** | [🌐 GitHub](https://github.com/D-H-O-R-A/NOrange) | Mobile (iOS & Android) | Suíte tática de privacidade e rede para Android: cliente OpenVPN, servidor proxy local e gateway hotspot sem root. |
 
 </details>
 
 <details>
-<summary><a id="lang-php"></a><h3>🐘 Go, Shell & PHP (3 Projetos) — Clique para Expandir</h3></summary>
+<summary><a id="lang-php"></a><h3>🐘 PHP & Shell (3 Projetos) — Clique para Expandir</h3></summary>
 
 | Projeto | Status / Acesso | Categoria | Descrição Técnica |
 |:---|:---:|:---|:---|
-| **[BlackServerOS](https://github.com/D-H-O-R-A/BlackServerOS)** | [🌐 GitHub](https://github.com/D-H-O-R-A/BlackServerOS) | Baixo Nível & Emulação | Scripts e automação para compilação de appliance Linux minimalista de alta segurança para servidores de missão crítica. |
-| **[Subway-money](https://github.com/D-H-O-R-A/Subway-money)** | [🌐 GitHub](https://github.com/D-H-O-R-A/Subway-money) | Enterprise & Web Corporativa | Backend financeiro para processamento instantâneo de depósitos e saques em jogos transacionais. |
-| **waves-payment** | 🔒 Sob Contrato / Confidencial (NDA) | Web3, L1/L2 & DeFi | Plugin WooCommerce para integração e liquidação de pagamentos em criptoativos da rede Waves em lojas virtuais. |
+| **[BlackServerOS](https://github.com/D-H-O-R-A/BlackServerOS)** | [🌐 GitHub](https://github.com/D-H-O-R-A/BlackServerOS) | Sistemas de Baixo Nível & Emulação | Scripts e automação para compilação de appliance Linux minimalista de alta segurança para servidores de missão crítica. |
+| **[Subway-money](https://github.com/D-H-O-R-A/Subway-money)** | [🌐 GitHub](https://github.com/D-H-O-R-A/Subway-money) | Plataformas Corporativas & SaaS | Backend financeiro para processamento instantâneo de depósitos e saques em jogos transacionais. |
+| **waves-payment** | 🔒 Sob Contrato / Confidencial (NDA) | Web3, Blockchain Core, DeFi, DEX & CEX | Plugin WooCommerce para integração e liquidação de pagamentos em criptoativos da rede Waves em lojas virtuais. |
 
 </details>
 
@@ -460,7 +477,7 @@ Expanda os painéis abaixo para inspecionar os projetos por stack de linguagem:
 </details>
 
 <details>
-<summary><a id="stack-contracts"></a><h3>🔗 Smart Contracts & Blockchain Core (DEX/L1) (24 Projetos) — Clique para Expandir</h3></summary>
+<summary><a id="stack-contracts"></a><h3>🔗 Smart Contracts & Blockchain Core (DEX/L1) (23 Projetos) — Clique para Expandir</h3></summary>
 
 *Protocolos em Solidity, Ride, EVM, Hardhat, Foundry, Akka e Waves Core.*
 
@@ -553,9 +570,9 @@ Expanda os painéis abaixo para inspecionar os projetos por stack de linguagem:
 ---
 
 <a id="tabela-mestra"></a>
-## 📊 Matriz Geral de Todos os Projetos (84 Sistemas Selecionados)
+## 📊 Matriz Geral de Todos os Projetos (83 Sistemas Selecionados)
 
-A matriz a seguir consolida **os 84 principais projetos de alta complexidade** desenvolvidos, mantidos e liderados tecnicamente por Diego Antunes. Repositórios de código aberto possuem links diretos de acesso; projetos confidenciais sob contrato corporativo/NDA estão protegidos por sigilo contratual conforme as normas vigentes:
+A matriz a seguir consolida **os 83 principais projetos de alta complexidade** desenvolvidos, mantidos e liderados tecnicamente por Diego Antunes. Repositórios de código aberto possuem links diretos de acesso; projetos confidenciais sob contrato corporativo/NDA estão protegidos por sigilo contratual conforme as normas vigentes:
 
 | # | Projeto | Categoria Principal | Linguagem | Stack Tecnológica | Status & Acesso |
 |:---:|:---|:---|:---:|:---|:---:|
@@ -565,7 +582,7 @@ A matriz a seguir consolida **os 84 principais projetos de alta complexidade** d
 | 4 | **[BlackServerOS](https://github.com/D-H-O-R-A/BlackServerOS)** | Baixo Nível & Emulação | Shell | Bash, Linux Kernel Hardening, Minimal Security Appliance | [🌐 Open Source](https://github.com/D-H-O-R-A/BlackServerOS) |
 | 5 | **[CryptoSeedRecovery](https://github.com/D-H-O-R-A/CryptoSeedRecovery)** | Criptografia, Segurança & RE | JavaScript | BIP-39, BIP-44, Electrum, Levenshtein, Tree Pruning, SLSA 3 | [🌐 Open Source](https://github.com/D-H-O-R-A/CryptoSeedRecovery) |
 | 6 | **[Fluxx](https://github.com/D-H-O-R-A/Fluxx)** | Enterprise & Web Corporativa | Dart / Flutter | Flutter, Dart, SQLite, Responsive UI | [🌐 Open Source](https://github.com/D-H-O-R-A/Fluxx) |
-| 7 | **[NOrange](https://github.com/D-H-O-R-A/NOrange)** | Mobile & Telecom VPN | Java | Android SDK, OpenVPN Core, Tun2Socks, HTTP/SOCKS5 Proxy, Hotspot | [🌐 Open Source](https://github.com/D-H-O-R-A/NOrange) |
+| 7 | **[NOrange](https://github.com/D-H-O-R-A/NOrange)** | Mobile (iOS & Android) | Java | Android SDK, OpenVPN Core, Tun2Socks, HTTP/SOCKS5 Proxy, Hotspot | [🌐 Open Source](https://github.com/D-H-O-R-A/NOrange) |
 | 8 | **[RealChar](https://github.com/D-H-O-R-A/RealChar)** | IA, Visão & Automação | Python / TS | Python, WebSockets, ElevenLabs, OpenAI Whisper, Conversational AI | [🌐 Open Source](https://github.com/D-H-O-R-A/RealChar) |
 | 9 | **[Scanning-and-Detecting-3D-Objects](https://github.com/D-H-O-R-A/Scanning-and-Detecting-3D-Objects)** | Computação Espacial, GIS & 3D | Swift | Swift, ARKit, SceneKit, 3D Spatial Point Cloud Mapping | [🌐 Open Source](https://github.com/D-H-O-R-A/Scanning-and-Detecting-3D-Objects) |
 | 10 | **[SharpOSAI](https://github.com/D-H-O-R-A/SharpOSAI)** | IA, Visão & Automação | Python | Python, FastAPI, Neural Pipeline Orchestration, Task Workers | [🌐 Open Source](https://github.com/D-H-O-R-A/SharpOSAI) |
@@ -607,13 +624,13 @@ A matriz a seguir consolida **os 84 principais projetos de alta complexidade** d
 | 46 | **Futfinance** | Web3, L1/L2 & DeFi | Go / Node.js | Go, Node.js, High-Frequency Matching Engine, Redis In-Memory OrderBook, WebSockets | 🔒 Sob Contrato / Confidencial (NDA) |
 | 47 | **3Bee Exchange** | Web3, L1/L2 & DeFi | Go / PostgreSQL | Go, PostgreSQL, Redis, Multi-currency Ledger, Hot/Cold Wallet Treasury, REST/WS APIs | 🔒 Sob Contrato / Confidencial (NDA) |
 | 48 | **IO Binários** | Web3, L1/L2 & DeFi | TypeScript / C++ | Node.js, C++ Addons, High-Frequency WebSockets, Real-time Candlestick Feed, Risk Engine | 🔒 Sob Contrato / Confidencial (NDA) |
-| 49 | **Click Serviços** | Mobile & Telecom VPN | Dart / Flutter | Flutter (BloC), NestJS, PostgreSQL/PostGIS (R-Tree Index), Redis BullMQ, FCM | 🔒 Sob Contrato / Confidencial (NDA) |
-| 50 | **Inseo Web** | Mobile & Telecom VPN | TypeScript / Flutter | Flutter Mobile, Next.js, Cloud Analytics, Push Notifications, SEO Engine | 🔒 Sob Contrato / Confidencial (NDA) |
-| 51 | **Emaximóvel Imobiliária** | Mobile & Telecom VPN | Dart / Flutter | Flutter (iOS & Android), Firebase, Google Maps SDK, CRM Imobiliário Integrado | 🔒 Sob Contrato / Confidencial (NDA) |
-| 52 | **Pizza Delivery** | Mobile & Telecom VPN | Dart / Flutter | Flutter (iOS & Android), Node.js, WebSockets, Live GPS Tracking, Pix/Cartão | 🔒 Sob Contrato / Confidencial (NDA) |
-| 53 | **Petshop Delivery** | Mobile & Telecom VPN | Dart / Flutter | Flutter (iOS & Android), Firebase Cloud Firestore, Catalogo E-commerce, Push Notifications | 🔒 Sob Contrato / Confidencial (NDA) |
-| 54 | **Compass Club** | Mobile & Telecom VPN | Dart / Flutter | Flutter (iOS & Android), QR Code Access Control, Membership Rewards, Stripe | 🔒 Sob Contrato / Confidencial (NDA) |
-| 55 | **Golfe Clube** | Mobile & Telecom VPN | Dart / Flutter | Flutter (iOS & Android), Tee-Time Scheduling Algorithm, Handicap Scoring, GPS Yardage | 🔒 Sob Contrato / Confidencial (NDA) |
+| 49 | **Click Serviços** | Mobile (iOS & Android) | Dart / Flutter | Flutter (BloC), NestJS, PostgreSQL/PostGIS (R-Tree Index), Redis BullMQ, FCM | 🔒 Sob Contrato / Confidencial (NDA) |
+| 50 | **Inseo Web** | Mobile (iOS & Android) | TypeScript / Flutter | Flutter Mobile, Next.js, Cloud Analytics, Push Notifications, SEO Engine | 🔒 Sob Contrato / Confidencial (NDA) |
+| 51 | **Emaximóvel Imobiliária** | Mobile (iOS & Android) | Dart / Flutter | Flutter (iOS & Android), Firebase, Google Maps SDK, CRM Imobiliário Integrado | 🔒 Sob Contrato / Confidencial (NDA) |
+| 52 | **Pizza Delivery** | Mobile (iOS & Android) | Dart / Flutter | Flutter (iOS & Android), Node.js, WebSockets, Live GPS Tracking, Pix/Cartão | 🔒 Sob Contrato / Confidencial (NDA) |
+| 53 | **Petshop Delivery** | Mobile (iOS & Android) | Dart / Flutter | Flutter (iOS & Android), Firebase Cloud Firestore, Catalogo E-commerce, Push Notifications | 🔒 Sob Contrato / Confidencial (NDA) |
+| 54 | **Compass Club** | Mobile (iOS & Android) | Dart / Flutter | Flutter (iOS & Android), QR Code Access Control, Membership Rewards, Stripe | 🔒 Sob Contrato / Confidencial (NDA) |
+| 55 | **Golfe Clube** | Mobile (iOS & Android) | Dart / Flutter | Flutter (iOS & Android), Tee-Time Scheduling Algorithm, Handicap Scoring, GPS Yardage | 🔒 Sob Contrato / Confidencial (NDA) |
 | 56 | **Parque Estadual São João Marcos — The Game** | Computação Espacial, GIS & 3D | C# / Unity | Unity 3D, C#, Universal Render Pipeline (URP), WebGL Build, Historical Rebuild | 🔒 Sob Contrato (NDA) |
 | 57 | **SeteAlem - The game** | Computação Espacial, GIS & 3D | C# / Unity | Unity 3D, C#, Custom HLSL Shaders, Atmospheric Lighting, Narrative FSM | 🔒 Sob Contrato (NDA) |
 | 58 | **Sinuca Club** | Computação Espacial, GIS & 3D | C# / Unity | Unity 3D, C#, Rigidbody Physics Math, Real-time Multiplayer, Ball Collision | 🔒 Sob Contrato (NDA) |
@@ -632,7 +649,7 @@ A matriz a seguir consolida **os 84 principais projetos de alta complexidade** d
 | 71 | **lens_detector** | Computação Espacial, GIS & 3D | JavaScript | JavaScript, HTML5 Canvas, Optical Distortion Algorithms | 🔒 Sob Contrato / Confidencial (NDA) |
 | 72 | **METATRON** | IA, Visão & Automação | TypeScript | Next.js, Node.js, Biometria Facial / IA, PostGIS, Alertas Táticos | 🔒 Sob Contrato (NDA Governamental) |
 | 73 | **ChatBuilder (Satochat)** | IA, Visão & Automação | TypeScript | Next.js, LangChain, Embeddings, Vector Database, Cloud Functions | 🔒 Sob Contrato / Confidencial (NDA) |
-| 74 | **AuraTV** | Mobile & Telecom VPN | TypeScript / Dart | WebRTC Mesh, Firebase, Concorrência Maciça, Gamificação | 🔒 Sob Contrato / Confidencial (NDA) |
+| 74 | **AuraTV** | Mobile (iOS & Android) | TypeScript / Dart | WebRTC Mesh, Firebase, Concorrência Maciça, Gamificação | 🔒 Sob Contrato / Confidencial (NDA) |
 | 75 | **Hide-Protocol-App-VPN** | Criptografia, Segurança & RE | Dart / C | Flutter, OpenVPN, Shadowsocks/V2Ray, Stealth Tunnels, WireGuard | 🔒 Sob Contrato / Confidencial (NDA) |
 | 76 | **Laboratório Forense OmeTV** | Criptografia, Segurança & RE | JavaScript | Node.js, WebRTC Forensics, Secure WebSockets (WSS), Packet Sniffing | 🔒 Sob Contrato / Confidencial (NDA) |
 | 77 | **Engine de Derivação Criptográfica** | Criptografia, Segurança & RE | Rust / WebCrypto | Rust, Argon2id, AES-256-GCM, Constant-Time Primitives | 🔒 Sob Contrato / Confidencial (NDA) |
