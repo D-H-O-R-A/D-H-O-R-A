@@ -36,7 +36,7 @@ Filtre e explore o portfólio selecionado de projetos de alta complexidade diret
 
 | 📂 **Filtrar por Categoria** | 💻 **Filtrar por Linguagem** | 🛠️ **Filtrar por Stack / Camada** |
 |:---|:---|:---|
-| • [⛓️ Web3, DeFi & CEX](#cat-web3)<br>• [🛡️ Criptografia & Segurança](#cat-crypto)<br>• [🗺️ GIS, Cartografia & Games 3D](#cat-gis)<br>• [⚙️ Baixo Nível & Emulação](#cat-lowlevel)<br>• [🤖 IA, Visão & Automação](#cat-ai)<br>• [📱 Mobile (iOS & Android)](#cat-mobile)<br>• [🏢 Enterprise & LegalTech](#cat-enterprise) | • [🦀 Rust](#lang-rust)<br>• [📜 Scala](#lang-scala)<br>• [⚡ TypeScript / JavaScript](#lang-ts-js)<br>• [💎 Solidity & Ride](#lang-solidity-ride)<br>• [🐍 Python](#lang-python)<br>• [🦫 Go (Golang)](#lang-go)<br>• [⚙️ C & C++](#lang-cpp)<br>• [🎮 C# (Unity Game Engine)](#lang-unity)<br>• [🍎 Swift](#lang-swift)<br>• [🎯 Dart / Flutter](#lang-flutter)<br>• [☕ Java & Kotlin](#lang-java)<br>• [🐘 PHP & Shell](#lang-php) | • [🖥️ Frontend & Web3 UI](#stack-frontend)<br>• [🔌 Backend & Microserviços](#stack-backend)<br>• [🔗 Smart Contracts & Core](#stack-contracts)<br>• [📲 Mobile & Apps iOS/Android](#stack-mobile)<br>• [🌐 Bancos, GIS & Games 3D](#stack-gis)<br>• [🔒 Segurança & Hardening](#stack-security) |
+| • [⛓️ Web3, DeFi & CEX](#cat-web3)<br>• [🛡️ Criptografia & Segurança](#cat-crypto)<br>• [🗺️ GIS, Cartografia & Games 3D](#cat-gis)<br>• [⚙️ Baixo Nível & Emulação](#cat-lowlevel)<br>• [🤖 IA, Visão & Automação](#cat-ai)<br>• [📱 Mobile (iOS & Android)](#cat-mobile)<br>• [🏢 Enterprise & LegalTech](#cat-enterprise)<br>• [📦 Open Source & NPM](#cat-opensource) | • [🦀 Rust](#lang-rust)<br>• [📜 Scala](#lang-scala)<br>• [⚡ TypeScript / JavaScript](#lang-ts-js)<br>• [💎 Solidity & Ride](#lang-solidity-ride)<br>• [🐍 Python](#lang-python)<br>• [🦫 Go (Golang)](#lang-go)<br>• [⚙️ C & C++](#lang-cpp)<br>• [🎮 C# (Unity Game Engine)](#lang-unity)<br>• [🍎 Swift](#lang-swift)<br>• [🎯 Dart / Flutter](#lang-flutter)<br>• [☕ Java & Kotlin](#lang-java)<br>• [🐘 PHP & Shell](#lang-php) | • [🖥️ Frontend & Web3 UI](#stack-frontend)<br>• [🔌 Backend & Microserviços](#stack-backend)<br>• [🔗 Smart Contracts & Core](#stack-contracts)<br>• [📲 Mobile & Apps iOS/Android](#stack-mobile)<br>• [🌐 Bancos, GIS & Games 3D](#stack-gis)<br>• [🔒 Segurança & Hardening](#stack-security) |
 
 </div>
 
@@ -222,6 +222,10 @@ Especializado em assumir desafios de **extrema complexidade algorítmica e arqui
 | **Bicon Wallet** | 🔒 Sob Contrato / Confidencial (NDA) | Dart / Flutter | Flutter, Waves Protocol, Web3 Cryptography, eRWA Green Tokens, Secure Enclave | Carteira mobile Web3 pioneira (2020) voltada à proteção ambiental: cada token Bicon autenticava e registrava áreas de floresta na blockchain Waves. |
 | **Bicon Rewards** | 🔒 Sob Contrato / Confidencial (NDA) | Dart / Flutter | Flutter, Web3 Micro-rewards, Task Gamification, Escrow On-chain | Aplicativo mobile (2020) de apostas com criptoativos e tokens Bicon, com distribuição de recompensas por tarefas (estilo Google Opinion Rewards). |
 | **Bico - Serviço Extra** | 🔒 Sob Contrato / Confidencial (NDA) | Dart / Flutter | Flutter, Gateway Híbrido Fiat/Crypto, Geocoding, P2P Escrow, WebSockets | Plataforma mobile (2020) para contratação de serviços extras (estilo GetNinjas) com cobrança e liquidação instantânea em fiat ou criptoativos. |
+| **Futfinance App** | 🔒 Sob Contrato / Confidencial (NDA) | Dart / Flutter | Flutter, Go Backend, WebSockets, High-Frequency OrderBook, Pix Gateway | Aplicativo mobile oficial da exchange Futfinance: negociação em tempo real, depósitos/saques fiat Pix e livro de ofertas de alta performance. |
+| **IO Binários App** | 🔒 Sob Contrato / Confidencial (NDA) | Dart / Flutter | Flutter, C++ Engine, Real-time WebSockets, Candlestick Charting, 1-Click Execution | Aplicativo mobile de alta frequência para negociação de opções binárias e derivativos com streaming de cotações em sub-milissegundos e execução em 1 toque. |
+| **DDM Phone** | 🔒 Sob Contrato / Confidencial (NDA) | Dart / Flutter | Flutter, WebRTC, SIP / VoIP Engine, End-to-End Encryption, PBX Integration | Aplicativo corporativo mobile de comunicação VoIP e telefonia IP criptografada ponta a ponta com discagem institucional integrada ao ecossistema DDM. |
+| **Encheu App** | 🔒 Sob Contrato / Confidencial (NDA) | Dart / Flutter | Flutter, Geocoding, Digital Tickets, Postos Parceiros, QR Code Validation, Pix | Aplicativo mobile de clube de benefícios para motoristas de aplicativo (Uber/99): descontos em combustível via tickets digitais em postos de gasolina credenciados (estilo Cartão de Todos da gasolina). |
 
 <a id="cat-enterprise"></a>
 ### 🏢 Categoria 7: Plataformas Corporativas, LegalTech, GovTech & SaaS
@@ -238,6 +242,50 @@ Especializado em assumir desafios de **extrema complexidade algorítmica e arqui
 | **Planet One Official Portal** | 🔒 Sob Contrato / Confidencial (NDA) | TypeScript | Nuxt 3, Nitro, Tailwind CSS, Web3 Connectors | Portal institucional corporativo da infraestrutura blockchain Planet One para ativos ambientais. |
 | **Better2Better Website & Core** | 🔒 Sob Contrato / Confidencial (NDA) | TypeScript | Next.js, Tailwind CSS, Internationalization, B2 Ecosystem | Hub institucional e ecossistema de produtos da Better2Better. |
 | **DDM Website** | 🔒 Sob Contrato / Confidencial (NDA) | TypeScript | React, TypeScript, Cloudflare Edge, Modern Design System | Infraestrutura web corporativa institucional de alta disponibilidade. |
+| **DDM Broker** | 🔒 Sob Contrato / Confidencial (NDA) | TypeScript | React, Node.js, Financial Clearing Engine, Order Routing, Institutional Backoffice | Plataforma web institucional corporativa de corretagem, gestão de ordens, custódia e liquidação financeira do ecossistema DDM. |
+| **Encheu Web** | 🔒 Sob Contrato / Confidencial (NDA) | TypeScript | Next.js, PostgreSQL, Ticket Clearing, Financial Reconciliation, Partner Stations Hub | Plataforma web corporativa da rede Encheu para credenciamento de postos de gasolina, conciliação financeira de tickets emitidos e gestão de repasses. |
+
+<a id="cat-opensource"></a>
+### 📦 Categoria 8: Projetos Open Source, Ferramentas CLI & Pacotes NPM
+
+*Bibliotecas públicas, pacotes para gerenciadores de dependências (NPM/Crates/SwiftPM), ferramentas de linha de comando (CLI) e protocolos abertos mantidos pela comunidade.*
+
+| Projeto | Acesso / Repositório | Linguagem | Stack Principal | Destaque Técnico |
+|:---|:---:|:---:|:---|:---|
+| **[CryptoSeedRecovery](https://github.com/D-H-O-R-A/CryptoSeedRecovery)** | [🌐 NPM / GitHub](https://github.com/D-H-O-R-A/CryptoSeedRecovery) | JavaScript | BIP-39, BIP-44, Electrum, Levenshtein, Tree Pruning, SLSA 3 | Pacote NPM e ferramenta CLI de alto desempenho para restauração de sementes mnemônicas perdidas em 39 blockchains simultâneas. |
+| **[Android-real-emulator](https://github.com/D-H-O-R-A/Android-real-emulator)** | [🌐 GitHub](https://github.com/D-H-O-R-A/Android-real-emulator) | Rust | Rust, Android SDK/NDK, ARM64 Translation (libndk), Magisk | DroidRun: Runner open-source em Rust para rodar o Android Oficial em desktops com Google Play e tradução ARM64. |
+| **[codebuff](https://github.com/D-H-O-R-A/codebuff)** | [🌐 NPM / GitHub](https://github.com/D-H-O-R-A/codebuff) | TypeScript | TypeScript, Node.js, CLI Agent, LLM Code Generation | Agente CLI de terminal para geração e refatoração autônoma de código em tempo real via modelos LLM. |
+| **[AICryptoPrediction](https://github.com/D-H-O-R-A/AICryptoPrediction)** | [🌐 GitHub](https://github.com/D-H-O-R-A/AICryptoPrediction) | Python | Python, PyTorch, LSTM/Transformers, Time-Series Forecasting | Engine open-source de IA para previsão de preços de criptoativos baseada em séries temporais. |
+| **[RealChar](https://github.com/D-H-O-R-A/RealChar)** | [🌐 GitHub](https://github.com/D-H-O-R-A/RealChar) | Python / TS | Python, WebSockets, ElevenLabs, OpenAI Whisper, Conversational AI | Engine conversacional em tempo real para criação e diálogo com avatares autônomos de inteligência artificial. |
+| **[SharpOSAI](https://github.com/D-H-O-R-A/SharpOSAI)** | [🌐 GitHub](https://github.com/D-H-O-R-A/SharpOSAI) | Python | Python, FastAPI, Neural Pipeline Orchestration, Task Workers | Infraestrutura aberta em Python para orquestração de chamadas neurais e fluxos de automação cognitiva. |
+| **[arXivisual](https://github.com/D-H-O-R-A/arXivisual)** | [🌐 GitHub](https://github.com/D-H-O-R-A/arXivisual) | TypeScript | TypeScript, React, LLM Visual Summarization, TartanHacks Winner | Plataforma open-source de sumarização visual de artigos científicos através de agentes de IA (Premiado no TartanHacks). |
+| **[youtube-automation-agent](https://github.com/D-H-O-R-A/youtube-automation-agent)** | [🌐 GitHub](https://github.com/D-H-O-R-A/youtube-automation-agent) | Python | Python, YouTube Data API v3, LLM Agent, Content Pipelines | Agente autônomo open-source de inteligência artificial para automação completa de upload, otimização de SEO e gestão de canais. |
+| **[pdf-to-maps](https://github.com/D-H-O-R-A/pdf-to-maps)** | [🌐 NPM / GitHub](https://github.com/D-H-O-R-A/pdf-to-maps) | TypeScript | Three.js, WebGL, SIRGAS2000 UTM, DXF, GeoJSON, SLSA Level 3 | Compilador cartográfico 100% offline: transforma memoriais descritivos do INCRA em modelos 3D WebGL, DXF e GeoJSON em sub-segundos. |
+| **[Scanning-and-Detecting-3D-Objects](https://github.com/D-H-O-R-A/Scanning-and-Detecting-3D-Objects)** | [🌐 GitHub](https://github.com/D-H-O-R-A/Scanning-and-Detecting-3D-Objects) | Swift | Swift, ARKit, SceneKit, 3D Spatial Point Cloud Mapping | Ferramenta em Swift/ARKit para captura e persistência de nuvens de pontos 3D de objetos físicos para Realidade Aumentada. |
+| **[bulletproofs](https://github.com/D-H-O-R-A/bulletproofs)** | [🌐 GitHub](https://github.com/D-H-O-R-A/bulletproofs) | Pesquisa / ZK | Zero-Knowledge Proofs, Bulletproofs, Elliptic Curve Cryptography | Pesquisa aprofundada e implementação didático-técnica de provas de intervalo de conhecimento zero sem trusted setup. |
+| **[aoc-le32s5760-mt5880-firmware-research](https://github.com/D-H-O-R-A/aoc-le32s5760-mt5880-firmware-research)** | [🌐 GitHub](https://github.com/D-H-O-R-A/aoc-le32s5760-mt5880-firmware-research) | Python / C | MediaTek MT5880, DLM Reversing, dm-bht, MSTAR, Cryptographic Chain-of-Trust | Engenharia reversa forense em Smart TV: análise de cadeias de confiança criptográfica, containers DLM e partições mtd12. |
+| **[BlackServerOS](https://github.com/D-H-O-R-A/BlackServerOS)** | [🌐 GitHub](https://github.com/D-H-O-R-A/BlackServerOS) | Shell | Bash, Linux Kernel Hardening, Minimal Security Appliance | Scripts e automação open-source para compilação de appliance Linux minimalista de alta segurança para servidores de missão crítica. |
+| **[b2-wallet](https://github.com/D-H-O-R-A/b2-wallet)** | [🌐 GitHub](https://github.com/D-H-O-R-A/b2-wallet) | JavaScript | React, Vite, WebCrypto AES-256-GCM, Argon2id KDF, Ledger SDK | B2 Wallet: Carteira institucional de auto-custódia multi-chain open-source (39+ redes), hardware wallet WebUSB e criptografia avançada. |
+| **[bot-alias-waves](https://github.com/D-H-O-R-A/bot-alias-waves)** | [🌐 GitHub](https://github.com/D-H-O-R-A/bot-alias-waves) | JavaScript | Node.js, Waves API, Mass Transactions, Asynchronous Queue | Bot open-source de alta vazão para registro e submissão em lote de transações de apelidos (alias) no protocolo Waves. |
+| **[consensus](https://github.com/D-H-O-R-A/consensus)** | [🌐 GitHub](https://github.com/D-H-O-R-A/consensus) | Swift | Swift, Distributed Systems, PoW, PoS, DPoS, PoH, LPoS | Implementação e benchmark comparativo dos principais algoritmos de consenso distribuído em Swift puro. |
+| **[gic-sports-website](https://github.com/D-H-O-R-A/gic-sports-website)** | [🌐 GitHub](https://github.com/D-H-O-R-A/gic-sports-website) | TypeScript | TypeScript, React, Next.js, Web3 Connectors | Portal web para emissão e gestão de ativos digitais de atletas e entidades desportivas. |
+| **[gicwalletpro](https://github.com/D-H-O-R-A/gicwalletpro)** | [🌐 GitHub](https://github.com/D-H-O-R-A/gicwalletpro) | TypeScript | TypeScript, Chrome Extension Manifest V3, Web3 Injection | GIC Wallet Pro: Extensão open-source de navegador para interação com a rede corporativa GIC Blockchain. |
+| **[guaranteed-swap](https://github.com/D-H-O-R-A/guaranteed-swap)** | [🌐 GitHub](https://github.com/D-H-O-R-A/guaranteed-swap) | JavaScript | Web3.js, Atomic Swaps, Liquidity Balancing, Ethers.js | Mecanismo open-source de swap atômico garantido sem intermediários para trocas descentralizadas entre pares. |
+| **[matcher](https://github.com/D-H-O-R-A/matcher)** | [🌐 GitHub](https://github.com/D-H-O-R-A/matcher) | Scala | Scala, Akka Streams, High-Frequency Matching Engine | Engine descentralizado open-source de correspondência e liquidação de ordens financeiras em nós Waves. |
+| **[matcher_amzx](https://github.com/D-H-O-R-A/matcher_amzx)** | [🌐 GitHub](https://github.com/D-H-O-R-A/matcher_amzx) | Scala | Scala, LevelDB, High-Throughput DEX Matcher, AMZX | Mecanismo de cruzamento de ofertas de alta performance para a DEX oficial da rede AMZX. |
+| **[paychain](https://github.com/D-H-O-R-A/paychain)** | [🌐 GitHub](https://github.com/D-H-O-R-A/paychain) | Go / Rust | Go, Distributed Ledger, Instant Finality, Private Transactions | Blockchain em Go orientada a pagamentos corporativos de alta velocidade com privacidade de dados e microtaxas. |
+| **[planetone-explorer](https://github.com/D-H-O-R-A/planetone-explorer)** | [🌐 GitHub](https://github.com/D-H-O-R-A/planetone-explorer) | TypeScript | React, TypeScript, Tailwind CSS, WebSockets, Carbon Data | Explorador em tempo real da blockchain Planet One para monitoramento de ativos ambientais (eRWA) e nós validadores. |
+| **[proxy-gic-metamask](https://github.com/D-H-O-R-A/proxy-gic-metamask)** | [🌐 GitHub](https://github.com/D-H-O-R-A/proxy-gic-metamask) | JavaScript | Node.js, gRPC, GoWaves, JSON-RPC Shim, MetaMask / Trust Wallet | Camada de compatibilidade (RPC proxy) que permite conectar MetaMask e Trust Wallet a blockchains GoWaves. |
+| **[solana-stake](https://github.com/D-H-O-R-A/solana-stake)** | [🌐 GitHub](https://github.com/D-H-O-R-A/solana-stake) | JavaScript | Solana Web3.js, Anchor, SPL Tokens, Staking Rewards | Aplicação open-source de staking descentralizado nativa da rede Solana para rendimento e bloqueio de tokens SPL. |
+| **[solidity-defi](https://github.com/D-H-O-R-A/solidity-defi)** | [🌐 GitHub](https://github.com/D-H-O-R-A/solidity-defi) | Solidity | Solidity, Hardhat, Foundry, OpenZeppelin, DeFi Primitives | Suíte completa de contratos inteligentes em Solidity para operações de finanças descentralizadas (Staking, Vaults, Swaps). |
+| **[swopfi-smart-contracts](https://github.com/D-H-O-R-A/swopfi-smart-contracts)** | [🌐 GitHub](https://github.com/D-H-O-R-A/swopfi-smart-contracts) | Ride | Ride, AMM (Automated Market Maker), Liquidity Pools, Waves | Contratos inteligentes open-source em Ride para formadores de mercado automatizados (AMM) e swaps descentralizados. |
+| **[ym-explorer](https://github.com/D-H-O-R-A/ym-explorer)** | [🌐 GitHub](https://github.com/D-H-O-R-A/ym-explorer) | TypeScript | TypeScript, React, Next.js, Blockchain Ledger Explorer | Explorador de blocos e transações de ativos desportivos tokenizados da rede Young Market. |
+| **[ymcore](https://github.com/D-H-O-R-A/ymcore)** | [🌐 GitHub](https://github.com/D-H-O-R-A/ymcore) | Go | Go (Golang), gRPC, LevelDB, Young Market Core Daemon | Implementação em Go do daemon de nó e bibliotecas de baixo nível para a rede Young Market. |
+| **[Waves](https://github.com/D-H-O-R-A/Waves)** | [🌐 GitHub](https://github.com/D-H-O-R-A/Waves) | Scala | Scala, Akka, Blockchain Node, Waves Protocol Reference | Nó oficial de referência da blockchain Waves: protocolo de consenso, verificação de blocos e máquina de estados. |
+| **[AnyStakeProtocol](https://github.com/D-H-O-R-A/AnyStakeProtocol)** | [🌐 GitHub](https://github.com/D-H-O-R-A/AnyStakeProtocol) | Solidity | Solidity, Hardhat, Multi-Token Staking, EVM | Protocolo descentralizado open-source de staking flexível com suporte a múltiplos ativos ERC-20 e yield distribuído. |
+| **[NOrange](https://github.com/D-H-O-R-A/NOrange)** | [🌐 GitHub](https://github.com/D-H-O-R-A/NOrange) | Java | Android SDK, OpenVPN Core, Tun2Socks, HTTP/SOCKS5 Proxy, Hotspot | Suíte tática de privacidade e rede para Android: cliente OpenVPN, servidor proxy local e gateway hotspot sem root. |
+| **[Fluxx](https://github.com/D-H-O-R-A/Fluxx)** | [🌐 GitHub](https://github.com/D-H-O-R-A/Fluxx) | Dart / Flutter | Flutter, Dart, SQLite, Responsive UI | Aplicativo mobile open-source para controle e inteligência financeira pessoal com gráficos interativos e relatórios offline. |
+| **[Subway-money](https://github.com/D-H-O-R-A/Subway-money)** | [🌐 GitHub](https://github.com/D-H-O-R-A/Subway-money) | PHP | PHP 8, MySQL, Payment Gateway Integration, Pix Webhooks | Backend financeiro open-source para processamento instantâneo de depósitos e saques em jogos transacionais. |
 
 ---
 
@@ -269,7 +317,7 @@ Expanda os painéis abaixo para inspecionar os projetos por stack de linguagem:
 </details>
 
 <details>
-<summary><a id="lang-ts-js"></a><h3>⚡ TypeScript & JavaScript (30 Projetos) — Clique para Expandir</h3></summary>
+<summary><a id="lang-ts-js"></a><h3>⚡ TypeScript & JavaScript (32 Projetos) — Clique para Expandir</h3></summary>
 
 | Projeto | Status / Acesso | Categoria | Descrição Técnica |
 |:---|:---:|:---|:---|
@@ -303,6 +351,8 @@ Expanda os painéis abaixo para inspecionar os projetos por stack de linguagem:
 | **Planet One Official Portal** | 🔒 Sob Contrato / Confidencial (NDA) | Enterprise & Web Corporativa | Portal institucional corporativo da infraestrutura blockchain Planet One para ativos ambientais. |
 | **Better2Better Website & Core** | 🔒 Sob Contrato / Confidencial (NDA) | Enterprise & Web Corporativa | Hub institucional e ecossistema de produtos da Better2Better. |
 | **DDM Website** | 🔒 Sob Contrato / Confidencial (NDA) | Enterprise & Web Corporativa | Infraestrutura web corporativa institucional de alta disponibilidade. |
+| **DDM Broker** | 🔒 Sob Contrato / Confidencial (NDA) | Enterprise & Web Corporativa | Plataforma web institucional corporativa de corretagem, gestão de ordens, custódia e liquidação financeira. |
+| **Encheu Web** | 🔒 Sob Contrato / Confidencial (NDA) | Enterprise & Web Corporativa | Plataforma web corporativa da rede Encheu para credenciamento de postos, conciliação de tickets e repasses. |
 
 </details>
 
@@ -388,7 +438,7 @@ Expanda os painéis abaixo para inspecionar os projetos por stack de linguagem:
 </details>
 
 <details>
-<summary><a id="lang-flutter"></a><h3>🎯 Dart / Flutter (iOS & Android) (14 Projetos) — Clique para Expandir</h3></summary>
+<summary><a id="lang-flutter"></a><h3>🎯 Dart / Flutter (iOS & Android) (18 Projetos) — Clique para Expandir</h3></summary>
 
 | Projeto | Status / Acesso | Categoria | Descrição Técnica |
 |:---|:---:|:---|:---|
@@ -406,6 +456,10 @@ Expanda os painéis abaixo para inspecionar os projetos por stack de linguagem:
 | **Bicon Wallet** | 🔒 Sob Contrato / Confidencial (NDA) | Mobile (iOS & Android) | Carteira mobile Web3 pioneira (2020) voltada à proteção ambiental: registro e autenticação de florestas na blockchain Waves via tokens Bicon. |
 | **Bicon Rewards** | 🔒 Sob Contrato / Confidencial (NDA) | Mobile (iOS & Android) | Aplicativo mobile (2020) de apostas com criptoativos e tokens Bicon, com distribuição de recompensas por tarefas (estilo Google Opinion Rewards). |
 | **Bico - Serviço Extra** | 🔒 Sob Contrato / Confidencial (NDA) | Mobile (iOS & Android) | Plataforma mobile (2020) de contratação de serviços extras (estilo GetNinjas) com cobrança e liquidação em fiat ou criptoativos. |
+| **Futfinance App** | 🔒 Sob Contrato / Confidencial (NDA) | Mobile (iOS & Android) | Aplicativo mobile oficial da exchange Futfinance: negociação em tempo real, depósitos/saques fiat Pix e livro de ofertas de alta performance. |
+| **IO Binários App** | 🔒 Sob Contrato / Confidencial (NDA) | Mobile (iOS & Android) | Aplicativo mobile de alta frequência para negociação de opções binárias e derivativos com streaming de cotações em sub-milissegundos e execução em 1 toque. |
+| **DDM Phone** | 🔒 Sob Contrato / Confidencial (NDA) | Mobile (iOS & Android) | Aplicativo corporativo mobile de comunicação VoIP e telefonia IP criptografada ponta a ponta com discagem institucional integrada ao ecossistema DDM. |
+| **Encheu App** | 🔒 Sob Contrato / Confidencial (NDA) | Mobile (iOS & Android) | Aplicativo mobile de clube de benefícios para motoristas de aplicativo (Uber/99): descontos em combustível via tickets digitais em postos de gasolina credenciados (estilo Cartão de Todos da gasolina). |
 
 </details>
 
@@ -435,7 +489,7 @@ Expanda os painéis abaixo para inspecionar os projetos por stack de linguagem:
 ## 🛠️ 3. Filtro Interativo por Stack & Camada de Arquitetura
 
 <details>
-<summary><a id="stack-frontend"></a><h3>🖥️ Frontend & Interfaces Web3 (15 Projetos) — Clique para Expandir</h3></summary>
+<summary><a id="stack-frontend"></a><h3>🖥️ Frontend & Interfaces Web3 (17 Projetos) — Clique para Expandir</h3></summary>
 
 *Aplicações de ponta em React 18/19, Next.js, Vite, Three.js, WebGL e Tailwind CSS.*
 
@@ -456,6 +510,8 @@ Expanda os painéis abaixo para inspecionar os projetos por stack de linguagem:
 | **Planet One Official Portal** | TypeScript | 🔒 Sob Contrato / Confidencial (NDA) | Portal institucional corporativo da infraestrutura blockchain Planet One para ativos ambientais. |
 | **Better2Better Website & Core** | TypeScript | 🔒 Sob Contrato / Confidencial (NDA) | Hub institucional e ecossistema de produtos da Better2Better. |
 | **DDM Website** | TypeScript | 🔒 Sob Contrato / Confidencial (NDA) | Infraestrutura web corporativa institucional de alta disponibilidade. |
+| **DDM Broker** | TypeScript | 🔒 Sob Contrato / Confidencial (NDA) | Plataforma web institucional corporativa de corretagem, gestão de ordens, custódia e liquidação financeira. |
+| **Encheu Web** | TypeScript | 🔒 Sob Contrato / Confidencial (NDA) | Plataforma web corporativa da rede Encheu para credenciamento de postos, conciliação de tickets e repasses. |
 
 </details>
 
@@ -521,7 +577,7 @@ Expanda os painéis abaixo para inspecionar os projetos por stack de linguagem:
 </details>
 
 <details>
-<summary><a id="stack-mobile"></a><h3>📲 Mobile & Apps iOS/Android (13 Projetos) — Clique para Expandir</h3></summary>
+<summary><a id="stack-mobile"></a><h3>📲 Mobile & Apps iOS/Android (17 Projetos) — Clique para Expandir</h3></summary>
 
 *Aplicações nativas e cross-platform em Flutter, Dart, Android Nativo (Java), VpnService e WebSockets em tempo real.*
 
@@ -540,6 +596,10 @@ Expanda os painéis abaixo para inspecionar os projetos por stack de linguagem:
 | **Bicon Wallet** | Dart / Flutter | 🔒 Sob Contrato / Confidencial (NDA) | Carteira mobile Web3 pioneira (2020) para preservação ambiental: registro e autenticação de florestas na blockchain Waves via tokens Bicon. |
 | **Bicon Rewards** | Dart / Flutter | 🔒 Sob Contrato / Confidencial (NDA) | Aplicativo mobile (2020) de apostas com criptoativos e tokens Bicon, com distribuição de recompensas por tarefas (estilo Google Opinion Rewards). |
 | **Bico - Serviço Extra** | Dart / Flutter | 🔒 Sob Contrato / Confidencial (NDA) | Plataforma mobile (2020) de contratação de serviços extras (estilo GetNinjas) com cobrança e liquidação instantânea em fiat ou criptoativos. |
+| **Futfinance App** | Dart / Flutter | 🔒 Sob Contrato / Confidencial (NDA) | Aplicativo mobile oficial da exchange Futfinance: negociação em tempo real, depósitos/saques fiat Pix e livro de ofertas de alta performance. |
+| **IO Binários App** | Dart / Flutter | 🔒 Sob Contrato / Confidencial (NDA) | Aplicativo mobile de alta frequência para negociação de opções binárias e derivativos com streaming de cotações em sub-milissegundos e execução em 1 toque. |
+| **DDM Phone** | Dart / Flutter | 🔒 Sob Contrato / Confidencial (NDA) | Aplicativo corporativo mobile de comunicação VoIP e telefonia IP criptografada ponta a ponta com discagem institucional integrada ao ecossistema DDM. |
+| **Encheu App** | Dart / Flutter | 🔒 Sob Contrato / Confidencial (NDA) | Aplicativo mobile de clube de benefícios para motoristas de aplicativo (Uber/99): descontos em combustível via tickets digitais em postos de gasolina credenciados (estilo Cartão de Todos da gasolina). |
 
 </details>
 
@@ -585,9 +645,9 @@ Expanda os painéis abaixo para inspecionar os projetos por stack de linguagem:
 ---
 
 <a id="tabela-mestra"></a>
-## 📊 Matriz Geral de Todos os Projetos (88 Sistemas Selecionados)
+## 📊 Matriz Geral de Todos os Projetos (94 Sistemas Selecionados)
 
-A matriz a seguir consolida **os 88 principais projetos de alta complexidade** desenvolvidos, mantidos e liderados tecnicamente por Diego Antunes. Repositórios de código aberto possuem links diretos de acesso; projetos confidenciais sob contrato corporativo/NDA estão protegidos por sigilo contratual conforme as normas vigentes:
+A matriz a seguir consolida **os 94 principais projetos de alta complexidade** desenvolvidos, mantidos e liderados tecnicamente por Diego Antunes. Repositórios de código aberto possuem links diretos de acesso; projetos confidenciais sob contrato corporativo/NDA estão protegidos por sigilo contratual conforme as normas vigentes:
 
 | # | Projeto | Categoria Principal | Linguagem | Stack Tecnológica | Status & Acesso |
 |:---:|:---|:---|:---:|:---|:---:|
@@ -679,6 +739,12 @@ A matriz a seguir consolida **os 88 principais projetos de alta complexidade** d
 | 86 | **Bico - Serviço Extra** | Mobile (iOS & Android) | Dart / Flutter | Flutter, Gateway Híbrido Fiat/Crypto, Geocoding, P2P Escrow, WebSockets (2020) | 🔒 Sob Contrato / Confidencial (NDA) |
 | 87 | **Axio AI** | IA, Visão & Automação | Python / TypeScript | Python, FastAPI, React, LLM Multi-modal Inference, Diffusion Models, Vector RAG (2023) | 🔒 Sob Contrato / Confidencial (NDA) |
 | 88 | **Web3OS** | Sistemas de Baixo Nível & Emulação | Shell / Linux | openSUSE, Custom Linux Kernel, Web3 Developer Stack, Embedded Node & Wallets | 🔒 Sob Contrato / Confidencial (NDA) |
+| 89 | **Futfinance App** | Mobile (iOS & Android) | Dart / Flutter | Flutter, Go Backend, WebSockets, High-Frequency OrderBook, Pix Gateway | 🔒 Sob Contrato / Confidencial (NDA) |
+| 90 | **IO Binários App** | Mobile (iOS & Android) | Dart / Flutter | Flutter, C++ Engine, Real-time WebSockets, Candlestick Charting, 1-Click Execution | 🔒 Sob Contrato / Confidencial (NDA) |
+| 91 | **DDM Phone** | Mobile (iOS & Android) | Dart / Flutter | Flutter, WebRTC, SIP / VoIP Engine, End-to-End Encryption, PBX Integration | 🔒 Sob Contrato / Confidencial (NDA) |
+| 92 | **DDM Broker** | Enterprise & Web Corporativa | TypeScript | React, Node.js, Financial Clearing Engine, Order Routing, Institutional Backoffice | 🔒 Sob Contrato / Confidencial (NDA) |
+| 93 | **Encheu App** | Mobile (iOS & Android) | Dart / Flutter | Flutter, Geocoding, Digital Tickets, Postos Parceiros, QR Code Validation, Pix | 🔒 Sob Contrato / Confidencial (NDA) |
+| 94 | **Encheu Web** | Enterprise & Web Corporativa | TypeScript | Next.js, PostgreSQL, Ticket Clearing, Financial Reconciliation, Partner Stations Hub | 🔒 Sob Contrato / Confidencial (NDA) |
 
 ---
 
