@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://diegooris.ch/"><img src="https://img.shields.io/badge/Portfolio%20Oficial-diegooris.ch-00f2fe?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://wa.me/5511974289097"><img src="https://img.shields.io/badge/WhatsApp-Direto-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
-  <a href="https://www.linkedin.com/in/diegoorisderoa/"><img src="https://img.shields.io/badge/LinkedIn-Perfil%20Executivo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/diegoorisderoa/"><img src="https://img.shields.io/badge/LinkedIn-Diego%20Antunes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.youtube.com/@GraphTechChannel"><img src="https://img.shields.io/badge/YouTube-Graph%20Tech%20Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Graph Tech Channel" /></a>
   <a href="https://diegoorisderoa.medium.com/"><img src="https://img.shields.io/badge/Medium-Artigos%20T%C3%A9cnicos-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
 </p>
@@ -71,18 +71,18 @@ Os quatro pilares técnicos de engenharia em destaque no ecossistema:
 
 ---
 
-## 👨‍💻 Sobre Mim & Bagagem Profissional
+## 👨‍💻 Sobre Mim & Trajetória
 
-Engenheiro de Software Sênior, Arquiteto de Sistemas e Empreendedor Técnico com **mais de 8 anos de experiência contínua em produção** e **mais de 100 projetos desenvolvidos**. Atuação global cobrindo clientes corporativos, startups de hiper-crescimento e governos em mais de 10 países: **Suíça, Estados Unidos, Alemanha, França, China, Brasil, Argentina, Rússia e Ucrânia**.
+Engenheiro de Software Sênior, Arquiteto de Sistemas e Empreendedor Técnico com **mais de 8 anos de experiência contínua em produção** e **mais de 100 projetos desenvolvidos**. Atuação global cobrindo clientes corporativos, startups de alto crescimento e governos em mais de 10 países: **Suíça, Estados Unidos, Alemanha, França, China, Brasil, Argentina, Rússia e Ucrânia**.
 
-Especializado em assumir desafios de **extrema complexidade algorítmica e arquitetural**, transformando conceitos greenfield em **MVPs robustos de nível de produção em 3 a 8 semanas** — aplicando princípios de *Zero-Rewrite Architecture* (Domain-Driven Design, contratos tipados rigorosos e isolamento modular de domínio) para que a aplicação suporte escala corporativa desde o primeiro bloco de código.
+Especializado em assumir desafios de **extrema complexidade algorítmica e arquitetural**, transformando conceitos greenfield em **MVPs em produção em 3 a 8 semanas** — aplicando princípios de *Zero-Rewrite Architecture* (Domain-Driven Design, contratos tipados rigorosos e isolamento modular de domínio) para que a aplicação suporte escala desde o primeiro bloco de código.
 
-### 🏛️ Validações Executivas & Prova Social de Alto Impacto
+### 🏛️ Casos Reais & Entregas de Alto Impacto
 *   **Brunet (Inventor Suíço & Empreendedor de Alta Tecnologia):**  
     *Contexto:* Mais de 4 milhões de dólares/francos suíços haviam sido investidos ao longo de 6 anos com equipes do Vale do Silício e agências internacionais sem atingir a solução técnica viável para um deadlock algorítmico crítico.  
     *Resultado:* Diego assumiu o projeto de forma autônoma e desenvolveu a resolução completa de arquitetura e engenharia em 1 ano.  
     *Verificação Pública:* [Instagram Oficial do Brunet](https://www.instagram.com/brunet_inventor/).
-*   **Cássio Alvarenga (Investidor & Executivo do Mercado Financeiro, Dubai / Emirados Árabes Unidos):**  
+*   **Cássio Alvarenga (Investidor do Mercado Financeiro, Dubai / Emirados Árabes Unidos):**  
     *Contexto:* Atuação como Fractional CTO da Amazonic One em sprint intensivo para desenhar a custódia descentralizada e a tokenização de créditos de carbono (eRWA).  
     *Resultado:* Entrega rigorosa da infraestrutura blockchain, explorador de ledger e suíte de carteiras institucionais no prazo.  
     *Verificação Pública:* [LinkedIn de Cássio Alvarenga](https://www.linkedin.com/in/cassioalvarenga/).
@@ -244,6 +244,8 @@ Especializado em assumir desafios de **extrema complexidade algorítmica e arqui
 | **DDM Website** | 🔒 Sob Contrato / Confidencial (NDA) | TypeScript | React, TypeScript, Cloudflare Edge, Modern Design System | Infraestrutura web corporativa institucional de alta disponibilidade. |
 | **DDM Broker** | 🔒 Sob Contrato / Confidencial (NDA) | TypeScript | React, Node.js, Financial Clearing Engine, Order Routing, Institutional Backoffice | Plataforma web institucional corporativa de corretagem, gestão de ordens, custódia e liquidação financeira do ecossistema DDM. |
 | **Encheu Web** | 🔒 Sob Contrato / Confidencial (NDA) | TypeScript | Next.js, PostgreSQL, Ticket Clearing, Financial Reconciliation, Partner Stations Hub | Plataforma web corporativa da rede Encheu para credenciamento de postos de gasolina, conciliação financeira de tickets emitidos e gestão de repasses. |
+| **Summit Prime** | 🔒 Sob Contrato / Confidencial (NDA) | TypeScript | React, Next.js, Node.js, Swiss Cloud Infrastructure, Enterprise Security | Plataforma corporativa e infraestrutura digital da Summit Prime, hub suíço de engenharia de software e tecnologia corporativa. |
+| **Mamba Agência** | 🔒 Sob Contrato / Confidencial (NDA) | TypeScript | Next.js, Node.js, Social Media API Auth, Task Verification, Automated Micro-rewards | Plataforma e ecossistema digital para intermediação e crescimento de seguidores em redes sociais com consentimento dos usuários e recompensas automatizadas por engajamento e tarefas concluídas. |
 
 <a id="cat-opensource"></a>
 ### 📦 Categoria 8: Projetos Open Source, Ferramentas CLI & Pacotes NPM
@@ -317,7 +319,7 @@ Expanda os painéis abaixo para inspecionar os projetos por stack de linguagem:
 </details>
 
 <details>
-<summary><a id="lang-ts-js"></a><h3>⚡ TypeScript & JavaScript (32 Projetos) — Clique para Expandir</h3></summary>
+<summary><a id="lang-ts-js"></a><h3>⚡ TypeScript & JavaScript (34 Projetos) — Clique para Expandir</h3></summary>
 
 | Projeto | Status / Acesso | Categoria | Descrição Técnica |
 |:---|:---:|:---|:---|
@@ -353,6 +355,8 @@ Expanda os painéis abaixo para inspecionar os projetos por stack de linguagem:
 | **DDM Website** | 🔒 Sob Contrato / Confidencial (NDA) | Enterprise & Web Corporativa | Infraestrutura web corporativa institucional de alta disponibilidade. |
 | **DDM Broker** | 🔒 Sob Contrato / Confidencial (NDA) | Enterprise & Web Corporativa | Plataforma web institucional corporativa de corretagem, gestão de ordens, custódia e liquidação financeira. |
 | **Encheu Web** | 🔒 Sob Contrato / Confidencial (NDA) | Enterprise & Web Corporativa | Plataforma web corporativa da rede Encheu para credenciamento de postos, conciliação de tickets e repasses. |
+| **Summit Prime** | 🔒 Sob Contrato / Confidencial (NDA) | Enterprise & Web Corporativa | Plataforma corporativa e infraestrutura digital da Summit Prime, hub suíço de tecnologia corporativa. |
+| **Mamba Agência** | 🔒 Sob Contrato / Confidencial (NDA) | Enterprise & Web Corporativa | Plataforma digital para intermediação e crescimento de seguidores com consentimento e recompensas automatizadas. |
 
 </details>
 
@@ -489,7 +493,7 @@ Expanda os painéis abaixo para inspecionar os projetos por stack de linguagem:
 ## 🛠️ 3. Filtro Interativo por Stack & Camada de Arquitetura
 
 <details>
-<summary><a id="stack-frontend"></a><h3>🖥️ Frontend & Interfaces Web3 (17 Projetos) — Clique para Expandir</h3></summary>
+<summary><a id="stack-frontend"></a><h3>🖥️ Frontend & Interfaces Web3 (19 Projetos) — Clique para Expandir</h3></summary>
 
 *Aplicações de ponta em React 18/19, Next.js, Vite, Three.js, WebGL e Tailwind CSS.*
 
@@ -512,6 +516,8 @@ Expanda os painéis abaixo para inspecionar os projetos por stack de linguagem:
 | **DDM Website** | TypeScript | 🔒 Sob Contrato / Confidencial (NDA) | Infraestrutura web corporativa institucional de alta disponibilidade. |
 | **DDM Broker** | TypeScript | 🔒 Sob Contrato / Confidencial (NDA) | Plataforma web institucional corporativa de corretagem, gestão de ordens, custódia e liquidação financeira. |
 | **Encheu Web** | TypeScript | 🔒 Sob Contrato / Confidencial (NDA) | Plataforma web corporativa da rede Encheu para credenciamento de postos, conciliação de tickets e repasses. |
+| **Summit Prime** | TypeScript | 🔒 Sob Contrato / Confidencial (NDA) | Plataforma corporativa e infraestrutura digital da Summit Prime, hub suíço de tecnologia corporativa. |
+| **Mamba Agência** | TypeScript | 🔒 Sob Contrato / Confidencial (NDA) | Plataforma digital para intermediação e crescimento de seguidores com consentimento e recompensas automatizadas. |
 
 </details>
 
@@ -645,9 +651,9 @@ Expanda os painéis abaixo para inspecionar os projetos por stack de linguagem:
 ---
 
 <a id="tabela-mestra"></a>
-## 📊 Matriz Geral de Todos os Projetos (94 Sistemas Selecionados)
+## 📊 Matriz Geral de Todos os Projetos (96 Sistemas Selecionados)
 
-A matriz a seguir consolida **os 94 principais projetos de alta complexidade** desenvolvidos, mantidos e liderados tecnicamente por Diego Antunes. Repositórios de código aberto possuem links diretos de acesso; projetos confidenciais sob contrato corporativo/NDA estão protegidos por sigilo contratual conforme as normas vigentes:
+A matriz a seguir consolida **os 96 principais projetos de alta complexidade** desenvolvidos, mantidos e liderados tecnicamente por Diego Antunes. Repositórios de código aberto possuem links diretos de acesso; projetos confidenciais sob contrato corporativo/NDA estão protegidos por sigilo contratual conforme as normas vigentes:
 
 | # | Projeto | Categoria Principal | Linguagem | Stack Tecnológica | Status & Acesso |
 |:---:|:---|:---|:---:|:---|:---:|
@@ -745,6 +751,8 @@ A matriz a seguir consolida **os 94 principais projetos de alta complexidade** d
 | 92 | **DDM Broker** | Enterprise & Web Corporativa | TypeScript | React, Node.js, Financial Clearing Engine, Order Routing, Institutional Backoffice | 🔒 Sob Contrato / Confidencial (NDA) |
 | 93 | **Encheu App** | Mobile (iOS & Android) | Dart / Flutter | Flutter, Geocoding, Digital Tickets, Postos Parceiros, QR Code Validation, Pix | 🔒 Sob Contrato / Confidencial (NDA) |
 | 94 | **Encheu Web** | Enterprise & Web Corporativa | TypeScript | Next.js, PostgreSQL, Ticket Clearing, Financial Reconciliation, Partner Stations Hub | 🔒 Sob Contrato / Confidencial (NDA) |
+| 95 | **Summit Prime** | Enterprise & Web Corporativa | TypeScript | React, Next.js, Node.js, Swiss Cloud Infrastructure, Enterprise Security | 🔒 Sob Contrato / Confidencial (NDA) |
+| 96 | **Mamba Agência** | Enterprise & Web Corporativa | TypeScript | Next.js, Node.js, Social Media API Auth, Task Verification, Automated Micro-rewards | 🔒 Sob Contrato / Confidencial (NDA) |
 
 ---
 
